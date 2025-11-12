@@ -1,0 +1,2876 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BDN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.93" xsi:noNamespaceSchemaLocation="BD-03-006-0093b BDN File Format.xsd">
+  <Description>
+    <Name Title="subtitle" Content="" />
+    <Language Code="zho" />
+    <Format VideoFormat="480i" FrameRate="25" DropFrame="False" />
+    <Events Type="Graphic" FirstEventInTC="00:02:06:11" LastEventOutTC="01:29:28:23" NumberofEvents="955" />
+  </Description>
+  <Events>
+    <Event InTC="00:02:06:11" OutTC="00:02:07:17" Forced="False">
+      <Graphic Width="86" Height="37" X="311" Y="407">奇克!</Graphic>
+    </Event>
+    <Event InTC="00:02:11:20" OutTC="00:02:16:06" Forced="False">
+      <Graphic Width="228" Height="35" X="248" Y="407">片名:再見柏林</Graphic>
+    </Event>
+    <Event InTC="00:02:27:11" OutTC="00:02:28:24" Forced="False">
+      <Graphic Width="424" Height="37" X="148" Y="407">其實,要不是塔蒂安娜的關係</Graphic>
+    </Event>
+    <Event InTC="00:02:28:24" OutTC="00:02:30:18" Forced="False">
+      <Graphic Width="229" Height="36" X="246" Y="407">我也不會在這裡</Graphic>
+    </Event>
+    <Event InTC="00:02:32:01" OutTC="00:02:35:03" Forced="False">
+      <Graphic Width="455" Height="37" X="133" Y="407">不過她跟整件事一點關係都沒有</Graphic>
+    </Event>
+    <Event InTC="00:02:35:18" OutTC="00:02:37:24" Forced="False">
+      <Graphic Width="287" Height="36" X="213" Y="407">我說的很難理解嗎?</Graphic>
+    </Event>
+    <Event InTC="00:02:39:17" OutTC="00:02:41:14" Forced="False">
+      <Graphic Width="130" Height="36" X="295" Y="407">不好意思</Graphic>
+    </Event>
+    <Event InTC="00:02:43:20" OutTC="00:02:46:17" Forced="False">
+      <Graphic Width="360" Height="37" X="179" Y="407">塔蒂安娜根本不在故事裡</Graphic>
+    </Event>
+    <Event InTC="00:02:47:02" OutTC="00:02:49:06" Forced="False">
+      <Graphic Width="355" Height="37" X="179" Y="407">地表第一正妹沒攪和在内</Graphic>
+    </Event>
+    <Event InTC="00:02:50:05" OutTC="00:02:51:07" Forced="False">
+      <Graphic Width="129" Height="36" X="294" Y="407">我的假期</Graphic>
+    </Event>
+    <Event InTC="00:02:51:24" OutTC="00:02:55:18" Forced="False">
+      <Graphic Width="394" Height="37" X="163" Y="407">去年夏天,我們去海邊度假</Graphic>
+    </Event>
+    <Event InTC="00:02:56:08" OutTC="00:02:58:19" Forced="False">
+      <Graphic Width="294" Height="36" X="213" Y="407">我們受困在橡皮艇上</Graphic>
+    </Event>
+    <Event InTC="00:02:59:04" OutTC="00:03:01:24" Forced="False">
+      <Graphic Width="162" Height="36" X="280" Y="407">槳掉進水裡</Graphic>
+    </Event>
+    <Event InTC="00:03:02:12" OutTC="00:03:04:06" Forced="False">
+      <Graphic Width="194" Height="37" X="264" Y="407">太陽變得很大</Graphic>
+    </Event>
+    <Event InTC="00:03:04:20" OutTC="00:03:09:00" Forced="False">
+      <Graphic Width="324" Height="36" X="198" Y="407">幸虧海巡人員救了我們</Graphic>
+    </Event>
+    <Event InTC="00:03:09:00" OutTC="00:03:09:21" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">麥克</Graphic>
+    </Event>
+    <Event InTC="00:03:09:21" OutTC="00:03:13:05" Forced="False">
+      <Graphic Width="394" Height="36" X="163" Y="407">他們救我們脫困,謝天謝地</Graphic>
+    </Event>
+    <Event InTC="00:03:13:22" OutTC="00:03:16:08" Forced="False">
+      <Graphic Width="322" Height="36" X="200" Y="407">賈斯汀,下次要多加油</Graphic>
+    </Event>
+    <Event InTC="00:03:18:21" OutTC="00:03:20:09" Forced="False">
+      <Graphic Width="296" Height="37" X="220" Y="407">(給娜塔莉) -坐吧</Graphic>
+    </Event>
+    <Event InTC="00:03:22:03" OutTC="00:03:24:18" Forced="False">
+      <Graphic Width="189" Height="35" X="262" Y="408">下一個是誰?</Graphic>
+    </Event>
+    <Event InTC="00:03:24:18" OutTC="00:03:26:24" Forced="False">
+      <Graphic Width="425" Height="36" X="147" Y="407">「我再過三禮拜就要過生日了」</Graphic>
+    </Event>
+    <Event InTC="00:03:26:24" OutTC="00:03:28:11" Forced="False">
+      <Graphic Width="327" Height="36" X="195" Y="407">「暑假的第一個禮拜六」</Graphic>
+    </Event>
+    <Event InTC="00:03:28:11" OutTC="00:03:30:12" Forced="False">
+      <Graphic Width="327" Height="36" X="195" Y="407">「趴踢!我會發邀請函」</Graphic>
+    </Event>
+    <Event InTC="00:03:30:12" OutTC="00:03:31:07" Forced="False">
+      <Graphic Width="295" Height="37" X="212" Y="407">「愛你喔,塔蒂安娜」</Graphic>
+    </Event>
+    <Event InTC="00:03:31:21" OutTC="00:03:35:20" Forced="False">
+      <Graphic Width="327" Height="37" X="196" Y="407">度假、水、救援、上帝</Graphic>
+    </Event>
+    <Event InTC="00:03:37:13" OutTC="00:03:39:20" Forced="False">
+      <Graphic Width="197" Height="37" X="262" Y="407">麥克克林伯格</Graphic>
+    </Event>
+    <Event InTC="00:03:41:09" OutTC="00:03:42:11" Forced="False">
+      <Graphic Width="197" Height="36" X="261" Y="407">請你到台前來</Graphic>
+    </Event>
+    <Event InTC="00:03:44:09" OutTC="00:03:45:24" Forced="False">
+      <Graphic Width="327" Height="37" X="197" Y="407">麥克,今天早晚要面對</Graphic>
+    </Event>
+    <Event InTC="00:03:51:16" OutTC="00:03:53:13" Forced="False">
+      <Graphic Width="328" Height="37" X="195" Y="407">〈我的母親與美容農場〉</Graphic>
+    </Event>
+    <Event InTC="00:03:53:13" OutTC="00:03:55:01" Forced="False">
+      <Graphic Width="229" Height="37" X="246" Y="407">麥克克林伯格著</Graphic>
+    </Event>
+    <Event InTC="00:03:56:17" OutTC="00:03:57:20" Forced="False">
+      <Graphic Width="228" Height="36" X="246" Y="407">我喜歡我的媽媽</Graphic>
+    </Event>
+    <Event InTC="00:03:57:20" OutTC="00:03:59:04" Forced="False">
+      <Graphic Width="296" Height="36" X="211" Y="407">她跟別的媽媽不一樣</Graphic>
+    </Event>
+    <Event InTC="00:03:59:19" OutTC="00:04:01:23" Forced="False">
+      <Graphic Width="196" Height="34" X="260" Y="408">她可以很風趣</Graphic>
+    </Event>
+    <Event InTC="00:04:01:23" OutTC="00:04:04:11" Forced="False">
+      <Graphic Width="260" Height="36" X="231" Y="407">大部分的媽媽不然</Graphic>
+    </Event>
+    <Event InTC="00:04:05:04" OutTC="00:04:06:19" Forced="False">
+      <Graphic Width="230" Height="36" X="246" Y="407">我媽喜歡打網球</Graphic>
+    </Event>
+    <Event InTC="00:04:07:03" OutTC="00:04:09:03" Forced="False">
+      <Graphic Width="263" Height="36" X="228" Y="407">她是家裡的網球狂</Graphic>
+    </Event>
+    <Event InTC="00:04:09:17" OutTC="00:04:11:00" Forced="False">
+      <Graphic Width="294" Height="36" X="212" Y="407">就算喝掉一瓶伏特加</Graphic>
+    </Event>
+    <Event InTC="00:04:11:00" OutTC="00:04:13:11" Forced="False">
+      <Graphic Width="260" Height="37" X="231" Y="407">照樣拿俱樂部冠軍</Graphic>
+    </Event>
+    <Event InTC="00:04:13:19" OutTC="00:04:15:00" Forced="False">
+      <Graphic Width="289" Height="36" X="211" Y="408">媽,你需要幫忙嗎?</Graphic>
+    </Event>
+    <Event InTC="00:04:16:09" OutTC="00:04:17:07" Forced="False">
+      <Graphic Width="60" Height="32" X="329" Y="409">不用</Graphic>
+    </Event>
+    <Event InTC="00:04:31:07" OutTC="00:04:34:00" Forced="False">
+      <Graphic Width="261" Height="36" X="230" Y="407">這段對話經常上演</Graphic>
+    </Event>
+    <Event InTC="00:04:34:00" OutTC="00:04:35:16" Forced="False">
+      <Graphic Width="260" Height="37" X="231" Y="407">韋伯太太會問我媽</Graphic>
+    </Event>
+    <Event InTC="00:04:35:16" OutTC="00:04:37:17" Forced="False">
+      <Graphic Width="321" Height="37" X="196" Y="407">你會參加夏季比賽嗎?</Graphic>
+    </Event>
+    <Event InTC="00:04:38:09" OutTC="00:04:40:11" Forced="False">
+      <Graphic Width="195" Height="36" X="261" Y="407">放心,我不在</Graphic>
+    </Event>
+    <Event InTC="00:04:41:00" OutTC="00:04:42:05" Forced="False">
+      <Graphic Width="158" Height="34" X="277" Y="408">你要去哪?</Graphic>
+    </Event>
+    <Event InTC="00:04:43:05" OutTC="00:04:44:09" Forced="False">
+      <Graphic Width="130" Height="37" X="295" Y="407">美容農場</Graphic>
+    </Event>
+    <Event InTC="00:04:44:20" OutTC="00:04:48:06" Forced="False">
+      <Graphic Width="328" Height="36" X="196" Y="407">總會有人沒聽過這說法</Graphic>
+    </Event>
+    <Event InTC="00:04:48:06" OutTC="00:04:50:11" Forced="False">
+      <Graphic Width="264" Height="36" X="229" Y="407">老是拋出震撼彈說</Graphic>
+    </Event>
+    <Event InTC="00:04:50:18" OutTC="00:04:53:16" Forced="False">
+      <Graphic Width="425" Height="36" X="148" Y="407">克林伯格太太,你哪需要美容</Graphic>
+    </Event>
+    <Event InTC="00:04:54:07" OutTC="00:04:56:00" Forced="False">
+      <Graphic Width="391" Height="36" X="164" Y="407">我說好笑的,那是戒酒中心</Graphic>
+    </Event>
+    <Event InTC="00:05:03:13" OutTC="00:05:06:03" Forced="False">
+      <Graphic Width="392" Height="36" X="164" Y="407">我們會手牽手一起走路回家</Graphic>
+    </Event>
+    <Event InTC="00:05:06:03" OutTC="00:05:08:04" Forced="False">
+      <Graphic Width="351" Height="37" X="183" Y="407">因為她已經沒辦法開車了</Graphic>
+    </Event>
+    <Event InTC="00:05:08:04" OutTC="00:05:09:24" Forced="False">
+      <Graphic Width="327" Height="37" X="197" Y="407">我替她揹沉重的拍包袋</Graphic>
+    </Event>
+    <Event InTC="00:05:09:24" OutTC="00:05:11:03" Forced="False">
+      <Graphic Width="197" Height="36" X="262" Y="407">然後她對我說</Graphic>
+    </Event>
+    <Event InTC="00:05:11:10" OutTC="00:05:13:07" Forced="False">
+      <Graphic Width="295" Height="36" X="212" Y="407">「我沒辦法教你太多」</Graphic>
+    </Event>
+    <Event InTC="00:05:13:07" OutTC="00:05:14:20" Forced="False">
+      <Graphic Width="327" Height="37" X="195" Y="407">「但你能學到兩件事:」</Graphic>
+    </Event>
+    <Event InTC="00:05:14:20" OutTC="00:05:16:14" Forced="False">
+      <Graphic Width="327" Height="35" X="195" Y="408">「一,你可以暢所欲言」</Graphic>
+    </Event>
+    <Event InTC="00:05:16:23" OutTC="00:05:19:04" Forced="False">
+      <Graphic Width="327" Height="36" X="195" Y="407">「二,別人的想法是屁」</Graphic>
+    </Event>
+    <Event InTC="00:05:19:13" OutTC="00:05:20:15" Forced="False">
+      <Graphic Width="121" Height="36" X="292" Y="407">神經病!</Graphic>
+    </Event>
+    <Event InTC="00:05:22:00" OutTC="00:05:22:20" Forced="False">
+      <Graphic Width="130" Height="36" X="295" Y="407">大家安靜</Graphic>
+    </Event>
+    <Event InTC="00:05:24:02" OutTC="00:05:25:16" Forced="False">
+      <Graphic Width="163" Height="37" X="278" Y="407">麥克,謝謝</Graphic>
+    </Event>
+    <Event InTC="00:05:26:02" OutTC="00:05:27:02" Forced="False">
+      <Graphic Width="163" Height="36" X="278" Y="407">我還沒唸完</Graphic>
+    </Event>
+    <Event InTC="00:05:27:17" OutTC="00:05:29:00" Forced="False">
+      <Graphic Width="157" Height="36" X="278" Y="407">還有多長?</Graphic>
+    </Event>
+    <Event InTC="00:05:32:01" OutTC="00:05:32:21" Forced="False">
+      <Graphic Width="63" Height="35" X="329" Y="408">六頁</Graphic>
+    </Event>
+    <Event InTC="00:05:33:08" OutTC="00:05:34:21" Forced="False">
+      <Graphic Width="225" Height="36" X="245" Y="407">今天這樣就行了</Graphic>
+    </Event>
+    <Event InTC="00:05:36:24" OutTC="00:05:38:11" Forced="False">
+      <Graphic Width="321" Height="37" X="196" Y="407">你覺得這樣很有趣嗎?</Graphic>
+    </Event>
+    <Event InTC="00:05:42:18" OutTC="00:05:43:17" Forced="False">
+      <Graphic Width="91" Height="37" X="311" Y="407">麥克?</Graphic>
+    </Event>
+    <Event InTC="00:05:45:01" OutTC="00:05:46:11" Forced="False">
+      <Graphic Width="228" Height="36" X="246" Y="407">那可是你的媽媽</Graphic>
+    </Event>
+    <Event InTC="00:05:47:09" OutTC="00:05:49:01" Forced="False">
+      <Graphic Width="321" Height="37" X="196" Y="407">你有考慮過這一點嗎?</Graphic>
+    </Event>
+    <Event InTC="00:05:49:15" OutTC="00:05:50:17" Forced="False">
+      <Graphic Width="163" Height="35" X="277" Y="407">你的媽媽耶</Graphic>
+    </Event>
+    <Event InTC="00:05:51:07" OutTC="00:05:52:11" Forced="False">
+      <Graphic Width="158" Height="35" X="277" Y="407">你懂不懂?</Graphic>
+    </Event>
+    <Event InTC="00:05:53:18" OutTC="00:05:55:20" Forced="False">
+      <Graphic Width="261" Height="36" X="230" Y="407">我知道我媽是我媽</Graphic>
+    </Event>
+    <Event InTC="00:05:57:03" OutTC="00:06:00:22" Forced="False">
+      <Graphic Width="427" Height="36" X="147" Y="407">你的作文既噁心、沒品又無恥</Graphic>
+    </Event>
+    <Event InTC="00:06:00:22" OutTC="00:06:03:14" Forced="False">
+      <Graphic Width="323" Height="37" X="197" Y="407">我教書30年第一次碰到</Graphic>
+    </Event>
+    <Event InTC="00:06:04:08" OutTC="00:06:06:12" Forced="False">
+      <Graphic Width="295" Height="37" X="212" Y="407">你應該把那幾頁撕掉</Graphic>
+    </Event>
+    <Event InTC="00:06:10:16" OutTC="00:06:12:16" Forced="False">
+      <Graphic Width="262" Height="36" X="230" Y="407">我不是叫你真的撕</Graphic>
+    </Event>
+    <Event InTC="00:06:12:16" OutTC="00:06:13:23" Forced="False">
+      <Graphic Width="325" Height="37" X="197" Y="407">我是要你反省你的作為</Graphic>
+    </Event>
+    <Event InTC="00:06:14:15" OutTC="00:06:15:20" Forced="False">
+      <Graphic Width="165" Height="35" X="276" Y="408">好好想一想</Graphic>
+    </Event>
+    <Event InTC="00:06:17:24" OutTC="00:06:20:08" Forced="False">
+      <Graphic Width="360" Height="36" X="179" Y="407">很顯然,我犯了一個大錯</Graphic>
+    </Event>
+    <Event InTC="00:06:20:17" OutTC="00:06:23:00" Forced="False">
+      <Graphic Width="358" Height="36" X="181" Y="407">可是我不知道我錯在哪裡</Graphic>
+    </Event>
+    <Event InTC="00:06:23:00" OutTC="00:06:27:17" Forced="False">
+      <Graphic Width="459" Height="36" X="131" Y="407">老師沒說,我到現在還是不知道</Graphic>
+    </Event>
+    <Event InTC="00:06:27:17" OutTC="00:06:29:17" Forced="False">
+      <Graphic Width="262" Height="36" X="229" Y="407">他叫我好好想一想</Graphic>
+    </Event>
+    <Event InTC="00:06:29:17" OutTC="00:06:33:07" Forced="False">
+      <Graphic Width="491" Height="37" X="114" Y="407">但我滿腦子只有塔蒂安娜的生日趴</Graphic>
+    </Event>
+    <Event InTC="00:06:34:05" OutTC="00:06:36:08" Forced="False">
+      <Graphic Width="326" Height="37" X="197" Y="407">全部的人都在說這件事</Graphic>
+    </Event>
+    <Event InTC="00:06:36:08" OutTC="00:06:38:04" Forced="False">
+      <Graphic Width="327" Height="37" X="197" Y="407">我聽說塔蒂安娜的叔叔</Graphic>
+    </Event>
+    <Event InTC="00:06:38:04" OutTC="00:06:40:16" Forced="False">
+      <Graphic Width="426" Height="36" X="147" Y="407">要供應他自釀的啤酒一百公升</Graphic>
+    </Event>
+    <Event InTC="00:06:41:01" OutTC="00:06:45:08" Forced="False">
+      <Graphic Width="289" Height="36" X="213" Y="407">我已經網購好套套了</Graphic>
+    </Event>
+    <Event InTC="00:06:46:24" OutTC="00:06:48:24" Forced="False">
+      <Graphic Width="328" Height="36" X="196" Y="407">聽說她會邀請全部的人</Graphic>
+    </Event>
+    <Event InTC="00:06:50:01" OutTC="00:06:54:08" Forced="False">
+      <Graphic Width="392" Height="37" X="164" Y="407">我拼命想找個好禮物送給她</Graphic>
+    </Event>
+    <Event InTC="00:06:56:00" OutTC="00:06:58:10" Forced="False">
+      <Graphic Width="164" Height="37" X="277" Y="407">(歡喜新家)</Graphic>
+    </Event>
+    <Event InTC="00:06:58:10" OutTC="00:07:00:18" Forced="False">
+      <Graphic Width="227" Height="36" X="245" Y="407">禮物一定要特別</Graphic>
+    </Event>
+    <Event InTC="00:07:00:18" OutTC="00:07:02:03" Forced="False">
+      <Graphic Width="259" Height="37" X="229" Y="407">但我什麼都想不到</Graphic>
+    </Event>
+    <Event InTC="00:07:05:12" OutTC="00:07:07:12" Forced="False">
+      <Graphic Width="322" Height="36" X="197" Y="407">然後,我突然有靈感了</Graphic>
+    </Event>
+    <Event InTC="00:07:13:07" OutTC="00:07:18:14" Forced="False">
+      <Graphic Width="427" Height="36" X="147" Y="407">破產那傢伙?叫那混蛋去死吧</Graphic>
+    </Event>
+    <Event InTC="00:07:19:16" OutTC="00:07:21:21" Forced="False">
+      <Graphic Width="291" Height="37" X="213" Y="407">麥克,這裡也有前門</Graphic>
+    </Event>
+    <Event InTC="00:07:22:13" OutTC="00:07:25:07" Forced="False">
+      <Graphic Width="451" Height="36" X="131" Y="407">知道我要怎麼對付假掰環團嗎?</Graphic>
+    </Event>
+    <Event InTC="00:07:25:15" OutTC="00:07:29:03" Forced="False">
+      <Graphic Width="230" Height="37" X="245" Y="407">(海基休斯高中)</Graphic>
+    </Event>
+    <Event InTC="00:07:45:03" OutTC="00:07:48:04" Forced="False">
+      <Graphic Width="489" Height="36" X="115" Y="407">我想我希望她看見我有多認真準備</Graphic>
+    </Event>
+    <Event InTC="00:07:49:24" OutTC="00:07:53:08" Forced="False">
+      <Graphic Width="487" Height="36" X="114" Y="407">如果你很認真,人家就會猜到原因</Graphic>
+    </Event>
+    <Event InTC="00:07:56:20" OutTC="00:07:58:04" Forced="False">
+      <Graphic Width="67" Height="35" X="327" Y="408">早安</Graphic>
+    </Event>
+    <Event InTC="00:07:58:15" OutTC="00:08:00:15" Forced="False">
+      <Graphic Width="197" Height="36" X="261" Y="407">跟我到前面來</Graphic>
+    </Event>
+    <Event InTC="00:08:03:04" OutTC="00:08:07:06" Forced="False">
+      <Graphic Width="358" Height="37" X="180" Y="407">各位同學,請注意我這邊</Graphic>
+    </Event>
+    <Event InTC="00:08:07:06" OutTC="00:08:09:01" Forced="False">
+      <Graphic Width="261" Height="37" X="230" Y="407">我們來了個新同學</Graphic>
+    </Event>
+    <Event InTC="00:08:09:21" OutTC="00:08:11:14" Forced="False">
+      <Graphic Width="165" Height="35" X="277" Y="407">他叫安德烈</Graphic>
+    </Event>
+    <Event InTC="00:08:11:24" OutTC="00:08:14:15" Forced="False">
+      <Graphic Width="194" Height="36" X="264" Y="407">契查…切羅夫</Graphic>
+    </Event>
+    <Event InTC="00:08:16:18" OutTC="00:08:17:20" Forced="False">
+      <Graphic Width="156" Height="36" X="279" Y="407">不好意思?</Graphic>
+    </Event>
+    <Event InTC="00:08:18:24" OutTC="00:08:20:07" Forced="False">
+      <Graphic Width="164" Height="35" X="278" Y="407">是契查丘夫</Graphic>
+    </Event>
+    <Event InTC="00:08:21:23" OutTC="00:08:25:02" Forced="False">
+      <Graphic Width="484" Height="37" X="114" Y="407">你可以跟大家說你從哪裡轉來嗎?</Graphic>
+    </Event>
+    <Event InTC="00:08:25:23" OutTC="00:08:27:02" Forced="False">
+      <Graphic Width="98" Height="35" X="311" Y="407">隨便啦</Graphic>
+    </Event>
+    <Event InTC="00:08:27:12" OutTC="00:08:29:12" Forced="False">
+      <Graphic Width="199" Height="36" X="260" Y="407">好,那我來說</Graphic>
+    </Event>
+    <Event InTC="00:08:30:07" OutTC="00:08:31:21" Forced="False">
+      <Graphic Width="320" Height="36" X="197" Y="407">還是你希望我不要說?</Graphic>
+    </Event>
+    <Event InTC="00:08:32:07" OutTC="00:08:33:10" Forced="False">
+      <Graphic Width="100" Height="34" X="310" Y="408">你說吧</Graphic>
+    </Event>
+    <Event InTC="00:08:35:15" OutTC="00:08:37:10" Forced="False">
+      <Graphic Width="228" Height="36" X="246" Y="407">所以,安德烈…</Graphic>
+    </Event>
+    <Event InTC="00:08:37:20" OutTC="00:08:41:03" Forced="False">
+      <Graphic Width="356" Height="37" X="182" Y="407">契查是本班新同學的名字</Graphic>
+    </Event>
+    <Event InTC="00:08:41:03" OutTC="00:08:44:00" Forced="False">
+      <Graphic Width="359" Height="36" X="179" Y="407">他來自國土廣大的俄羅斯</Graphic>
+    </Event>
+    <Event InTC="00:08:44:00" OutTC="00:08:45:21" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="407">我立馬就受不了奇克</Graphic>
+    </Event>
+    <Event InTC="00:08:46:19" OutTC="00:08:48:07" Forced="False">
+      <Graphic Width="158" Height="37" X="279" Y="407">沒人受得了</Graphic>
+    </Event>
+    <Event InTC="00:08:48:21" OutTC="00:08:51:11" Forced="False">
+      <Graphic Width="392" Height="37" X="164" Y="407">奇克是垃圾,看來也像垃圾</Graphic>
+    </Event>
+    <Event InTC="00:08:53:04" OutTC="00:08:56:24" Forced="False">
+      <Graphic Width="360" Height="36" X="179" Y="407">他跟老師在台前讓我想吐</Graphic>
+    </Event>
+    <Event InTC="00:08:57:23" OutTC="00:08:59:17" Forced="False">
+      <Graphic Width="226" Height="37" X="247" Y="407">兩個人半斤八兩</Graphic>
+    </Event>
+    <Event InTC="00:08:59:17" OutTC="00:09:00:24" Forced="False">
+      <Graphic Width="289" Height="37" X="213" Y="407">……現在他轉來本校了</Graphic>
+    </Event>
+    <Event InTC="00:09:00:24" OutTC="00:09:03:02" Forced="False">
+      <Graphic Width="359" Height="37" X="179" Y="407">他這四年就發生這麼多事</Graphic>
+    </Event>
+    <Event InTC="00:09:03:10" OutTC="00:09:05:12" Forced="False">
+      <Graphic Width="353" Height="36" X="179" Y="407">很厲害吧?我說的對嗎?</Graphic>
+    </Event>
+    <Event InTC="00:09:05:12" OutTC="00:09:06:20" Forced="False">
+      <Graphic Width="84" Height="35" X="316" Y="408">90%對</Graphic>
+    </Event>
+    <Event InTC="00:09:07:14" OutTC="00:09:09:03" Forced="False">
+      <Graphic Width="99" Height="34" X="311" Y="409">那好吧</Graphic>
+    </Event>
+    <Event InTC="00:09:09:14" OutTC="00:09:11:10" Forced="False">
+      <Graphic Width="230" Height="37" X="245" Y="407">雖然聊得很愉快</Graphic>
+    </Event>
+    <Event InTC="00:09:11:10" OutTC="00:09:13:11" Forced="False">
+      <Graphic Width="393" Height="37" X="163" Y="407">但你不能在講台前杵一整天</Graphic>
+    </Event>
+    <Event InTC="00:09:13:11" OutTC="00:09:15:19" Forced="False">
+      <Graphic Width="328" Height="37" X="196" Y="407">請你坐到第二排的桌子</Graphic>
+    </Event>
+    <Event InTC="00:09:15:19" OutTC="00:09:18:08" Forced="False">
+      <Graphic Width="294" Height="37" X="212" Y="407">在麥克克林伯格旁邊</Graphic>
+    </Event>
+    <Event InTC="00:09:18:18" OutTC="00:09:21:07" Forced="False">
+      <Graphic Width="383" Height="36" X="166" Y="407">萊拉,可以請你擦黑板嗎?</Graphic>
+    </Event>
+    <Event InTC="00:09:22:17" OutTC="00:09:25:16" Forced="False">
+      <Graphic Width="292" Height="37" X="214" Y="407">大家拿出筆記本來…</Graphic>
+    </Event>
+    <Event InTC="00:09:26:18" OutTC="00:09:29:15" Forced="False">
+      <Graphic Width="357" Height="36" X="180" Y="407">一股味道差點沒讓我昏倒</Graphic>
+    </Event>
+    <Event InTC="00:09:32:19" OutTC="00:09:35:04" Forced="False">
+      <Graphic Width="458" Height="36" X="132" Y="407">那是我媽狀況不好時身上的味道</Graphic>
+    </Event>
+    <Event InTC="00:09:39:14" OutTC="00:09:43:05" Forced="False">
+      <Graphic Width="457" Height="37" X="131" Y="407">他跟老師插科打諢後非出事不可</Graphic>
+    </Event>
+    <Event InTC="00:09:43:05" OutTC="00:09:44:24" Forced="False">
+      <Graphic Width="227" Height="36" X="246" Y="407">一定會有好戲看</Graphic>
+    </Event>
+    <Event InTC="00:09:47:04" OutTC="00:09:49:07" Forced="False">
+      <Graphic Width="456" Height="37" X="132" Y="407">結果接下來幾天,什麼事都沒有</Graphic>
+    </Event>
+    <Event InTC="00:09:50:11" OutTC="00:09:53:09" Forced="False">
+      <Graphic Width="485" Height="37" X="115" Y="407">一個禮拜後,數學考試成績出爐了</Graphic>
+    </Event>
+    <Event InTC="00:09:53:09" OutTC="00:09:54:21" Forced="False">
+      <Graphic Width="197" Height="36" X="263" Y="407">來,凱文,D-</Graphic>
+    </Event>
+    <Event InTC="00:09:55:12" OutTC="00:09:57:13" Forced="False">
+      <Graphic Width="257" Height="36" X="230" Y="407">我對你手下留情了</Graphic>
+    </Event>
+    <Event InTC="00:09:58:22" OutTC="00:10:00:08" Forced="False">
+      <Graphic Width="159" Height="37" X="278" Y="407">奇蹟發生了</Graphic>
+    </Event>
+    <Event InTC="00:10:00:08" OutTC="00:10:03:02" Forced="False">
+      <Graphic Width="264" Height="37" X="229" Y="407">有一位同學拿了A+</Graphic>
+    </Event>
+    <Event InTC="00:10:03:11" OutTC="00:10:04:19" Forced="False">
+      <Graphic Width="228" Height="37" X="253" Y="407">(E-) -不是你</Graphic>
+    </Event>
+    <Event InTC="00:10:06:03" OutTC="00:10:07:04" Forced="False">
+      <Graphic Width="130" Height="34" X="293" Y="408">也不是你</Graphic>
+    </Event>
+    <Event InTC="00:10:08:00" OutTC="00:10:08:23" Forced="False">
+      <Graphic Width="99" Height="35" X="310" Y="407">安德烈</Graphic>
+    </Event>
+    <Event InTC="00:10:10:13" OutTC="00:10:11:16" Forced="False">
+      <Graphic Width="67" Height="36" X="327" Y="407">恭喜</Graphic>
+    </Event>
+    <Event InTC="00:10:12:20" OutTC="00:10:16:22" Forced="False">
+      <Graphic Width="391" Height="36" X="163" Y="407">去黑板上解第二題給大家看</Graphic>
+    </Event>
+    <Event InTC="00:10:36:14" OutTC="00:10:39:13" Forced="False">
+      <Graphic Width="326" Height="36" X="196" Y="407">新鞋嗎?一定是偷來的</Graphic>
+    </Event>
+    <Event InTC="00:10:39:13" OutTC="00:10:41:06" Forced="False">
+      <Graphic Width="244" Height="37" X="238" Y="407">奇克-喂!普丁</Graphic>
+    </Event>
+    <Event InTC="00:10:41:14" OutTC="00:10:42:16" Forced="False">
+      <Graphic Width="223" Height="35" X="245" Y="408">你是喝瞎了嗎?</Graphic>
+    </Event>
+    <Event InTC="00:10:46:02" OutTC="00:10:47:05" Forced="False">
+      <Graphic Width="158" Height="35" X="277" Y="408">你想幹嘛?</Graphic>
+    </Event>
+    <Event InTC="00:10:59:04" OutTC="00:11:01:12" Forced="False">
+      <Graphic Width="264" Height="37" X="228" Y="407">謠言火速傳了開來</Graphic>
+    </Event>
+    <Event InTC="00:11:01:12" OutTC="00:11:04:15" Forced="False">
+      <Graphic Width="360" Height="37" X="180" Y="407">奇克他們家是俄國的黑道</Graphic>
+    </Event>
+    <Event InTC="00:11:04:23" OutTC="00:11:06:17" Forced="False">
+      <Graphic Width="194" Height="36" X="263" Y="407">否則無法解釋</Graphic>
+    </Event>
+    <Event InTC="00:11:06:17" OutTC="00:11:10:22" Forced="False">
+      <Graphic Width="458" Height="37" X="131" Y="407">他怎能隨便說幾個字就讓他閉嘴</Graphic>
+    </Event>
+    <Event InTC="00:11:36:01" OutTC="00:11:37:21" Forced="False">
+      <Graphic Width="290" Height="36" X="212" Y="407">你的東西今天送來了</Graphic>
+    </Event>
+    <Event InTC="00:11:40:12" OutTC="00:11:41:12" Forced="False">
+      <Graphic Width="67" Height="34" X="326" Y="408">謝謝</Graphic>
+    </Event>
+    <Event InTC="00:12:02:02" OutTC="00:12:04:00" Forced="False">
+      <Graphic Width="391" Height="37" X="164" Y="407">然後,在學校的最後一天……</Graphic>
+    </Event>
+    <Event InTC="00:12:04:20" OutTC="00:12:05:21" Forced="False">
+      <Graphic Width="130" Height="36" X="294" Y="407">給賈斯汀</Graphic>
+    </Event>
+    <Event InTC="00:12:05:21" OutTC="00:12:08:04" Forced="False">
+      <Graphic Width="388" Height="36" X="163" Y="407">如果她終於發邀請函給我了</Graphic>
+    </Event>
+    <Event InTC="00:12:08:04" OutTC="00:12:11:12" Forced="False">
+      <Graphic Width="359" Height="36" X="180" Y="407">我就是全宇宙最幸福的人</Graphic>
+    </Event>
+    <Event InTC="00:12:11:21" OutTC="00:12:12:20" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">麥克</Graphic>
+    </Event>
+    <Event InTC="00:12:19:17" OutTC="00:12:21:05" Forced="False">
+      <Graphic Width="162" Height="36" X="277" Y="407">喂,神經病</Graphic>
+    </Event>
+    <Event InTC="00:12:21:05" OutTC="00:12:22:22" Forced="False">
+      <Graphic Width="259" Height="37" X="231" Y="407">拿來,那是給我的</Graphic>
+    </Event>
+    <Event InTC="00:12:26:08" OutTC="00:12:28:03" Forced="False">
+      <Graphic Width="197" Height="37" X="262" Y="407">麥克克林伯格</Graphic>
+    </Event>
+    <Event InTC="00:12:32:09" OutTC="00:12:33:13" Forced="False">
+      <Graphic Width="64" Height="34" X="328" Y="408">給你</Graphic>
+    </Event>
+    <Event InTC="00:12:39:11" OutTC="00:12:41:06" Forced="False">
+      <Graphic Width="457" Height="37" X="131" Y="407">每個人都拿到一張小綠綠邀請函</Graphic>
+    </Event>
+    <Event InTC="00:12:41:16" OutTC="00:12:42:21" Forced="False">
+      <Graphic Width="97" Height="37" X="309" Y="407">娜塔莉</Graphic>
+    </Event>
+    <Event InTC="00:12:45:00" OutTC="00:12:45:22" Forced="False">
+      <Graphic Width="195" Height="37" X="263" Y="407">幾乎是每個人</Graphic>
+    </Event>
+    <Event InTC="00:12:46:07" OutTC="00:12:47:20" Forced="False">
+      <Graphic Width="192" Height="37" X="262" Y="407">奇克也沒拿到</Graphic>
+    </Event>
+    <Event InTC="00:12:48:03" OutTC="00:12:49:02" Forced="False">
+      <Graphic Width="98" Height="36" X="312" Y="407">不會吧</Graphic>
+    </Event>
+    <Event InTC="00:12:49:10" OutTC="00:12:51:12" Forced="False">
+      <Graphic Width="360" Height="37" X="178" Y="407">神經病跟怪咖都沒邀請函</Graphic>
+    </Event>
+    <Event InTC="00:12:54:12" OutTC="00:12:55:12" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">麥克</Graphic>
+    </Event>
+    <Event InTC="00:12:55:24" OutTC="00:12:57:12" Forced="False">
+      <Graphic Width="191" Height="37" X="262" Y="407">我都把你忘了</Graphic>
+    </Event>
+    <Event InTC="00:12:59:08" OutTC="00:13:02:02" Forced="False">
+      <Graphic Width="425" Height="36" X="148" Y="407">這是你的邀請函,希望你能來</Graphic>
+    </Event>
+    <Event InTC="00:13:02:11" OutTC="00:13:06:00" Forced="False">
+      <Graphic Width="424" Height="36" X="147" Y="407">如果你不能來,我會超失望的</Graphic>
+    </Event>
+    <Event InTC="00:13:06:07" OutTC="00:13:09:02" Forced="False">
+      <Graphic Width="358" Height="36" X="180" Y="407">希望你有想到要送我禮物</Graphic>
+    </Event>
+    <Event InTC="00:13:09:11" OutTC="00:13:11:09" Forced="False">
+      <Graphic Width="228" Height="36" X="246" Y="407">我當然不用擔心</Graphic>
+    </Event>
+    <Event InTC="00:13:11:20" OutTC="00:13:13:01" Forced="False">
+      <Graphic Width="100" Height="35" X="309" Y="408">趴踢見</Graphic>
+    </Event>
+    <Event InTC="00:13:13:01" OutTC="00:13:14:17" Forced="False">
+      <Graphic Width="229" Height="36" X="246" Y="407">我好高興你會來</Graphic>
+    </Event>
+    <Event InTC="00:13:31:18" OutTC="00:13:33:19" Forced="False">
+      <Graphic Width="164" Height="36" X="278" Y="407">暑假愉快囉</Graphic>
+    </Event>
+    <Event InTC="00:13:40:17" OutTC="00:13:42:01" Forced="False">
+      <Graphic Width="167" Height="36" X="276" Y="407">超狂的外套</Graphic>
+    </Event>
+    <Event InTC="00:13:42:07" OutTC="00:13:44:03" Forced="False">
+      <Graphic Width="279" Height="36" X="222" Y="407">啥?-你的外套啊</Graphic>
+    </Event>
+    <Event InTC="00:13:44:03" OutTC="00:13:45:16" Forced="False">
+      <Graphic Width="128" Height="36" X="294" Y="407">我跟你買</Graphic>
+    </Event>
+    <Event InTC="00:13:45:16" OutTC="00:13:47:07" Forced="False">
+      <Graphic Width="291" Height="37" X="213" Y="407">這是我的最愛,不賣</Graphic>
+    </Event>
+    <Event InTC="00:13:47:13" OutTC="00:13:48:21" Forced="False">
+      <Graphic Width="190" Height="37" X="261" Y="407">哪裡買得到?</Graphic>
+    </Event>
+    <Event InTC="00:13:49:02" OutTC="00:13:51:03" Forced="False">
+      <Graphic Width="255" Height="36" X="230" Y="407">等等!你要去哪?</Graphic>
+    </Event>
+    <Event InTC="00:13:52:10" OutTC="00:13:53:12" Forced="False">
+      <Graphic Width="223" Height="36" X="245" Y="407">你被留級了嗎?</Graphic>
+    </Event>
+    <Event InTC="00:13:53:12" OutTC="00:13:55:02" Forced="False">
+      <Graphic Width="256" Height="37" X="229" Y="407">你那麼大聲幹嘛?</Graphic>
+    </Event>
+    <Event InTC="00:13:55:02" OutTC="00:13:56:20" Forced="False">
+      <Graphic Width="278" Height="36" X="221" Y="407">你被當囉? -沒有</Graphic>
+    </Event>
+    <Event InTC="00:13:57:03" OutTC="00:13:58:17" Forced="False">
+      <Graphic Width="239" Height="37" X="237" Y="407">你拿了一堆D吧?</Graphic>
+    </Event>
+    <Event InTC="00:13:58:17" OutTC="00:13:59:21" Forced="False">
+      <Graphic Width="97" Height="37" X="312" Y="407">不曉得</Graphic>
+    </Event>
+    <Event InTC="00:13:59:21" OutTC="00:14:02:10" Forced="False">
+      <Graphic Width="490" Height="37" X="116" Y="407">不曉得?如果你覺得我很煩就直說</Graphic>
+    </Event>
+    <Event InTC="00:14:02:10" OutTC="00:14:03:17" Forced="False">
+      <Graphic Width="132" Height="36" X="294" Y="407">我不知道</Graphic>
+    </Event>
+    <Event InTC="00:14:03:23" OutTC="00:14:05:04" Forced="False">
+      <Graphic Width="288" Height="36" X="212" Y="407">你不知道我煩不煩?</Graphic>
+    </Event>
+    <Event InTC="00:14:05:04" OutTC="00:14:08:11" Forced="False">
+      <Graphic Width="472" Height="37" X="124" Y="407">我不知道我是不是拿D,我還沒看</Graphic>
+    </Event>
+    <Event InTC="00:14:08:11" OutTC="00:14:10:13" Forced="False">
+      <Graphic Width="288" Height="36" X="212" Y="407">你沒看你的成績單?</Graphic>
+    </Event>
+    <Event InTC="00:14:11:06" OutTC="00:14:12:13" Forced="False">
+      <Graphic Width="65" Height="33" X="328" Y="409">酷喔</Graphic>
+    </Event>
+    <Event InTC="00:14:12:20" OutTC="00:14:14:24" Forced="False">
+      <Graphic Width="344" Height="36" X="187" Y="407">你現在要幹嘛?-回家</Graphic>
+    </Event>
+    <Event InTC="00:14:14:24" OutTC="00:14:16:24" Forced="False">
+      <Graphic Width="309" Height="37" X="205" Y="407">然後咧? -關你屁事</Graphic>
+    </Event>
+    <Event InTC="00:14:18:21" OutTC="00:14:19:23" Forced="False">
+      <Graphic Width="153" Height="37" X="277" Y="407">嘿,麥克!</Graphic>
+    </Event>
+    <Event InTC="00:14:20:15" OutTC="00:14:22:06" Forced="False">
+      <Graphic Width="251" Height="36" X="229" Y="407">你外套超狂的啦!</Graphic>
+    </Event>
+    <Event InTC="00:15:22:16" OutTC="00:15:23:19" Forced="False">
+      <Graphic Width="61" Height="33" X="326" Y="409">媽?</Graphic>
+    </Event>
+    <Event InTC="00:15:32:22" OutTC="00:15:33:20" Forced="False">
+      <Graphic Width="61" Height="33" X="326" Y="409">媽?</Graphic>
+    </Event>
+    <Event InTC="00:16:08:06" OutTC="00:16:10:21" Forced="False">
+      <Graphic Width="322" Height="37" X="197" Y="407">我明天要回美容農場了</Graphic>
+    </Event>
+    <Event InTC="00:16:58:12" OutTC="00:16:59:12" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">麥克</Graphic>
+    </Event>
+    <Event InTC="00:17:00:16" OutTC="00:17:01:24" Forced="False">
+      <Graphic Width="195" Height="37" X="262" Y="407">聲音關小一點</Graphic>
+    </Event>
+    <Event InTC="00:17:04:15" OutTC="00:17:06:07" Forced="False">
+      <Graphic Width="196" Height="36" X="262" Y="407">我要出差開會</Graphic>
+    </Event>
+    <Event InTC="00:17:06:18" OutTC="00:17:08:03" Forced="False">
+      <Graphic Width="225" Height="36" X="245" Y="407">有人要來接我了</Graphic>
+    </Event>
+    <Event InTC="00:17:09:07" OutTC="00:17:10:14" Forced="False">
+      <Graphic Width="190" Height="36" X="261" Y="407">你要去多久?</Graphic>
+    </Event>
+    <Event InTC="00:17:11:07" OutTC="00:17:13:12" Forced="False">
+      <Graphic Width="320" Height="34" X="197" Y="408">14天左右,沒關係吧?</Graphic>
+    </Event>
+    <Event InTC="00:17:18:24" OutTC="00:17:21:03" Forced="False">
+      <Graphic Width="260" Height="36" X="230" Y="407">我留兩百歐元給你</Graphic>
+    </Event>
+    <Event InTC="00:17:24:15" OutTC="00:17:26:21" Forced="False">
+      <Graphic Width="322" Height="36" X="197" Y="407">這樣你就不會有問題了</Graphic>
+    </Event>
+    <Event InTC="00:17:30:00" OutTC="00:17:31:11" Forced="False">
+      <Graphic Width="288" Height="36" X="212" Y="407">你老待在室内幹嘛?</Graphic>
+    </Event>
+    <Event InTC="00:17:32:19" OutTC="00:17:33:20" Forced="False">
+      <Graphic Width="230" Height="36" X="246" Y="407">我們家有游泳池</Graphic>
+    </Event>
+    <Event InTC="00:17:33:20" OutTC="00:17:36:05" Forced="False">
+      <Graphic Width="353" Height="36" X="179" Y="407">你知道那花了我多少錢?</Graphic>
+    </Event>
+    <Event InTC="00:17:49:17" OutTC="00:17:50:16" Forced="False">
+      <Graphic Width="34" Height="34" X="342" Y="408">嗨</Graphic>
+    </Event>
+    <Event InTC="00:17:51:08" OutTC="00:17:52:07" Forced="False">
+      <Graphic Width="67" Height="34" X="327" Y="408">哈囉</Graphic>
+    </Event>
+    <Event InTC="00:17:53:00" OutTC="00:17:54:15" Forced="False">
+      <Graphic Width="385" Height="38" X="164" Y="406">我是夢娜,你叫什麼名字?</Graphic>
+    </Event>
+    <Event InTC="00:17:55:22" OutTC="00:17:57:00" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">麥克</Graphic>
+    </Event>
+    <Event InTC="00:17:57:19" OutTC="00:17:58:22" Forced="False">
+      <Graphic Width="125" Height="35" X="293" Y="407">很熱吧?</Graphic>
+    </Event>
+    <Event InTC="00:18:04:08" OutTC="00:18:06:14" Forced="False">
+      <Graphic Width="194" Height="36" X="264" Y="407">天氣還會更熱</Graphic>
+    </Event>
+    <Event InTC="00:18:13:24" OutTC="00:18:15:16" Forced="False">
+      <Graphic Width="223" Height="35" X="245" Y="408">你暑假要幹嘛?</Graphic>
+    </Event>
+    <Event InTC="00:18:16:17" OutTC="00:18:17:16" Forced="False">
+      <Graphic Width="133" Height="36" X="292" Y="407">待在家裡</Graphic>
+    </Event>
+    <Event InTC="00:18:18:06" OutTC="00:18:19:11" Forced="False">
+      <Graphic Width="157" Height="35" X="278" Y="408">一個人嗎?</Graphic>
+    </Event>
+    <Event InTC="00:18:22:14" OutTC="00:18:24:11" Forced="False">
+      <Graphic Width="163" Height="37" X="279" Y="407">不用可憐他</Graphic>
+    </Event>
+    <Event InTC="00:18:24:20" OutTC="00:18:28:00" Forced="False">
+      <Graphic Width="424" Height="38" X="148" Y="406">麥克,這是夢娜,我們是同事</Graphic>
+    </Event>
+    <Event InTC="00:18:28:00" OutTC="00:18:29:17" Forced="False">
+      <Graphic Width="224" Height="37" X="246" Y="407">我們剛剛認識了</Graphic>
+    </Event>
+    <Event InTC="00:18:29:17" OutTC="00:18:31:23" Forced="False">
+      <Graphic Width="196" Height="37" X="261" Y="407">有事就打給我</Graphic>
+    </Event>
+    <Event InTC="00:18:34:19" OutTC="00:18:36:12" Forced="False">
+      <Graphic Width="288" Height="36" X="212" Y="407">在你開會的時候打?</Graphic>
+    </Event>
+    <Event InTC="00:18:37:03" OutTC="00:18:39:04" Forced="False">
+      <Graphic Width="327" Height="36" X="196" Y="407">對,在我開會的時候打</Graphic>
+    </Event>
+    <Event InTC="00:19:07:15" OutTC="00:19:09:10" Forced="False">
+      <Graphic Width="360" Height="36" X="179" Y="407">別跑來我們家撒野,賤貨</Graphic>
+    </Event>
+    <Event InTC="00:19:12:02" OutTC="00:19:13:14" Forced="False">
+      <Graphic Width="164" Height="36" X="277" Y="407">別惹麻煩喔</Graphic>
+    </Event>
+    <Event InTC="00:19:35:24" OutTC="00:19:39:11" Forced="False">
+      <Graphic Width="422" Height="36" X="147" Y="407">你看來像家後院被搞砸的甲甲</Graphic>
+    </Event>
+    <Event InTC="00:19:54:08" OutTC="00:19:55:16" Forced="False">
+      <Graphic Width="287" Height="36" X="213" Y="407">這車是你偷來的嗎?</Graphic>
+    </Event>
+    <Event InTC="00:19:56:01" OutTC="00:19:57:12" Forced="False">
+      <Graphic Width="225" Height="36" X="247" Y="407">沒有,只是借開</Graphic>
+    </Event>
+    <Event InTC="00:19:58:00" OutTC="00:19:59:13" Forced="False">
+      <Graphic Width="228" Height="36" X="246" Y="407">我晚點會放回去</Graphic>
+    </Event>
+    <Event InTC="00:20:06:00" OutTC="00:20:08:09" Forced="False">
+      <Graphic Width="294" Height="36" X="211" Y="407">拉達越野車,吃柴油</Graphic>
+    </Event>
+    <Event InTC="00:20:10:05" OutTC="00:20:12:21" Forced="False">
+      <Graphic Width="442" Height="36" X="139" Y="407">指紋怎麼辦? -別聽電視鬼扯</Graphic>
+    </Event>
+    <Event InTC="00:20:13:04" OutTC="00:20:14:18" Forced="False">
+      <Graphic Width="262" Height="37" X="230" Y="407">動手吧,愛摸就摸</Graphic>
+    </Event>
+    <Event InTC="00:20:15:08" OutTC="00:20:18:04" Forced="False">
+      <Graphic Width="442" Height="37" X="139" Y="407">你想坐牢嗎? -喂,我才14歲</Graphic>
+    </Event>
+    <Event InTC="00:20:18:11" OutTC="00:20:20:05" Forced="False">
+      <Graphic Width="262" Height="37" X="230" Y="407">15歲才有刑事責任</Graphic>
+    </Event>
+    <Event InTC="00:20:28:22" OutTC="00:20:30:20" Forced="False">
+      <Graphic Width="360" Height="37" X="180" Y="407">麥克,走嘛,我們去兜風</Graphic>
+    </Event>
+    <Event InTC="00:20:31:07" OutTC="00:20:32:06" Forced="False">
+      <Graphic Width="65" Height="34" X="329" Y="408">不要</Graphic>
+    </Event>
+    <Event InTC="00:20:45:17" OutTC="00:20:48:10" Forced="False">
+      <Graphic Width="442" Height="36" X="138" Y="407">超狂的泳池-對啊,泳池超狂</Graphic>
+    </Event>
+    <Event InTC="00:20:48:10" OutTC="00:20:50:10" Forced="False">
+      <Graphic Width="297" Height="36" X="211" Y="407">超狂外套、超狂泳池</Graphic>
+    </Event>
+    <Event InTC="00:20:55:12" OutTC="00:20:57:14" Forced="False">
+      <Graphic Width="343" Height="37" X="188" Y="407">這是你家的廚房? -嗯</Graphic>
+    </Event>
+    <Event InTC="00:20:57:19" OutTC="00:20:59:04" Forced="False">
+      <Graphic Width="165" Height="37" X="276" Y="407">超狂的廚房</Graphic>
+    </Event>
+    <Event InTC="00:21:05:19" OutTC="00:21:07:03" Forced="False">
+      <Graphic Width="197" Height="35" X="261" Y="408">你不是本地人</Graphic>
+    </Event>
+    <Event InTC="00:21:08:08" OutTC="00:21:10:23" Forced="False">
+      <Graphic Width="456" Height="37" X="133" Y="407">兩年前,我爸帶我們硬搬來這裡</Graphic>
+    </Event>
+    <Event InTC="00:21:11:22" OutTC="00:21:13:21" Forced="False">
+      <Graphic Width="410" Height="37" X="155" Y="407">他是做啥的? -房地產開發</Graphic>
+    </Event>
+    <Event InTC="00:21:17:16" OutTC="00:21:19:07" Forced="False">
+      <Graphic Width="318" Height="37" X="199" Y="407">開發商能賺這麼多錢?</Graphic>
+    </Event>
+    <Event InTC="00:21:20:00" OutTC="00:21:21:04" Forced="False">
+      <Graphic Width="97" Height="36" X="311" Y="407">並沒有</Graphic>
+    </Event>
+    <Event InTC="00:21:21:22" OutTC="00:21:24:20" Forced="False">
+      <Graphic Width="474" Height="37" X="124" Y="407">啥意思? -我爸想在這裡蓋房子</Graphic>
+    </Event>
+    <Event InTC="00:21:24:20" OutTC="00:21:27:03" Forced="False">
+      <Graphic Width="456" Height="36" X="131" Y="407">但有人在這裡發現三種絕種昆蟲</Graphic>
+    </Event>
+    <Event InTC="00:21:27:03" OutTC="00:21:28:07" Forced="False">
+      <Graphic Width="228" Height="36" X="245" Y="407">跟一種稀有蛙類</Graphic>
+    </Event>
+    <Event InTC="00:21:28:07" OutTC="00:21:29:10" Forced="False">
+      <Graphic Width="257" Height="36" X="230" Y="407">所以許可證就飛了</Graphic>
+    </Event>
+    <Event InTC="00:21:29:10" OutTC="00:21:31:01" Forced="False">
+      <Graphic Width="263" Height="37" X="229" Y="407">他只蓋了這間房子</Graphic>
+    </Event>
+    <Event InTC="00:21:31:01" OutTC="00:21:32:18" Forced="False">
+      <Graphic Width="326" Height="37" X="197" Y="407">這房子現在歸銀行所有</Graphic>
+    </Event>
+    <Event InTC="00:21:33:21" OutTC="00:21:35:10" Forced="False">
+      <Graphic Width="189" Height="36" X="262" Y="407">那是什麼蛙?</Graphic>
+    </Event>
+    <Event InTC="00:21:38:17" OutTC="00:21:40:08" Forced="False">
+      <Graphic Width="262" Height="37" X="230" Y="407">無尾羅索蒙大拿蛙</Graphic>
+    </Event>
+    <Event InTC="00:21:41:03" OutTC="00:21:42:04" Forced="False">
+      <Graphic Width="69" Height="32" X="326" Y="409">好吧</Graphic>
+    </Event>
+    <Event InTC="00:21:51:23" OutTC="00:21:53:22" Forced="False">
+      <Graphic Width="263" Height="36" X="229" Y="407">喂,我看不到你啦</Graphic>
+    </Event>
+    <Event InTC="00:21:53:22" OutTC="00:21:55:01" Forced="False">
+      <Graphic Width="256" Height="36" X="229" Y="407">你在坦克裡面嗎?</Graphic>
+    </Event>
+    <Event InTC="00:21:55:16" OutTC="00:21:56:18" Forced="False">
+      <Graphic Width="194" Height="36" X="262" Y="407">我在穀倉後面</Graphic>
+    </Event>
+    <Event InTC="00:21:56:18" OutTC="00:21:59:06" Forced="False">
+      <Graphic Width="422" Height="37" X="150" Y="407">萬一出事就到上一個安全地點</Graphic>
+    </Event>
+    <Event InTC="00:22:05:09" OutTC="00:22:06:24" Forced="False">
+      <Graphic Width="223" Height="36" X="245" Y="407">你會去趴踢嗎?</Graphic>
+    </Event>
+    <Event InTC="00:22:08:12" OutTC="00:22:09:16" Forced="False">
+      <Graphic Width="158" Height="36" X="277" Y="407">什麼趴踢?</Graphic>
+    </Event>
+    <Event InTC="00:22:10:12" OutTC="00:22:11:12" Forced="False">
+      <Graphic Width="296" Height="37" X="212" Y="407">塔蒂安娜的生日趴啊</Graphic>
+    </Event>
+    <Event InTC="00:22:12:15" OutTC="00:22:13:17" Forced="False">
+      <Graphic Width="194" Height="36" X="263" Y="407">沒,我不想去</Graphic>
+    </Event>
+    <Event InTC="00:22:14:03" OutTC="00:22:15:03" Forced="False">
+      <Graphic Width="89" Height="36" X="313" Y="407">真假?</Graphic>
+    </Event>
+    <Event InTC="00:22:16:09" OutTC="00:22:18:00" Forced="False">
+      <Graphic Width="97" Height="37" X="311" Y="407">我有事</Graphic>
+    </Event>
+    <Event InTC="00:22:21:08" OutTC="00:22:22:22" Forced="False">
+      <Graphic Width="227" Height="36" X="247" Y="407">況且,她沒找我</Graphic>
+    </Event>
+    <Event InTC="00:22:24:03" OutTC="00:22:24:19" Forced="False">
+      <Graphic Width="64" Height="35" X="327" Y="408">哇咧</Graphic>
+    </Event>
+    <Event InTC="00:22:25:09" OutTC="00:22:27:04" Forced="False">
+      <Graphic Width="293" Height="37" X="213" Y="407">我還以為只有我落單</Graphic>
+    </Event>
+    <Event InTC="00:22:28:08" OutTC="00:22:29:17" Forced="False">
+      <Graphic Width="197" Height="36" X="261" Y="407">反正會很無聊</Graphic>
+    </Event>
+    <Event InTC="00:22:30:08" OutTC="00:22:32:05" Forced="False">
+      <Graphic Width="130" Height="36" X="294" Y="407">薪拉會去</Graphic>
+    </Event>
+    <Event InTC="00:22:32:21" OutTC="00:22:34:03" Forced="False">
+      <Graphic Width="161" Height="37" X="278" Y="407">還有娜塔莉</Graphic>
+    </Event>
+    <Event InTC="00:22:34:10" OutTC="00:22:37:01" Forced="False">
+      <Graphic Width="195" Height="36" X="263" Y="407">蘿拉、可琳娜</Graphic>
+    </Event>
+    <Event InTC="00:22:37:07" OutTC="00:22:39:07" Forced="False">
+      <Graphic Width="166" Height="37" X="277" Y="407">跟大奶莎拉</Graphic>
+    </Event>
+    <Event InTC="00:22:39:18" OutTC="00:22:41:04" Forced="False">
+      <Graphic Width="256" Height="37" X="231" Y="407">更別說塔蒂安娜了</Graphic>
+    </Event>
+    <Event InTC="00:22:42:09" OutTC="00:22:43:10" Forced="False">
+      <Graphic Width="131" Height="36" X="294" Y="407">還有蜜雅</Graphic>
+    </Event>
+    <Event InTC="00:22:43:21" OutTC="00:22:46:06" Forced="False">
+      <Graphic Width="230" Height="37" X="245" Y="407">跟8A班的翹臀珍</Graphic>
+    </Event>
+    <Event InTC="00:22:46:10" OutTC="00:22:47:16" Forced="False">
+      <Graphic Width="164" Height="36" X="278" Y="407">還有她表妹</Graphic>
+    </Event>
+    <Event InTC="00:22:48:17" OutTC="00:22:49:16" Forced="False">
+      <Graphic Width="132" Height="37" X="293" Y="407">跟梅蘭妮</Graphic>
+    </Event>
+    <Event InTC="00:22:54:05" OutTC="00:22:55:04" Forced="False">
+      <Graphic Width="132" Height="37" X="292" Y="407">梅蘭妮…</Graphic>
+    </Event>
+    <Event InTC="00:22:59:14" OutTC="00:23:02:11" Forced="False">
+      <Graphic Width="419" Height="35" X="147" Y="408">你是gay嗎? -你起肖了喔?</Graphic>
+    </Event>
+    <Event InTC="00:23:02:24" OutTC="00:23:05:04" Forced="False">
+      <Graphic Width="289" Height="37" X="216" Y="407">因為你沒在鳥女生的</Graphic>
+    </Event>
+    <Event InTC="00:23:06:07" OutTC="00:23:09:05" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="407">全班都很哈塔蒂安娜</Graphic>
+    </Event>
+    <Event InTC="00:23:09:15" OutTC="00:23:11:11" Forced="False">
+      <Graphic Width="326" Height="37" X="198" Y="407">只有你沒在盯她的翹臀</Graphic>
+    </Event>
+    <Event InTC="00:23:11:11" OutTC="00:23:12:12" Forced="False">
+      <Graphic Width="238" Height="35" X="238" Y="408">所以你是gay嗎?</Graphic>
+    </Event>
+    <Event InTC="00:23:13:01" OutTC="00:23:14:06" Forced="False">
+      <Graphic Width="130" Height="34" X="293" Y="408">你是北七</Graphic>
+    </Event>
+    <Event InTC="00:23:14:16" OutTC="00:23:15:20" Forced="False">
+      <Graphic Width="132" Height="34" X="294" Y="408">這又沒啥</Graphic>
+    </Event>
+    <Event InTC="00:23:16:12" OutTC="00:23:19:02" Forced="False">
+      <Graphic Width="353" Height="36" X="179" Y="407">你有發現我心情不爽嗎?</Graphic>
+    </Event>
+    <Event InTC="00:23:19:02" OutTC="00:23:20:13" Forced="False">
+      <Graphic Width="256" Height="37" X="229" Y="407">有啊,可是為啥?</Graphic>
+    </Event>
+    <Event InTC="00:23:20:13" OutTC="00:23:21:21" Forced="False">
+      <Graphic Width="193" Height="37" X="265" Y="407">因為就是今天</Graphic>
+    </Event>
+    <Event InTC="00:23:21:21" OutTC="00:23:23:24" Forced="False">
+      <Graphic Width="474" Height="36" X="123" Y="407">什麼就是今天? -趴踢啊,廢話</Graphic>
+    </Event>
+    <Event InTC="00:23:23:24" OutTC="00:23:25:12" Forced="False">
+      <Graphic Width="263" Height="37" X="229" Y="407">塔蒂安娜的生日趴</Graphic>
+    </Event>
+    <Event InTC="00:23:25:12" OutTC="00:23:26:17" Forced="False">
+      <Graphic Width="262" Height="35" X="229" Y="408">你剛剛才說不想去</Graphic>
+    </Event>
+    <Event InTC="00:23:27:08" OutTC="00:23:28:18" Forced="False">
+      <Graphic Width="181" Height="35" X="270" Y="408">是gay又沒啥</Graphic>
+    </Event>
+    <Event InTC="00:23:28:18" OutTC="00:23:30:12" Forced="False">
+      <Graphic Width="168" Height="36" X="270" Y="407">我不是gay!</Graphic>
+    </Event>
+    <Event InTC="00:23:30:12" OutTC="00:23:31:16" Forced="False">
+      <Graphic Width="288" Height="36" X="212" Y="407">要我證明給你看嗎?</Graphic>
+    </Event>
+    <Event InTC="00:23:40:18" OutTC="00:23:42:04" Forced="False">
+      <Graphic Width="196" Height="36" X="261" Y="407">你對她有感覺</Graphic>
+    </Event>
+    <Event InTC="00:23:44:06" OutTC="00:23:45:16" Forced="False">
+      <Graphic Width="230" Height="37" X="245" Y="407">你得拿出行動來</Graphic>
+    </Event>
+    <Event InTC="00:23:45:16" OutTC="00:23:48:01" Forced="False">
+      <Graphic Width="360" Height="37" X="180" Y="407">啥行動?去找塔蒂安娜說</Graphic>
+    </Event>
+    <Event InTC="00:23:48:01" OutTC="00:23:50:00" Forced="False">
+      <Graphic Width="262" Height="36" X="228" Y="407">「我準備了小禮物」</Graphic>
+    </Event>
+    <Event InTC="00:23:50:00" OutTC="00:23:53:12" Forced="False">
+      <Graphic Width="327" Height="36" X="195" Y="407">「你沒邀我,我沒不爽」</Graphic>
+    </Event>
+    <Event InTC="00:23:53:12" OutTC="00:23:56:06" Forced="False">
+      <Graphic Width="327" Height="36" X="195" Y="407">「沒問題,我只是路過」</Graphic>
+    </Event>
+    <Event InTC="00:23:56:06" OutTC="00:23:59:12" Forced="False">
+      <Graphic Width="425" Height="37" X="147" Y="407">「希望你喜歡我畫得半死的畫」</Graphic>
+    </Event>
+    <Event InTC="00:24:00:24" OutTC="00:24:02:15" Forced="False">
+      <Graphic Width="231" Height="36" X="245" Y="407">要我就會這麼做</Graphic>
+    </Event>
+    <Event InTC="00:24:08:10" OutTC="00:24:11:06" Forced="False">
+      <Graphic Width="308" Height="35" X="204" Y="408">你沒打方向燈-別怕</Graphic>
+    </Event>
+    <Event InTC="00:24:11:09" OutTC="00:24:14:00" Forced="False">
+      <Graphic Width="442" Height="36" X="140" Y="407">我很會開車-那就打方向燈啊</Graphic>
+    </Event>
+    <Event InTC="00:24:14:00" OutTC="00:24:15:15" Forced="False">
+      <Graphic Width="323" Height="37" X="198" Y="407">大家都看得到我往哪開</Graphic>
+    </Event>
+    <Event InTC="00:24:17:07" OutTC="00:24:18:11" Forced="False">
+      <Graphic Width="261" Height="37" X="230" Y="407">我們沒要參加趴踢</Graphic>
+    </Event>
+    <Event InTC="00:24:18:11" OutTC="00:24:19:17" Forced="False">
+      <Graphic Width="319" Height="36" X="198" Y="407">只是開車經過,好嗎?</Graphic>
+    </Event>
+    <Event InTC="00:24:20:11" OutTC="00:24:22:16" Forced="False">
+      <Graphic Width="419" Height="37" X="147" Y="407">知道塔蒂安娜為啥沒邀你嗎?</Graphic>
+    </Event>
+    <Event InTC="00:24:22:16" OutTC="00:24:24:21" Forced="False">
+      <Graphic Width="226" Height="37" X="249" Y="407">因為我又悶又醜</Graphic>
+    </Event>
+    <Event InTC="00:24:25:00" OutTC="00:24:26:19" Forced="False">
+      <Graphic Width="163" Height="36" X="279" Y="407">沒必要這樣</Graphic>
+    </Event>
+    <Event InTC="00:24:27:05" OutTC="00:24:30:03" Forced="False">
+      <Graphic Width="424" Height="37" X="147" Y="407">你不突出,你得讓人注意到你</Graphic>
+    </Event>
+    <Event InTC="00:24:50:18" OutTC="00:24:53:03" Forced="False">
+      <Graphic Width="425" Height="37" X="147" Y="407">你看,是智障路卡斯跟賈斯汀</Graphic>
+    </Event>
+    <Event InTC="00:25:00:07" OutTC="00:25:02:17" Forced="False">
+      <Graphic Width="456" Height="36" X="132" Y="407">我們不進去,說好只是開車經過</Graphic>
+    </Event>
+    <Event InTC="00:25:02:17" OutTC="00:25:03:14" Forced="False">
+      <Graphic Width="35" Height="32" X="341" Y="409">好</Graphic>
+    </Event>
+    <Event InTC="00:25:05:17" OutTC="00:25:06:15" Forced="False">
+      <Graphic Width="86" Height="37" X="311" Y="407">奇克!</Graphic>
+    </Event>
+    <Event InTC="00:25:08:23" OutTC="00:25:09:19" Forced="False">
+      <Graphic Width="86" Height="37" X="311" Y="407">奇克!</Graphic>
+    </Event>
+    <Event InTC="00:25:10:12" OutTC="00:25:12:00" Forced="False">
+      <Graphic Width="263" Height="37" X="229" Y="407">拜託你不要,奇克</Graphic>
+    </Event>
+    <Event InTC="00:25:15:00" OutTC="00:25:16:10" Forced="False">
+      <Graphic Width="229" Height="37" X="246" Y="407">奇克,拜託不要</Graphic>
+    </Event>
+    <Event InTC="00:25:16:10" OutTC="00:25:17:15" Forced="False">
+      <Graphic Width="97" Height="37" X="312" Y="407">沒事啦</Graphic>
+    </Event>
+    <Event InTC="00:25:18:09" OutTC="00:25:19:16" Forced="False">
+      <Graphic Width="99" Height="36" X="311" Y="407">等等啊</Graphic>
+    </Event>
+    <Event InTC="00:26:02:11" OutTC="00:26:03:08" Forced="False">
+      <Graphic Width="64" Height="37" X="329" Y="407">拿去</Graphic>
+    </Event>
+    <Event InTC="00:26:05:08" OutTC="00:26:06:11" Forced="False">
+      <Graphic Width="96" Height="36" X="311" Y="407">一幅畫</Graphic>
+    </Event>
+    <Event InTC="00:26:08:13" OutTC="00:26:09:12" Forced="False">
+      <Graphic Width="96" Height="34" X="311" Y="408">送給你</Graphic>
+    </Event>
+    <Event InTC="00:26:25:09" OutTC="00:26:26:08" Forced="False">
+      <Graphic Width="197" Height="37" X="261" Y="407">嘿,塔蒂安娜</Graphic>
+    </Event>
+    <Event InTC="00:26:32:16" OutTC="00:26:34:11" Forced="False">
+      <Graphic Width="190" Height="35" X="261" Y="408">要喝一杯嗎?</Graphic>
+    </Event>
+    <Event InTC="00:26:34:11" OutTC="00:26:36:08" Forced="False">
+      <Graphic Width="227" Height="37" X="247" Y="407">不了,我們有事</Graphic>
+    </Event>
+    <Event InTC="00:26:44:23" OutTC="00:26:46:11" Forced="False">
+      <Graphic Width="190" Height="36" X="261" Y="407">要秀一下嗎?</Graphic>
+    </Event>
+    <Event InTC="00:26:47:07" OutTC="00:26:50:00" Forced="False">
+      <Graphic Width="377" Height="37" X="171" Y="407">要嗎? -你愛怎樣就怎樣</Graphic>
+    </Event>
+    <Event InTC="00:27:08:00" OutTC="00:27:08:23" Forced="False">
+      <Graphic Width="120" Height="35" X="293" Y="408">催下去!</Graphic>
+    </Event>
+    <Event InTC="00:27:08:23" OutTC="00:27:11:06" Forced="False">
+      <Graphic Width="196" Height="34" X="262" Y="408">這不能掛保證</Graphic>
+    </Event>
+    <Event InTC="00:27:26:19" OutTC="00:27:28:00" Forced="False">
+      <Graphic Width="123" Height="34" X="295" Y="408">明天見?</Graphic>
+    </Event>
+    <Event InTC="00:27:28:21" OutTC="00:27:30:08" Forced="False">
+      <Graphic Width="296" Height="36" X="211" Y="407">好,我明天10點過來</Graphic>
+    </Event>
+    <Event InTC="00:27:35:16" OutTC="00:27:36:24" Forced="False">
+      <Graphic Width="166" Height="35" X="276" Y="407">超狂的一路</Graphic>
+    </Event>
+    <Event InTC="00:27:41:09" OutTC="00:27:43:05" Forced="False">
+      <Graphic Width="288" Height="35" X="212" Y="407">要不要一直開下去?</Graphic>
+    </Event>
+    <Event InTC="00:27:45:22" OutTC="00:27:47:01" Forced="False">
+      <Graphic Width="122" Height="34" X="296" Y="408">開去哪?</Graphic>
+    </Event>
+    <Event InTC="00:27:47:16" OutTC="00:27:49:15" Forced="False">
+      <Graphic Width="293" Height="37" X="213" Y="407">我爺爺住在瓦拉幾亞</Graphic>
+    </Event>
+    <Event InTC="00:27:50:22" OutTC="00:27:52:02" Forced="False">
+      <Graphic Width="320" Height="36" X="197" Y="407">那個鳥不生蛋的地方?</Graphic>
+    </Event>
+    <Event InTC="00:27:53:15" OutTC="00:27:56:02" Forced="False">
+      <Graphic Width="356" Height="37" X="183" Y="407">瓦拉幾亞才沒有鳥不生蛋</Graphic>
+    </Event>
+    <Event InTC="00:27:56:18" OutTC="00:27:57:24" Forced="False">
+      <Graphic Width="388" Height="38" X="167" Y="406">瓦拉幾亞只是個沒意義的字</Graphic>
+    </Event>
+    <Event InTC="00:27:57:24" OutTC="00:27:59:22" Forced="False">
+      <Graphic Width="262" Height="36" X="229" Y="407">就是超偏遠的地方</Graphic>
+    </Event>
+    <Event InTC="00:28:00:04" OutTC="00:28:04:19" Forced="False">
+      <Graphic Width="360" Height="36" X="179" Y="407">住在那就是住鄉下的意思</Graphic>
+    </Event>
+    <Event InTC="00:28:04:19" OutTC="00:28:06:08" Forced="False">
+      <Graphic Width="287" Height="36" X="213" Y="407">那不算一個地方嗎?</Graphic>
+    </Event>
+    <Event InTC="00:28:06:08" OutTC="00:28:09:07" Forced="False">
+      <Graphic Width="407" Height="37" X="157" Y="407">不算-可是我爺爺住在那裡</Graphic>
+    </Event>
+    <Event InTC="00:28:09:14" OutTC="00:28:10:21" Forced="False">
+      <Graphic Width="256" Height="36" X="229" Y="407">住在鄉下,真假?</Graphic>
+    </Event>
+    <Event InTC="00:28:10:21" OutTC="00:28:12:15" Forced="False">
+      <Graphic Width="258" Height="37" X="229" Y="407">你惹得我快不爽了</Graphic>
+    </Event>
+    <Event InTC="00:28:12:15" OutTC="00:28:15:18" Forced="False">
+      <Graphic Width="425" Height="37" X="147" Y="407">他住在一個叫瓦拉幾亞的地方</Graphic>
+    </Event>
+    <Event InTC="00:28:15:18" OutTC="00:28:17:03" Forced="False">
+      <Graphic Width="262" Height="36" X="230" Y="407">我們就是要去那裡</Graphic>
+    </Event>
+    <Event InTC="00:28:31:17" OutTC="00:28:33:20" Forced="False">
+      <Graphic Width="483" Height="37" X="115" Y="407">所以你是俄羅斯還是瓦拉幾亞人?</Graphic>
+    </Event>
+    <Event InTC="00:28:34:03" OutTC="00:28:35:08" Forced="False">
+      <Graphic Width="263" Height="36" X="228" Y="407">德國人,我有護照</Graphic>
+    </Event>
+    <Event InTC="00:28:35:24" OutTC="00:28:37:09" Forced="False">
+      <Graphic Width="322" Height="36" X="195" Y="407">好,可是你祖籍哪裡?</Graphic>
+    </Event>
+    <Event InTC="00:28:37:17" OutTC="00:28:39:09" Forced="False">
+      <Graphic Width="263" Height="36" X="230" Y="407">我的家族人種複雜</Graphic>
+    </Event>
+    <Event InTC="00:28:39:09" OutTC="00:28:41:05" Forced="False">
+      <Graphic Width="390" Height="37" X="166" Y="407">窩瓦日耳曼人、卡爾梅克人</Graphic>
+    </Event>
+    <Event InTC="00:28:41:05" OutTC="00:28:42:11" Forced="False">
+      <Graphic Width="161" Height="37" X="281" Y="407">瓦拉幾亞人</Graphic>
+    </Event>
+    <Event InTC="00:28:42:11" OutTC="00:28:43:19" Forced="False">
+      <Graphic Width="261" Height="37" X="230" Y="407">猶太吉普賽人都有</Graphic>
+    </Event>
+    <Event InTC="00:28:44:01" OutTC="00:28:46:20" Forced="False">
+      <Graphic Width="392" Height="37" X="164" Y="407">猶太吉普賽,才沒有這種人</Graphic>
+    </Event>
+    <Event InTC="00:28:47:02" OutTC="00:28:50:02" Forced="False">
+      <Graphic Width="393" Height="37" X="163" Y="407">就像說是英格蘭法國人一樣</Graphic>
+    </Event>
+    <Event InTC="00:28:50:07" OutTC="00:28:53:12" Forced="False">
+      <Graphic Width="491" Height="37" X="114" Y="407">有猶太法國人,也有猶太吉普賽人</Graphic>
+    </Event>
+    <Event InTC="00:28:53:12" OutTC="00:28:55:24" Forced="False">
+      <Graphic Width="424" Height="37" X="148" Y="407">猶太人跟吉普賽人只能二選一</Graphic>
+    </Event>
+    <Event InTC="00:28:55:24" OutTC="00:28:57:13" Forced="False">
+      <Graphic Width="229" Height="36" X="246" Y="407">猶太是一種宗教</Graphic>
+    </Event>
+    <Event InTC="00:28:57:13" OutTC="00:28:58:22" Forced="False">
+      <Graphic Width="325" Height="37" X="199" Y="407">吉普賽是指沒有家的人</Graphic>
+    </Event>
+    <Event InTC="00:28:59:11" OutTC="00:29:01:08" Forced="False">
+      <Graphic Width="326" Height="37" X="198" Y="407">沒有家的人叫柏柏爾人</Graphic>
+    </Event>
+    <Event InTC="00:29:01:08" OutTC="00:29:03:10" Forced="False">
+      <Graphic Width="358" Height="37" X="181" Y="407">最好是啦,柏柏爾是地毯</Graphic>
+    </Event>
+    <Event InTC="00:29:10:06" OutTC="00:29:11:08" Forced="False">
+      <Graphic Width="96" Height="36" X="311" Y="407">給我看</Graphic>
+    </Event>
+    <Event InTC="00:29:14:20" OutTC="00:29:16:15" Forced="False">
+      <Graphic Width="195" Height="37" X="261" Y="407">喂,那很貴耶</Graphic>
+    </Event>
+    <Event InTC="00:29:16:15" OutTC="00:29:18:11" Forced="False">
+      <Graphic Width="455" Height="36" X="132" Y="407">隨便一個人用手機就能找到我們</Graphic>
+    </Event>
+    <Event InTC="00:29:23:12" OutTC="00:29:24:07" Forced="False">
+      <Graphic Width="55" Height="33" X="327" Y="409">喂!</Graphic>
+    </Event>
+    <Event InTC="00:29:24:07" OutTC="00:29:27:11" Forced="False">
+      <Graphic Width="472" Height="36" X="123" Y="407">你是想喝掛被撿屍嗎? -神經病</Graphic>
+    </Event>
+    <Event InTC="00:29:39:11" OutTC="00:29:42:24" Forced="False">
+      <Graphic Width="453" Height="36" X="132" Y="407">我們沒地圖嗎?沒手機、沒地圖</Graphic>
+    </Event>
+    <Event InTC="00:29:43:06" OutTC="00:29:44:20" Forced="False">
+      <Graphic Width="257" Height="37" X="230" Y="407">我們永遠都到不了</Graphic>
+    </Event>
+    <Event InTC="00:29:44:20" OutTC="00:29:46:10" Forced="False">
+      <Graphic Width="261" Height="36" X="229" Y="407">地圖是給孬孬看的</Graphic>
+    </Event>
+    <Event InTC="00:29:46:10" OutTC="00:29:47:24" Forced="False">
+      <Graphic Width="354" Height="36" X="180" Y="407">我們只要一路向南就行了</Graphic>
+    </Event>
+    <Event InTC="00:29:53:20" OutTC="00:29:55:08" Forced="False">
+      <Graphic Width="165" Height="35" X="277" Y="408">你看這傢伙</Graphic>
+    </Event>
+    <Event InTC="00:29:55:08" OutTC="00:29:57:11" Forced="False">
+      <Graphic Width="194" Height="36" X="261" Y="407">理查克萊德門</Graphic>
+    </Event>
+    <Event InTC="00:30:14:11" OutTC="00:30:15:12" Forced="False">
+      <Graphic Width="94" Height="35" X="310" Y="408">屌爆了</Graphic>
+    </Event>
+    <Event InTC="00:30:16:16" OutTC="00:30:18:12" Forced="False">
+      <Graphic Width="272" Height="36" X="221" Y="407">你確定你不是gay?</Graphic>
+    </Event>
+    <Event InTC="00:30:25:07" OutTC="00:30:26:13" Forced="False">
+      <Graphic Width="218" Height="36" X="245" Y="407">別上高速公路!</Graphic>
+    </Event>
+    <Event InTC="00:30:26:13" OutTC="00:30:29:03" Forced="False">
+      <Graphic Width="441" Height="36" X="140" Y="407">我沒有,我是往南開-你就是</Graphic>
+    </Event>
+    <Event InTC="00:30:30:18" OutTC="00:30:31:13" Forced="False">
+      <Graphic Width="30" Height="36" X="344" Y="407">靠</Graphic>
+    </Event>
+    <Event InTC="00:30:31:22" OutTC="00:30:33:12" Forced="False">
+      <Graphic Width="292" Height="37" X="214" Y="407">霧太大害我看不清楚</Graphic>
+    </Event>
+    <Event InTC="00:30:49:12" OutTC="00:30:53:10" Forced="False">
+      <Graphic Width="230" Height="35" X="246" Y="408">王八蛋!搞屁啊</Graphic>
+    </Event>
+    <Event InTC="00:30:53:10" OutTC="00:30:55:12" Forced="False">
+      <Graphic Width="295" Height="37" X="212" Y="407">他會發現你只有14歲</Graphic>
+    </Event>
+    <Event InTC="00:30:58:06" OutTC="00:30:59:15" Forced="False">
+      <Graphic Width="160" Height="36" X="277" Y="407">他要報警了</Graphic>
+    </Event>
+    <Event InTC="00:30:59:15" OutTC="00:31:03:05" Forced="False">
+      <Graphic Width="469" Height="37" X="124" Y="407">奇克,快下去-我忘了開車燈了</Graphic>
+    </Event>
+    <Event InTC="00:31:31:21" OutTC="00:31:33:01" Forced="False">
+      <Graphic Width="295" Height="37" X="213" Y="407">足球明星凱文庫蘭伊</Graphic>
+    </Event>
+    <Event InTC="00:31:34:05" OutTC="00:31:36:05" Forced="False">
+      <Graphic Width="296" Height="37" X="212" Y="407">你才不像凱文庫蘭伊</Graphic>
+    </Event>
+    <Event InTC="00:31:36:05" OutTC="00:31:39:18" Forced="False">
+      <Graphic Width="490" Height="37" X="114" Y="407">你看來像蠢臉貼了膠帶的14歲屁孩</Graphic>
+    </Event>
+    <Event InTC="00:31:46:18" OutTC="00:31:47:18" Forced="False">
+      <Graphic Width="62" Height="35" X="327" Y="408">對了</Graphic>
+    </Event>
+    <Event InTC="00:31:48:01" OutTC="00:31:49:16" Forced="False">
+      <Graphic Width="290" Height="36" X="212" Y="407">在德國貼這樣就對了</Graphic>
+    </Event>
+    <Event InTC="00:32:03:02" OutTC="00:32:04:07" Forced="False">
+      <Graphic Width="190" Height="36" X="261" Y="407">哪邊是南邊?</Graphic>
+    </Event>
+    <Event InTC="00:32:05:21" OutTC="00:32:10:16" Forced="False">
+      <Graphic Width="451" Height="37" X="131" Y="407">你知道可以靠手錶辨識方向嗎?</Graphic>
+    </Event>
+    <Event InTC="00:32:11:05" OutTC="00:32:15:20" Forced="False">
+      <Graphic Width="326" Height="36" X="198" Y="407">來,一根指針對著太陽</Graphic>
+    </Event>
+    <Event InTC="00:32:16:12" OutTC="00:32:17:24" Forced="False">
+      <Graphic Width="259" Height="36" X="232" Y="407">另一根會對著北方</Graphic>
+    </Event>
+    <Event InTC="00:32:20:04" OutTC="00:32:21:20" Forced="False">
+      <Graphic Width="163" Height="35" X="278" Y="408">那就是北方</Graphic>
+    </Event>
+    <Event InTC="00:32:22:05" OutTC="00:32:24:24" Forced="False">
+      <Graphic Width="440" Height="36" X="142" Y="407">太陽啥時在北方了? -現在啊</Graphic>
+    </Event>
+    <Event InTC="00:32:25:14" OutTC="00:32:26:16" Forced="False">
+      <Graphic Width="67" Height="33" X="327" Y="408">聽好</Graphic>
+    </Event>
+    <Event InTC="00:32:26:24" OutTC="00:32:28:10" Forced="False">
+      <Graphic Width="226" Height="36" X="248" Y="407">太陽從東方升起</Graphic>
+    </Event>
+    <Event InTC="00:32:28:10" OutTC="00:32:30:13" Forced="False">
+      <Graphic Width="294" Height="36" X="212" Y="407">往南走後從西方落下</Graphic>
+    </Event>
+    <Event InTC="00:32:30:13" OutTC="00:32:32:19" Forced="False">
+      <Graphic Width="229" Height="36" X="245" Y="407">從來就不在北方</Graphic>
+    </Event>
+    <Event InTC="00:32:33:22" OutTC="00:32:35:11" Forced="False">
+      <Graphic Width="228" Height="36" X="246" Y="407">那就是日光節約</Graphic>
+    </Event>
+    <Event InTC="00:32:36:00" OutTC="00:32:38:21" Forced="False">
+      <Graphic Width="426" Height="37" X="147" Y="406">在夏天不管用,往回調一小時</Graphic>
+    </Event>
+    <Event InTC="00:32:38:21" OutTC="00:32:40:22" Forced="False">
+      <Graphic Width="294" Height="37" X="214" Y="407">可是方向又不會亂轉</Graphic>
+    </Event>
+    <Event InTC="00:32:41:13" OutTC="00:32:43:01" Forced="False">
+      <Graphic Width="297" Height="37" X="211" Y="407">說不定這是迴轉羅盤</Graphic>
+    </Event>
+    <Event InTC="00:32:43:01" OutTC="00:32:45:12" Forced="False">
+      <Graphic Width="361" Height="38" X="179" Y="406">迴轉羅盤不像陀螺儀會轉</Graphic>
+    </Event>
+    <Event InTC="00:32:45:12" OutTC="00:32:48:06" Forced="False">
+      <Graphic Width="279" Height="36" X="221" Y="407">有酒精才會-屁啦</Graphic>
+    </Event>
+    <Event InTC="00:32:48:06" OutTC="00:32:49:13" Forced="False">
+      <Graphic Width="292" Height="36" X="213" Y="407">我在一本書裡看到的</Graphic>
+    </Event>
+    <Event InTC="00:32:49:13" OutTC="00:32:51:13" Forced="False">
+      <Graphic Width="292" Height="36" X="212" Y="407">有個水手把羅盤敲開</Graphic>
+    </Event>
+    <Event InTC="00:32:51:13" OutTC="00:32:55:19" Forced="False">
+      <Graphic Width="455" Height="37" X="135" Y="407">因為他是酒鬼,結果害他們迷航</Graphic>
+    </Event>
+    <Event InTC="00:32:55:19" OutTC="00:32:59:02" Forced="False">
+      <Graphic Width="409" Height="37" X="148" Y="407">那本書叫〈海熊〉或〈海狼〉</Graphic>
+    </Event>
+    <Event InTC="00:32:59:02" OutTC="00:33:01:08" Forced="False">
+      <Graphic Width="491" Height="37" X="114" Y="407">你是說〈荒原狼〉,那在講毒品啦</Graphic>
+    </Event>
+    <Event InTC="00:33:01:13" OutTC="00:33:03:09" Forced="False">
+      <Graphic Width="308" Height="37" X="212" Y="407">「荒原狼」是一個樂團</Graphic>
+    </Event>
+    <Event InTC="00:33:03:16" OutTC="00:33:05:04" Forced="False">
+      <Graphic Width="121" Height="36" X="292" Y="407">神經病!</Graphic>
+    </Event>
+    <Event InTC="00:33:05:04" OutTC="00:33:06:07" Forced="False">
+      <Graphic Width="164" Height="36" X="278" Y="407">我要往右走</Graphic>
+    </Event>
+    <Event InTC="00:33:45:11" OutTC="00:33:47:00" Forced="False">
+      <Graphic Width="224" Height="36" X="246" Y="407">克萊德門要掛了</Graphic>
+    </Event>
+    <Event InTC="00:33:58:18" OutTC="00:34:00:02" Forced="False">
+      <Graphic Width="126" Height="33" X="292" Y="408">好聽吧?</Graphic>
+    </Event>
+    <Event InTC="00:34:05:12" OutTC="00:34:06:20" Forced="False">
+      <Graphic Width="131" Height="34" X="294" Y="408">這是死路</Graphic>
+    </Event>
+    <Event InTC="00:34:07:04" OutTC="00:34:08:18" Forced="False">
+      <Graphic Width="193" Height="36" X="262" Y="407">我不要往回開</Graphic>
+    </Event>
+    <Event InTC="00:34:10:15" OutTC="00:34:12:02" Forced="False">
+      <Graphic Width="255" Height="37" X="230" Y="407">奇克,你在幹嘛?</Graphic>
+    </Event>
+    <Event InTC="00:34:12:17" OutTC="00:34:13:19" Forced="False">
+      <Graphic Width="86" Height="37" X="311" Y="407">奇克!</Graphic>
+    </Event>
+    <Event InTC="00:34:30:23" OutTC="00:34:32:02" Forced="False">
+      <Graphic Width="314" Height="37" X="198" Y="407">用開車寫下你的名字!</Graphic>
+    </Event>
+    <Event InTC="00:34:32:13" OutTC="00:34:33:16" Forced="False">
+      <Graphic Width="157" Height="36" X="278" Y="407">我的名字?</Graphic>
+    </Event>
+    <Event InTC="00:34:33:16" OutTC="00:34:36:07" Forced="False">
+      <Graphic Width="359" Height="37" X="180" Y="407">這樣估狗地球就看得到啦</Graphic>
+    </Event>
+    <Event InTC="00:35:03:23" OutTC="00:35:06:08" Forced="False">
+      <Graphic Width="181" Height="37" X="269" Y="407">現在蛇行寫S</Graphic>
+    </Event>
+    <Event InTC="00:35:12:16" OutTC="00:35:13:21" Forced="False">
+      <Graphic Width="96" Height="34" X="313" Y="408">太狂啦</Graphic>
+    </Event>
+    <Event InTC="00:35:42:22" OutTC="00:35:44:19" Forced="False">
+      <Graphic Width="165" Height="36" X="277" Y="407">遜牛,閃啦</Graphic>
+    </Event>
+    <Event InTC="00:35:50:08" OutTC="00:35:51:16" Forced="False">
+      <Graphic Width="242" Height="37" X="239" Y="407">農夫在6點鐘方向</Graphic>
+    </Event>
+    <Event InTC="00:35:52:03" OutTC="00:35:53:07" Forced="False">
+      <Graphic Width="250" Height="37" X="230" Y="407">看農夫不是看錶!</Graphic>
+    </Event>
+    <Event InTC="00:35:53:13" OutTC="00:35:55:05" Forced="False">
+      <Graphic Width="179" Height="36" X="271" Y="407">靠-快開走</Graphic>
+    </Event>
+    <Event InTC="00:35:56:16" OutTC="00:35:59:24" Forced="False">
+      <Graphic Width="340" Height="36" X="189" Y="407">牛擋住路了衝撞牠們</Graphic>
+    </Event>
+    <Event InTC="00:35:59:24" OutTC="00:36:00:22" Forced="False">
+      <Graphic Width="86" Height="33" X="311" Y="409">快點!</Graphic>
+    </Event>
+    <Event InTC="00:36:05:04" OutTC="00:36:06:22" Forced="False">
+      <Graphic Width="279" Height="35" X="222" Y="407">快開走-沒辦法啊</Graphic>
+    </Event>
+    <Event InTC="00:36:08:03" OutTC="00:36:10:20" Forced="False">
+      <Graphic Width="164" Height="37" X="278" Y="407">奇克,快走</Graphic>
+    </Event>
+    <Event InTC="00:36:10:20" OutTC="00:36:12:19" Forced="False">
+      <Graphic Width="338" Height="36" X="188" Y="407">走啦! -我在想辦法了</Graphic>
+    </Event>
+    <Event InTC="00:36:13:14" OutTC="00:36:17:11" Forced="False">
+      <Graphic Width="162" Height="35" X="279" Y="408">油門催到底</Graphic>
+    </Event>
+    <Event InTC="00:36:18:10" OutTC="00:36:21:03" Forced="False">
+      <Graphic Width="228" Height="36" X="247" Y="407">甩掉他,快開走</Graphic>
+    </Event>
+    <Event InTC="00:36:21:09" OutTC="00:36:22:16" Forced="False">
+      <Graphic Width="164" Height="37" X="278" Y="407">快走,奇克</Graphic>
+    </Event>
+    <Event InTC="00:36:23:11" OutTC="00:36:25:09" Forced="False">
+      <Graphic Width="375" Height="37" X="173" Y="407">甩掉他了!好啊! -擊掌</Graphic>
+    </Event>
+    <Event InTC="00:36:29:20" OutTC="00:36:31:09" Forced="False">
+      <Graphic Width="257" Height="36" X="230" Y="407">我們給他們好看了</Graphic>
+    </Event>
+    <Event InTC="00:37:15:23" OutTC="00:37:17:02" Forced="False">
+      <Graphic Width="158" Height="34" X="277" Y="408">你要去哪?</Graphic>
+    </Event>
+    <Event InTC="00:37:17:14" OutTC="00:37:21:14" Forced="False">
+      <Graphic Width="327" Height="38" X="197" Y="406">我們得讓車休息個幾天</Graphic>
+    </Event>
+    <Event InTC="00:37:32:21" OutTC="00:37:34:11" Forced="False">
+      <Graphic Width="161" Height="35" X="279" Y="408">變形金剛耶</Graphic>
+    </Event>
+    <Event InTC="00:37:40:12" OutTC="00:37:41:15" Forced="False">
+      <Graphic Width="223" Height="36" X="245" Y="407">你有開罐器嗎?</Graphic>
+    </Event>
+    <Event InTC="00:37:43:07" OutTC="00:37:46:00" Forced="False">
+      <Graphic Width="353" Height="37" X="179" Y="407">你帶罐頭卻沒帶開罐器?</Graphic>
+    </Event>
+    <Event InTC="00:37:46:00" OutTC="00:37:47:03" Forced="False">
+      <Graphic Width="190" Height="37" X="261" Y="407">你帶了啥來?</Graphic>
+    </Event>
+    <Event InTC="00:37:52:01" OutTC="00:37:54:08" Forced="False">
+      <Graphic Width="353" Height="37" X="179" Y="407">冷凍比薩,有帶烤箱嗎?</Graphic>
+    </Event>
+    <Event InTC="00:37:59:17" OutTC="00:38:00:14" Forced="False">
+      <Graphic Width="223" Height="36" X="245" Y="407">你有打火機嗎?</Graphic>
+    </Event>
+    <Event InTC="00:38:02:20" OutTC="00:38:03:22" Forced="False">
+      <Graphic Width="65" Height="37" X="329" Y="407">拿著</Graphic>
+    </Event>
+    <Event InTC="00:38:11:14" OutTC="00:38:12:15" Forced="False">
+      <Graphic Width="97" Height="36" X="309" Y="407">神經病</Graphic>
+    </Event>
+    <Event InTC="00:38:15:17" OutTC="00:38:17:12" Forced="False">
+      <Graphic Width="313" Height="37" X="199" Y="407">馬里歐格策射門得分!</Graphic>
+    </Event>
+    <Event InTC="00:38:17:12" OutTC="00:38:19:04" Forced="False">
+      <Graphic Width="197" Height="37" X="261" Y="407">弄得到處都是</Graphic>
+    </Event>
+    <Event InTC="00:38:19:04" OutTC="00:38:20:16" Forced="False">
+      <Graphic Width="223" Height="35" X="245" Y="408">你想試試看嗎?</Graphic>
+    </Event>
+    <Event InTC="00:38:35:09" OutTC="00:38:36:07" Forced="False">
+      <Graphic Width="65" Height="36" X="327" Y="407">哇靠</Graphic>
+    </Event>
+    <Event InTC="00:38:37:09" OutTC="00:38:38:14" Forced="False">
+      <Graphic Width="101" Height="36" X="309" Y="407">好誇張</Graphic>
+    </Event>
+    <Event InTC="00:38:38:20" OutTC="00:38:40:15" Forced="False">
+      <Graphic Width="192" Height="35" X="264" Y="408">比電視還好看</Graphic>
+    </Event>
+    <Event InTC="00:38:42:11" OutTC="00:38:43:24" Forced="False">
+      <Graphic Width="353" Height="37" X="179" Y="407">你看過《星艦戰將》嗎?</Graphic>
+    </Event>
+    <Event InTC="00:38:44:09" OutTC="00:38:46:15" Forced="False">
+      <Graphic Width="442" Height="36" X="139" Y="407">有猴子那齣? -不是,是蟲子</Graphic>
+    </Event>
+    <Event InTC="00:38:46:15" OutTC="00:38:47:20" Forced="False">
+      <Graphic Width="224" Height="36" X="244" Y="407">腦袋在後面的?</Graphic>
+    </Event>
+    <Event InTC="00:38:48:13" OutTC="00:38:50:13" Forced="False">
+      <Graphic Width="212" Height="35" X="255" Y="408">大腦蟲? -對</Graphic>
+    </Event>
+    <Event InTC="00:38:55:01" OutTC="00:38:57:04" Forced="False">
+      <Graphic Width="290" Height="36" X="215" Y="407">天空的某顆星星上面</Graphic>
+    </Event>
+    <Event InTC="00:38:57:13" OutTC="00:38:59:01" Forced="False">
+      <Graphic Width="294" Height="35" X="212" Y="407">就是一切開始的地方</Graphic>
+    </Event>
+    <Event InTC="00:38:59:08" OutTC="00:39:02:15" Forced="False">
+      <Graphic Width="197" Height="36" X="261" Y="407">蟲蟲大開殺戒</Graphic>
+    </Event>
+    <Event InTC="00:39:03:11" OutTC="00:39:04:23" Forced="False">
+      <Graphic Width="198" Height="35" X="261" Y="408">根本沒人知道</Graphic>
+    </Event>
+    <Event InTC="00:39:05:12" OutTC="00:39:06:09" Forced="False">
+      <Graphic Width="195" Height="36" X="263" Y="407">除了我們以外</Graphic>
+    </Event>
+    <Event InTC="00:39:09:01" OutTC="00:39:10:22" Forced="False">
+      <Graphic Width="386" Height="37" X="163" Y="407">你真的認為外太空有生物?</Graphic>
+    </Event>
+    <Event InTC="00:39:13:15" OutTC="00:39:16:00" Forced="False">
+      <Graphic Width="163" Height="36" X="277" Y="407">機會很渺茫</Graphic>
+    </Event>
+    <Event InTC="00:39:16:14" OutTC="00:39:18:11" Forced="False">
+      <Graphic Width="293" Height="36" X="214" Y="407">可是由於宇宙無限大</Graphic>
+    </Event>
+    <Event InTC="00:39:19:03" OutTC="00:39:23:00" Forced="False">
+      <Graphic Width="393" Height="36" X="163" Y="407">就算機率很小還是很有可能</Graphic>
+    </Event>
+    <Event InTC="00:39:24:22" OutTC="00:39:26:16" Forced="False">
+      <Graphic Width="164" Height="36" X="277" Y="407">有個地方...</Graphic>
+    </Event>
+    <Event InTC="00:39:27:04" OutTC="00:39:28:20" Forced="False">
+      <Graphic Width="261" Height="37" X="229" Y="407">在播地球上的電影</Graphic>
+    </Event>
+    <Event InTC="00:39:28:20" OutTC="00:39:31:04" Forced="False">
+      <Graphic Width="327" Height="37" X="196" Y="407">講兩個少年偷車的故事</Graphic>
+    </Event>
+    <Event InTC="00:39:31:23" OutTC="00:39:33:17" Forced="False">
+      <Graphic Width="357" Height="37" X="181" Y="407">大家都以為那是科幻故事</Graphic>
+    </Event>
+    <Event InTC="00:39:34:07" OutTC="00:39:35:19" Forced="False">
+      <Graphic Width="195" Height="36" X="261" Y="407">人跟車是假的</Graphic>
+    </Event>
+    <Event InTC="00:39:35:19" OutTC="00:39:36:19" Forced="False">
+      <Graphic Width="129" Height="34" X="295" Y="408">沒人相信</Graphic>
+    </Event>
+    <Event InTC="00:39:38:24" OutTC="00:39:40:13" Forced="False">
+      <Graphic Width="228" Height="35" X="247" Y="408">除了兩隻小蟲子</Graphic>
+    </Event>
+    <Event InTC="00:39:41:23" OutTC="00:39:42:23" Forced="False">
+      <Graphic Width="164" Height="34" X="277" Y="408">牠們就相信</Graphic>
+    </Event>
+    <Event InTC="00:39:44:00" OutTC="00:39:45:20" Forced="False">
+      <Graphic Width="361" Height="36" X="179" Y="407">牠們接了一部直升機的線</Graphic>
+    </Event>
+    <Event InTC="00:39:46:15" OutTC="00:39:48:12" Forced="False">
+      <Graphic Width="260" Height="37" X="231" Y="407">而且在想同樣的事</Graphic>
+    </Event>
+    <Event InTC="00:39:49:07" OutTC="00:39:50:20" Forced="False">
+      <Graphic Width="195" Height="36" X="261" Y="407">牠們相信我們</Graphic>
+    </Event>
+    <Event InTC="00:39:51:03" OutTC="00:39:53:11" Forced="False">
+      <Graphic Width="257" Height="37" X="233" Y="407">因為我們相信牠們</Graphic>
+    </Event>
+    <Event InTC="00:39:57:05" OutTC="00:39:58:13" Forced="False">
+      <Graphic Width="183" Height="36" X="268" Y="407">誇張 -誇張</Graphic>
+    </Event>
+    <Event InTC="00:40:22:04" OutTC="00:40:24:03" Forced="False">
+      <Graphic Width="419" Height="36" X="147" Y="407">你們是從哪間孤兒院落跑的?</Graphic>
+    </Event>
+    <Event InTC="00:40:24:11" OutTC="00:40:26:21" Forced="False">
+      <Graphic Width="392" Height="37" X="164" Y="407">我們沒有,我們是行動貴族</Graphic>
+    </Event>
+    <Event InTC="00:40:26:21" OutTC="00:40:28:08" Forced="False">
+      <Graphic Width="229" Height="36" X="246" Y="407">會在領地趴趴走</Graphic>
+    </Event>
+    <Event InTC="00:40:29:06" OutTC="00:40:30:21" Forced="False">
+      <Graphic Width="288" Height="36" X="212" Y="407">你們也騎自行車嗎?</Graphic>
+    </Event>
+    <Event InTC="00:40:32:09" OutTC="00:40:34:04" Forced="False">
+      <Graphic Width="130" Height="36" X="294" Y="407">我們開車</Graphic>
+    </Event>
+    <Event InTC="00:40:34:04" OutTC="00:40:36:18" Forced="False">
+      <Graphic Width="262" Height="36" X="229" Y="407">你錯了,他們開車</Graphic>
+    </Event>
+    <Event InTC="00:40:37:17" OutTC="00:40:40:02" Forced="False">
+      <Graphic Width="223" Height="37" X="245" Y="407">行動貴族是啥?</Graphic>
+    </Event>
+    <Event InTC="00:40:40:22" OutTC="00:40:43:06" Forced="False">
+      <Graphic Width="391" Height="36" X="164" Y="407">肯定不是開戰車的無產階級</Graphic>
+    </Event>
+    <Event InTC="00:40:46:01" OutTC="00:40:47:05" Forced="False">
+      <Graphic Width="127" Height="37" X="297" Y="407">葛蘿莉亞</Graphic>
+    </Event>
+    <Event InTC="00:40:47:19" OutTC="00:40:49:01" Forced="False">
+      <Graphic Width="130" Height="37" X="294" Y="407">卡爾席鐸</Graphic>
+    </Event>
+    <Event InTC="00:40:52:18" OutTC="00:40:54:15" Forced="False">
+      <Graphic Width="222" Height="37" X="248" Y="407">男爵在叫你們了</Graphic>
+    </Event>
+    <Event InTC="00:40:55:15" OutTC="00:40:56:18" Forced="False">
+      <Graphic Width="131" Height="37" X="293" Y="407">他是伯爵</Graphic>
+    </Event>
+    <Event InTC="00:41:01:08" OutTC="00:41:03:20" Forced="False">
+      <Graphic Width="344" Height="37" X="187" Y="407">他們是誰? -行動貴族</Graphic>
+    </Event>
+    <Event InTC="00:41:14:03" OutTC="00:41:15:08" Forced="False">
+      <Graphic Width="255" Height="36" X="230" Y="407">我們沒東西吃嗎?</Graphic>
+    </Event>
+    <Event InTC="00:41:17:12" OutTC="00:41:20:04" Forced="False">
+      <Graphic Width="441" Height="36" X="139" Y="407">去問他們吧-我們又不是怪咖</Graphic>
+    </Event>
+    <Event InTC="00:41:22:01" OutTC="00:41:22:21" Forced="False">
+      <Graphic Width="158" Height="34" X="277" Y="408">你要去哪?</Graphic>
+    </Event>
+    <Event InTC="00:41:25:21" OutTC="00:41:28:11" Forced="False">
+      <Graphic Width="375" Height="37" X="171" Y="407">去車子那? -我得吃東西</Graphic>
+    </Event>
+    <Event InTC="00:41:29:12" OutTC="00:41:32:01" Forced="False">
+      <Graphic Width="425" Height="37" X="148" Y="407">我還以為我們要把車子藏起來</Graphic>
+    </Event>
+    <Event InTC="00:41:32:01" OutTC="00:41:34:07" Forced="False">
+      <Graphic Width="392" Height="36" X="164" Y="407">是人就要吃東西,否則會死</Graphic>
+    </Event>
+    <Event InTC="00:41:45:22" OutTC="00:41:47:00" Forced="False">
+      <Graphic Width="365" Height="36" X="171" Y="407">諾瑪超市! -諾瑪超市!</Graphic>
+    </Event>
+    <Event InTC="00:41:57:05" OutTC="00:41:58:15" Forced="False">
+      <Graphic Width="190" Height="35" X="261" Y="407">諾瑪在哪裡?</Graphic>
+    </Event>
+    <Event InTC="00:42:00:11" OutTC="00:42:01:23" Forced="False">
+      <Graphic Width="326" Height="36" X="196" Y="407">喂,我問了你一個問題</Graphic>
+    </Event>
+    <Event InTC="00:42:03:12" OutTC="00:42:06:02" Forced="False">
+      <Graphic Width="499" Height="36" X="107" Y="407">我們不去超市的-不過諾瑪在哪?</Graphic>
+    </Event>
+    <Event InTC="00:42:06:21" OutTC="00:42:10:03" Forced="False">
+      <Graphic Width="505" Height="37" X="107" Y="407">我們都去佛利克家買-佛利克家喔</Graphic>
+    </Event>
+    <Event InTC="00:42:10:23" OutTC="00:42:12:24" Forced="False">
+      <Graphic Width="254" Height="36" X="231" Y="407">可是超市在哪裡?</Graphic>
+    </Event>
+    <Event InTC="00:42:13:12" OutTC="00:42:15:16" Forced="False">
+      <Graphic Width="295" Height="36" X="211" Y="407">佛利克他們住在那邊</Graphic>
+    </Event>
+    <Event InTC="00:42:16:03" OutTC="00:42:18:16" Forced="False">
+      <Graphic Width="409" Height="37" X="155" Y="407">哈囉,佛德曼-警察杯杯好</Graphic>
+    </Event>
+    <Event InTC="00:42:20:08" OutTC="00:42:21:12" Forced="False">
+      <Graphic Width="195" Height="36" X="262" Y="407">我們再問一次</Graphic>
+    </Event>
+    <Event InTC="00:42:22:11" OutTC="00:42:23:19" Forced="False">
+      <Graphic Width="158" Height="35" X="277" Y="407">諾瑪在哪?</Graphic>
+    </Event>
+    <Event InTC="00:42:23:19" OutTC="00:42:26:03" Forced="False">
+      <Graphic Width="321" Height="35" X="196" Y="408">你們只是要去逛逛嗎?</Graphic>
+    </Event>
+    <Event InTC="00:42:28:04" OutTC="00:42:30:22" Forced="False">
+      <Graphic Width="321" Height="36" X="196" Y="407">你會只去超市逛逛嗎?</Graphic>
+    </Event>
+    <Event InTC="00:42:30:22" OutTC="00:42:32:09" Forced="False">
+      <Graphic Width="194" Height="36" X="262" Y="407">我們想買吃的</Graphic>
+    </Event>
+    <Event InTC="00:42:32:22" OutTC="00:42:34:01" Forced="False">
+      <Graphic Width="100" Height="36" X="309" Y="407">佛德曼</Graphic>
+    </Event>
+    <Event InTC="00:42:34:24" OutTC="00:42:36:18" Forced="False">
+      <Graphic Width="223" Height="37" X="247" Y="407">回家,都中午了</Graphic>
+    </Event>
+    <Event InTC="00:42:37:16" OutTC="00:42:39:05" Forced="False">
+      <Graphic Width="321" Height="36" X="196" Y="407">你知道諾瑪在哪裡嗎?</Graphic>
+    </Event>
+    <Event InTC="00:42:40:13" OutTC="00:42:42:13" Forced="False">
+      <Graphic Width="294" Height="36" X="211" Y="407">媽咪,他們想買吃的</Graphic>
+    </Event>
+    <Event InTC="00:42:42:13" OutTC="00:42:45:09" Forced="False">
+      <Graphic Width="377" Height="36" X="171" Y="407">諾瑪是誰? -那家超市啦</Graphic>
+    </Event>
+    <Event InTC="00:42:45:09" OutTC="00:42:49:04" Forced="False">
+      <Graphic Width="455" Height="37" X="132" Y="407">我們沒去過,我們都去佛利克那</Graphic>
+    </Event>
+    <Event InTC="00:42:49:04" OutTC="00:42:50:14" Forced="False">
+      <Graphic Width="159" Height="36" X="278" Y="407">我們聽說了</Graphic>
+    </Event>
+    <Event InTC="00:42:50:14" OutTC="00:42:52:01" Forced="False">
+      <Graphic Width="223" Height="36" X="245" Y="407">你們想去買啥?</Graphic>
+    </Event>
+    <Event InTC="00:42:52:01" OutTC="00:42:53:20" Forced="False">
+      <Graphic Width="254" Height="36" X="233" Y="407">買雜貨,我們餓了</Graphic>
+    </Event>
+    <Event InTC="00:42:55:08" OutTC="00:42:58:01" Forced="False">
+      <Graphic Width="426" Height="36" X="148" Y="407">我們準備吃中飯了,一起吃吧</Graphic>
+    </Event>
+    <Event InTC="00:42:58:06" OutTC="00:43:01:02" Forced="False">
+      <Graphic Width="406" Height="36" X="158" Y="407">阿姨,中飯吃啥? -青豆飯</Graphic>
+    </Event>
+    <Event InTC="00:43:23:01" OutTC="00:43:23:24" Forced="False">
+      <Graphic Width="65" Height="36" X="328" Y="407">等等</Graphic>
+    </Event>
+    <Event InTC="00:43:29:01" OutTC="00:43:32:16" Forced="False">
+      <Graphic Width="424" Height="37" X="148" Y="407">我們牽手禱告,感謝上帝照顧</Graphic>
+    </Event>
+    <Event InTC="00:43:32:24" OutTC="00:43:36:01" Forced="False">
+      <Graphic Width="359" Height="36" X="179" Y="407">在萬物生長的美麗地球…</Graphic>
+    </Event>
+    <Event InTC="00:43:37:05" OutTC="00:43:39:01" Forced="False">
+      <Graphic Width="263" Height="37" X="230" Y="407">我們就簡短帶過吧</Graphic>
+    </Event>
+    <Event InTC="00:43:39:01" OutTC="00:43:40:19" Forced="False">
+      <Graphic Width="230" Height="37" X="245" Y="407">願主賜福這一餐</Graphic>
+    </Event>
+    <Event InTC="00:43:48:13" OutTC="00:43:49:11" Forced="False">
+      <Graphic Width="98" Height="36" X="312" Y="407">不會吧</Graphic>
+    </Event>
+    <Event InTC="00:43:50:12" OutTC="00:43:51:10" Forced="False">
+      <Graphic Width="68" Height="34" X="326" Y="408">好吃</Graphic>
+    </Event>
+    <Event InTC="00:44:05:24" OutTC="00:44:07:24" Forced="False">
+      <Graphic Width="291" Height="36" X="214" Y="407">不行,要先回答問題</Graphic>
+    </Event>
+    <Event InTC="00:44:07:24" OutTC="00:44:10:03" Forced="False">
+      <Graphic Width="292" Height="37" X="213" Y="407">等等,我得想個問題</Graphic>
+    </Event>
+    <Event InTC="00:44:13:24" OutTC="00:44:17:11" Forced="False">
+      <Graphic Width="453" Height="37" X="134" Y="407">馬佛魯剛特用史萊哲林的小金匣</Graphic>
+    </Event>
+    <Event InTC="00:44:17:11" OutTC="00:44:19:03" Forced="False">
+      <Graphic Width="162" Height="37" X="279" Y="407">拿到多少…</Graphic>
+    </Event>
+    <Event InTC="00:44:19:03" OutTC="00:44:21:01" Forced="False">
+      <Graphic Width="299" Height="34" X="205" Y="408">12加隆! -10加隆!</Graphic>
+    </Event>
+    <Event InTC="00:44:21:01" OutTC="00:44:23:00" Forced="False">
+      <Graphic Width="263" Height="37" X="229" Y="407">伊莉莎白答得最快</Graphic>
+    </Event>
+    <Event InTC="00:44:25:07" OutTC="00:44:30:07" Forced="False">
+      <Graphic Width="424" Height="35" X="148" Y="407">亞歷山大馮洪堡德的船叫啥……</Graphic>
+    </Event>
+    <Event InTC="00:44:30:08" OutTC="00:44:31:12" Forced="False">
+      <Graphic Width="97" Height="36" X="311" Y="407">皮薩羅</Graphic>
+    </Event>
+    <Event InTC="00:44:32:01" OutTC="00:44:34:02" Forced="False">
+      <Graphic Width="198" Height="36" X="260" Y="407">佛德曼,很好</Graphic>
+    </Event>
+    <Event InTC="00:44:38:01" OutTC="00:44:39:24" Forced="False">
+      <Graphic Width="222" Height="37" X="246" Y="407">我為什麼說12?</Graphic>
+    </Event>
+    <Event InTC="00:44:42:07" OutTC="00:44:44:13" Forced="False">
+      <Graphic Width="256" Height="36" X="229" Y="407">換客人問怎麼樣?</Graphic>
+    </Event>
+    <Event InTC="00:44:44:13" OutTC="00:44:45:24" Forced="False">
+      <Graphic Width="96" Height="35" X="312" Y="408">不公平</Graphic>
+    </Event>
+    <Event InTC="00:44:45:24" OutTC="00:44:48:08" Forced="False">
+      <Graphic Width="225" Height="35" X="245" Y="407">之後就換你問了</Graphic>
+    </Event>
+    <Event InTC="00:44:49:24" OutTC="00:44:53:24" Forced="False">
+      <Graphic Width="322" Height="36" X="195" Y="407">德國第一任總理是誰?</Graphic>
+    </Event>
+    <Event InTC="00:44:54:12" OutTC="00:44:55:11" Forced="False">
+      <Graphic Width="123" Height="35" X="295" Y="407">艾德諾?</Graphic>
+    </Event>
+    <Event InTC="00:44:55:24" OutTC="00:44:57:05" Forced="False">
+      <Graphic Width="195" Height="37" X="261" Y="407">赫爾穆特柯爾</Graphic>
+    </Event>
+    <Event InTC="00:44:57:05" OutTC="00:44:58:22" Forced="False">
+      <Graphic Width="422" Height="37" X="149" Y="407">豪斯、呂布克、海涅曼、謝爾</Graphic>
+    </Event>
+    <Event InTC="00:44:58:22" OutTC="00:45:00:17" Forced="False">
+      <Graphic Width="426" Height="36" X="148" Y="407">卡斯滕斯、魏茨澤克、赫佐格</Graphic>
+    </Event>
+    <Event InTC="00:45:00:17" OutTC="00:45:02:12" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="407">克勒、武爾夫、高克</Graphic>
+    </Event>
+    <Event InTC="00:45:02:12" OutTC="00:45:04:04" Forced="False">
+      <Graphic Width="195" Height="35" X="263" Y="408">強納斯,很好</Graphic>
+    </Event>
+    <Event InTC="00:45:04:10" OutTC="00:45:06:04" Forced="False">
+      <Graphic Width="290" Height="34" X="212" Y="408">現在你可以問問題了</Graphic>
+    </Event>
+    <Event InTC="00:45:06:14" OutTC="00:45:09:11" Forced="False">
+      <Graphic Width="257" Height="37" X="228" Y="407">德國首都在哪裡?</Graphic>
+    </Event>
+    <Event InTC="00:45:09:23" OutTC="00:45:12:02" Forced="False">
+      <Graphic Width="197" Height="37" X="262" Y="407">我認為是柏林</Graphic>
+    </Event>
+    <Event InTC="00:45:12:13" OutTC="00:45:13:12" Forced="False">
+      <Graphic Width="98" Height="36" X="311" Y="407">我也是</Graphic>
+    </Event>
+    <Event InTC="00:45:13:23" OutTC="00:45:15:17" Forced="False">
+      <Graphic Width="165" Height="36" X="278" Y="407">那就開動吧</Graphic>
+    </Event>
+    <Event InTC="00:45:35:04" OutTC="00:45:38:08" Forced="False">
+      <Graphic Width="455" Height="36" X="132" Y="407">這裡有一顆西瓜,吃了還能解渴</Graphic>
+    </Event>
+    <Event InTC="00:45:38:08" OutTC="00:45:39:19" Forced="False">
+      <Graphic Width="210" Height="36" X="252" Y="407">謝謝 -多謝了</Graphic>
+    </Event>
+    <Event InTC="00:45:40:09" OutTC="00:45:42:12" Forced="False">
+      <Graphic Width="116" Height="34" X="302" Y="409">掰掰</Graphic>
+    </Event>
+    <Event InTC="00:45:47:00" OutTC="00:45:48:11" Forced="False">
+      <Graphic Width="162" Height="37" X="278" Y="407">我要考一題</Graphic>
+    </Event>
+    <Event InTC="00:45:49:15" OutTC="00:45:53:05" Forced="False">
+      <Graphic Width="386" Height="37" X="163" Y="407">你要怎麼用手錶判斷北方?</Graphic>
+    </Event>
+    <Event InTC="00:45:53:05" OutTC="00:45:54:22" Forced="False">
+      <Graphic Width="228" Height="36" X="247" Y="407">用時針對準太陽</Graphic>
+    </Event>
+    <Event InTC="00:45:54:22" OutTC="00:45:57:17" Forced="False">
+      <Graphic Width="456" Height="37" X="132" Y="407">然後把分針轉到12,那就是南方</Graphic>
+    </Event>
+    <Event InTC="00:45:58:21" OutTC="00:45:59:24" Forced="False">
+      <Graphic Width="94" Height="35" X="310" Y="408">答對了</Graphic>
+    </Event>
+    <Event InTC="00:46:00:19" OutTC="00:46:02:06" Forced="False">
+      <Graphic Width="116" Height="34" X="302" Y="409">掰掰</Graphic>
+    </Event>
+    <Event InTC="00:46:05:00" OutTC="00:46:05:22" Forced="False">
+      <Graphic Width="163" Height="36" X="278" Y="407">這家人很酷</Graphic>
+    </Event>
+    <Event InTC="00:46:07:00" OutTC="00:46:08:01" Forced="False">
+      <Graphic Width="131" Height="36" X="292" Y="407">超聰明的</Graphic>
+    </Event>
+    <Event InTC="00:46:11:06" OutTC="00:46:12:14" Forced="False">
+      <Graphic Width="158" Height="34" X="277" Y="409">爸爸人咧?</Graphic>
+    </Event>
+    <Event InTC="00:46:13:24" OutTC="00:46:14:20" Forced="False">
+      <Graphic Width="95" Height="37" X="314" Y="407">問得好</Graphic>
+    </Event>
+    <Event InTC="00:46:15:03" OutTC="00:46:17:07" Forced="False">
+      <Graphic Width="344" Height="37" X="187" Y="407">你先走,我得尿尿-好</Graphic>
+    </Event>
+    <Event InTC="00:46:46:04" OutTC="00:46:47:19" Forced="False">
+      <Graphic Width="343" Height="37" X="187" Y="407">把駕照拿出來! -等等</Graphic>
+    </Event>
+    <Event InTC="00:46:47:19" OutTC="00:46:49:04" Forced="False">
+      <Graphic Width="190" Height="37" X="261" Y="407">你今年幾歲?</Graphic>
+    </Event>
+    <Event InTC="00:46:50:00" OutTC="00:46:51:09" Forced="False">
+      <Graphic Width="93" Height="36" X="313" Y="407">開車門</Graphic>
+    </Event>
+    <Event InTC="00:46:51:15" OutTC="00:46:53:14" Forced="False">
+      <Graphic Width="128" Height="34" X="294" Y="408">快點打開</Graphic>
+    </Event>
+    <Event InTC="00:46:54:04" OutTC="00:46:55:14" Forced="False">
+      <Graphic Width="67" Height="33" X="327" Y="408">該死</Graphic>
+    </Event>
+    <Event InTC="00:47:01:07" OutTC="00:47:03:15" Forced="False">
+      <Graphic Width="260" Height="37" X="231" Y="407">靠,麥克,對不起</Graphic>
+    </Event>
+    <Event InTC="00:47:18:21" OutTC="00:47:20:08" Forced="False">
+      <Graphic Width="348" Height="37" X="179" Y="407">別把情況搞得更難看了!</Graphic>
+    </Event>
+    <Event InTC="00:47:28:02" OutTC="00:47:29:16" Forced="False">
+      <Graphic Width="164" Height="36" X="278" Y="407">給我停下來</Graphic>
+    </Event>
+    <Event InTC="00:48:24:20" OutTC="00:48:25:23" Forced="False">
+      <Graphic Width="189" Height="36" X="262" Y="407">我該怎麼辦?</Graphic>
+    </Event>
+    <Event InTC="00:48:26:17" OutTC="00:48:29:10" Forced="False">
+      <Graphic Width="490" Height="36" X="115" Y="407">我可能在柏林南方一、兩百公里處</Graphic>
+    </Event>
+    <Event InTC="00:48:30:03" OutTC="00:48:32:11" Forced="False">
+      <Graphic Width="420" Height="37" X="148" Y="407">奇克卻開著淺藍色拉達車跑了</Graphic>
+    </Event>
+    <Event InTC="00:48:32:11" OutTC="00:48:34:07" Forced="False">
+      <Graphic Width="328" Height="37" X="196" Y="407">現在所有的警察都在追</Graphic>
+    </Event>
+    <Event InTC="00:48:34:19" OutTC="00:48:37:20" Forced="False">
+      <Graphic Width="359" Height="37" X="180" Y="407">我不曉得我們要怎麼集合</Graphic>
+    </Event>
+    <Event InTC="00:48:41:09" OutTC="00:48:44:20" Forced="False">
+      <Graphic Width="358" Height="36" X="180" Y="407">我猜通常,我們會試著…</Graphic>
+    </Event>
+    <Event InTC="00:48:44:20" OutTC="00:48:47:00" Forced="False">
+      <Graphic Width="293" Height="36" X="212" Y="407">去最後的失散處碰面</Graphic>
+    </Event>
+    <Event InTC="00:48:47:11" OutTC="00:48:49:04" Forced="False">
+      <Graphic Width="225" Height="35" X="245" Y="408">但這下行不通了</Graphic>
+    </Event>
+    <Event InTC="00:48:49:04" OutTC="00:48:50:24" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="407">鄉下警察就等在那裡</Graphic>
+    </Event>
+    <Event InTC="00:48:59:21" OutTC="00:49:00:18" Forced="False">
+      <Graphic Width="92" Height="34" X="310" Y="408">哈囉?</Graphic>
+    </Event>
+    <Event InTC="00:49:13:10" OutTC="00:49:16:15" Forced="False">
+      <Graphic Width="456" Height="36" X="131" Y="407">如果不能在最後見面的地方碰面</Graphic>
+    </Event>
+    <Event InTC="00:49:16:15" OutTC="00:49:19:07" Forced="False">
+      <Graphic Width="425" Height="35" X="147" Y="407">就回上一個一起去的安全地點</Graphic>
+    </Event>
+    <Event InTC="00:49:19:16" OutTC="00:49:20:18" Forced="False">
+      <Graphic Width="98" Height="36" X="311" Y="407">風力機</Graphic>
+    </Event>
+    <Event InTC="00:49:21:02" OutTC="00:49:22:11" Forced="False">
+      <Graphic Width="261" Height="36" X="231" Y="407">最簡單的解決辦法</Graphic>
+    </Event>
+    <Event InTC="00:49:23:07" OutTC="00:49:25:02" Forced="False">
+      <Graphic Width="195" Height="37" X="262" Y="407">我愈仔細思考</Graphic>
+    </Event>
+    <Event InTC="00:49:25:02" OutTC="00:49:28:03" Forced="False">
+      <Graphic Width="392" Height="37" X="164" Y="407">愈相信奇克的想法也會一樣</Graphic>
+    </Event>
+    <Event InTC="00:49:37:16" OutTC="00:49:38:17" Forced="False">
+      <Graphic Width="91" Height="37" X="311" Y="407">奇克?</Graphic>
+    </Event>
+    <Event InTC="00:49:40:24" OutTC="00:49:41:23" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">奇克</Graphic>
+    </Event>
+    <Event InTC="00:50:00:12" OutTC="00:50:01:16" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">奇克</Graphic>
+    </Event>
+    <Event InTC="00:50:06:03" OutTC="00:50:08:19" Forced="False">
+      <Graphic Width="281" Height="36" X="214" Y="407">最後一個安全地點!</Graphic>
+    </Event>
+    <Event InTC="00:50:10:04" OutTC="00:50:11:00" Forced="False">
+      <Graphic Width="64" Height="35" X="327" Y="408">哇咧</Graphic>
+    </Event>
+    <Event InTC="00:50:22:05" OutTC="00:50:24:07" Forced="False">
+      <Graphic Width="408" Height="36" X="155" Y="407">你喜歡這個顏色嗎? -超狂</Graphic>
+    </Event>
+    <Event InTC="00:50:24:16" OutTC="00:50:27:09" Forced="False">
+      <Graphic Width="440" Height="36" X="139" Y="407">你從哪弄來的車牌? -慕尼黑</Graphic>
+    </Event>
+    <Event InTC="00:50:36:18" OutTC="00:50:38:13" Forced="False">
+      <Graphic Width="158" Height="36" X="279" Y="407">靠,沒油了</Graphic>
+    </Event>
+    <Event InTC="00:50:54:18" OutTC="00:50:56:12" Forced="False">
+      <Graphic Width="190" Height="35" X="261" Y="408">要去哪弄油?</Graphic>
+    </Event>
+    <Event InTC="00:50:57:11" OutTC="00:50:59:18" Forced="False">
+      <Graphic Width="320" Height="36" X="197" Y="407">還是再偷一輛車就好?</Graphic>
+    </Event>
+    <Event InTC="00:51:00:07" OutTC="00:51:01:16" Forced="False">
+      <Graphic Width="190" Height="35" X="261" Y="408">你起肖了嗎?</Graphic>
+    </Event>
+    <Event InTC="00:51:01:16" OutTC="00:51:04:06" Forced="False">
+      <Graphic Width="391" Height="36" X="164" Y="407">我們不能每次沒油就偷新車</Graphic>
+    </Event>
+    <Event InTC="00:51:09:11" OutTC="00:51:11:04" Forced="False">
+      <Graphic Width="420" Height="36" X="148" Y="407">那我們的旅途就到這裡結束了</Graphic>
+    </Event>
+    <Event InTC="00:51:13:08" OutTC="00:51:15:08" Forced="False">
+      <Graphic Width="325" Height="36" X="197" Y="407">我本來想把車開回去的</Graphic>
+    </Event>
+    <Event InTC="00:51:21:04" OutTC="00:51:22:14" Forced="False">
+      <Graphic Width="194" Height="36" X="262" Y="407">我們有夠瞎的</Graphic>
+    </Event>
+    <Event InTC="00:51:23:00" OutTC="00:51:26:03" Forced="False">
+      <Graphic Width="386" Height="36" X="165" Y="407">只要偷另一輛車的油就行了</Graphic>
+    </Event>
+    <Event InTC="00:51:30:08" OutTC="00:51:31:09" Forced="False">
+      <Graphic Width="123" Height="36" X="295" Y="407">怎麼偷?</Graphic>
+    </Event>
+    <Event InTC="00:51:32:21" OutTC="00:51:34:00" Forced="False">
+      <Graphic Width="261" Height="37" X="230" Y="406">我們需要一根水管</Graphic>
+    </Event>
+    <Event InTC="00:52:59:20" OutTC="00:53:00:20" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">麥克</Graphic>
+    </Event>
+    <Event InTC="00:53:06:16" OutTC="00:53:08:07" Forced="False">
+      <Graphic Width="293" Height="37" X="215" Y="406">太好了,來根水管吧</Graphic>
+    </Event>
+    <Event InTC="00:53:09:00" OutTC="00:53:10:13" Forced="False">
+      <Graphic Width="159" Height="36" X="279" Y="407">完全沒看到</Graphic>
+    </Event>
+    <Event InTC="00:53:24:21" OutTC="00:53:26:20" Forced="False">
+      <Graphic Width="63" Height="34" X="328" Y="408">走開</Graphic>
+    </Event>
+    <Event InTC="00:53:29:09" OutTC="00:53:30:03" Forced="False">
+      <Graphic Width="59" Height="33" X="328" Y="409">啥?</Graphic>
+    </Event>
+    <Event InTC="00:53:30:15" OutTC="00:53:31:24" Forced="False">
+      <Graphic Width="129" Height="37" X="295" Y="407">兩個智障</Graphic>
+    </Event>
+    <Event InTC="00:53:32:03" OutTC="00:53:33:08" Forced="False">
+      <Graphic Width="190" Height="35" X="261" Y="408">你起肖了嗎?</Graphic>
+    </Event>
+    <Event InTC="00:53:33:08" OutTC="00:53:34:24" Forced="False">
+      <Graphic Width="323" Height="37" X="196" Y="407">智障,你聽到我的話了</Graphic>
+    </Event>
+    <Event InTC="00:53:34:24" OutTC="00:53:36:19" Forced="False">
+      <Graphic Width="229" Height="37" X="245" Y="407">你朋友也是智障</Graphic>
+    </Event>
+    <Event InTC="00:53:37:09" OutTC="00:53:39:00" Forced="False">
+      <Graphic Width="255" Height="35" X="230" Y="408">那個死三八是誰?</Graphic>
+    </Event>
+    <Event InTC="00:53:39:00" OutTC="00:53:40:24" Forced="False">
+      <Graphic Width="163" Height="36" X="277" Y="407">你蠢到爆炸</Graphic>
+    </Event>
+    <Event InTC="00:53:40:24" OutTC="00:53:42:24" Forced="False">
+      <Graphic Width="197" Height="35" X="261" Y="408">屁啦,你閉嘴</Graphic>
+    </Event>
+    <Event InTC="00:53:43:06" OutTC="00:53:45:16" Forced="False">
+      <Graphic Width="375" Height="36" X="173" Y="407">死東方人-我是俄羅斯人</Graphic>
+    </Event>
+    <Event InTC="00:53:45:20" OutTC="00:53:48:10" Forced="False">
+      <Graphic Width="377" Height="36" X="171" Y="407">俄羅斯娘炮-我要上去囉</Graphic>
+    </Event>
+    <Event InTC="00:53:48:10" OutTC="00:53:50:02" Forced="False">
+      <Graphic Width="229" Height="36" X="247" Y="407">小孬孬,上來啊</Graphic>
+    </Event>
+    <Event InTC="00:53:50:02" OutTC="00:53:51:12" Forced="False">
+      <Graphic Width="130" Height="36" X="294" Y="407">我好怕喔</Graphic>
+    </Event>
+    <Event InTC="00:53:52:08" OutTC="00:53:53:18" Forced="False">
+      <Graphic Width="196" Height="36" X="260" Y="407">她腦袋有問題</Graphic>
+    </Event>
+    <Event InTC="00:53:56:03" OutTC="00:53:57:06" Forced="False">
+      <Graphic Width="190" Height="34" X="261" Y="408">你們在找啥?</Graphic>
+    </Event>
+    <Event InTC="00:53:57:20" OutTC="00:53:59:10" Forced="False">
+      <Graphic Width="98" Height="35" X="311" Y="408">一坨屎</Graphic>
+    </Event>
+    <Event InTC="00:54:02:03" OutTC="00:54:04:12" Forced="False">
+      <Graphic Width="195" Height="37" X="262" Y="406">我們在找水管</Graphic>
+    </Event>
+    <Event InTC="00:54:05:15" OutTC="00:54:06:20" Forced="False">
+      <Graphic Width="162" Height="37" X="279" Y="406">水管在那邊</Graphic>
+    </Event>
+    <Event InTC="00:54:12:21" OutTC="00:54:14:00" Forced="False">
+      <Graphic Width="85" Height="37" X="312" Y="406">水管!</Graphic>
+    </Event>
+    <Event InTC="00:54:22:15" OutTC="00:54:24:03" Forced="False">
+      <Graphic Width="256" Height="37" X="229" Y="406">你們要水管幹嘛?</Graphic>
+    </Event>
+    <Event InTC="00:54:24:15" OutTC="00:54:26:17" Forced="False">
+      <Graphic Width="326" Height="36" X="197" Y="407">這是給我爸的生日禮物</Graphic>
+    </Event>
+    <Event InTC="00:54:27:07" OutTC="00:54:29:03" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="406">我告訴你們水管在哪</Graphic>
+    </Event>
+    <Event InTC="00:54:29:03" OutTC="00:54:31:12" Forced="False">
+      <Graphic Width="359" Height="37" X="180" Y="406">快告訴我你們要水管幹嘛</Graphic>
+    </Event>
+    <Event InTC="00:54:31:23" OutTC="00:54:33:11" Forced="False">
+      <Graphic Width="228" Height="36" X="246" Y="407">我們偷了一部車</Graphic>
+    </Event>
+    <Event InTC="00:54:33:11" OutTC="00:54:35:00" Forced="False">
+      <Graphic Width="228" Height="37" X="245" Y="407">現在我們得偷油</Graphic>
+    </Event>
+    <Event InTC="00:54:35:12" OutTC="00:54:37:14" Forced="False">
+      <Graphic Width="229" Height="37" X="245" Y="407">你們是真的智障</Graphic>
+    </Event>
+    <Event InTC="00:54:37:14" OutTC="00:54:39:13" Forced="False">
+      <Graphic Width="354" Height="37" X="180" Y="406">告訴你們水管在哪也沒用</Graphic>
+    </Event>
+    <Event InTC="00:54:44:16" OutTC="00:54:46:16" Forced="False">
+      <Graphic Width="296" Height="37" X="212" Y="407">你們愛怎樣就怎樣吧</Graphic>
+    </Event>
+    <Event InTC="00:54:48:07" OutTC="00:54:49:09" Forced="False">
+      <Graphic Width="132" Height="37" X="293" Y="407">喂,麥克</Graphic>
+    </Event>
+    <Event InTC="00:54:52:13" OutTC="00:54:53:07" Forced="False">
+      <Graphic Width="91" Height="33" X="313" Y="408">太好了</Graphic>
+    </Event>
+    <Event InTC="00:55:00:19" OutTC="00:55:03:08" Forced="False">
+      <Graphic Width="468" Height="36" X="123" Y="407">有吃的嗎? -我們看起來有嗎?</Graphic>
+    </Event>
+    <Event InTC="00:55:03:08" OutTC="00:55:04:22" Forced="False">
+      <Graphic Width="262" Height="37" X="229" Y="407">你們看起來像智障</Graphic>
+    </Event>
+    <Event InTC="00:55:05:23" OutTC="00:55:07:12" Forced="False">
+      <Graphic Width="230" Height="36" X="245" Y="407">你講話一直跳針</Graphic>
+    </Event>
+    <Event InTC="00:55:17:23" OutTC="00:55:18:21" Forced="False">
+      <Graphic Width="93" Height="36" X="311" Y="407">我餓了</Graphic>
+    </Event>
+    <Event InTC="00:55:20:24" OutTC="00:55:22:11" Forced="False">
+      <Graphic Width="231" Height="37" X="245" Y="407">後面那裡有黑莓</Graphic>
+    </Event>
+    <Event InTC="00:55:25:00" OutTC="00:55:26:17" Forced="False">
+      <Graphic Width="246" Height="37" X="238" Y="407">我還以為你是gay</Graphic>
+    </Event>
+    <Event InTC="00:55:27:11" OutTC="00:55:29:12" Forced="False">
+      <Graphic Width="164" Height="36" X="279" Y="407">才會塗口紅</Graphic>
+    </Event>
+    <Event InTC="00:55:33:07" OutTC="00:55:34:16" Forced="False">
+      <Graphic Width="190" Height="34" X="261" Y="408">你們要去哪?</Graphic>
+    </Event>
+    <Event InTC="00:55:34:24" OutTC="00:55:35:24" Forced="False">
+      <Graphic Width="127" Height="37" X="297" Y="407">瓦拉幾亞</Graphic>
+    </Event>
+    <Event InTC="00:55:37:03" OutTC="00:55:39:07" Forced="False">
+      <Graphic Width="294" Height="36" X="213" Y="407">我要去布拉格,順路</Graphic>
+    </Event>
+    <Event InTC="00:55:39:07" OutTC="00:55:40:17" Forced="False">
+      <Graphic Width="65" Height="35" X="329" Y="408">才怪</Graphic>
+    </Event>
+    <Event InTC="00:55:41:22" OutTC="00:55:42:20" Forced="False">
+      <Graphic Width="55" Height="33" X="327" Y="409">喂!</Graphic>
+    </Event>
+    <Event InTC="00:55:45:04" OutTC="00:55:47:05" Forced="False">
+      <Graphic Width="256" Height="36" X="229" Y="407">你知道你很臭嗎?</Graphic>
+    </Event>
+    <Event InTC="00:55:47:11" OutTC="00:55:49:20" Forced="False">
+      <Graphic Width="360" Height="37" X="179" Y="407">你臭得跟大便一樣,滾啦</Graphic>
+    </Event>
+    <Event InTC="00:56:04:02" OutTC="00:56:06:16" Forced="False">
+      <Graphic Width="229" Height="36" X="245" Y="407">你用不著說她臭</Graphic>
+    </Event>
+    <Event InTC="00:56:07:11" OutTC="00:56:08:18" Forced="False">
+      <Graphic Width="228" Height="37" X="246" Y="407">我總得說個什麼</Graphic>
+    </Event>
+    <Event InTC="00:56:09:07" OutTC="00:56:12:03" Forced="False">
+      <Graphic Width="227" Height="36" X="247" Y="407">而且她真的超臭</Graphic>
+    </Event>
+    <Event InTC="00:56:12:18" OutTC="00:56:15:12" Forced="False">
+      <Graphic Width="426" Height="36" X="146" Y="407">她的眼睛很漂亮,但她是怪咖</Graphic>
+    </Event>
+    <Event InTC="00:56:28:00" OutTC="00:56:29:04" Forced="False">
+      <Graphic Width="215" Height="34" X="252" Y="408">打開了-水啦</Graphic>
+    </Event>
+    <Event InTC="00:56:33:00" OutTC="00:56:34:07" Forced="False">
+      <Graphic Width="131" Height="35" X="294" Y="407">先用力吸</Graphic>
+    </Event>
+    <Event InTC="00:56:39:15" OutTC="00:56:41:23" Forced="False">
+      <Graphic Width="394" Height="36" X="163" Y="407">聽過重力嗎?油不會往上流</Graphic>
+    </Event>
+    <Event InTC="00:56:41:23" OutTC="00:56:45:15" Forced="False">
+      <Graphic Width="327" Height="36" X="198" Y="407">油動起來以後會往下流</Graphic>
+    </Event>
+    <Event InTC="00:56:45:15" OutTC="00:56:47:23" Forced="False">
+      <Graphic Width="229" Height="34" X="247" Y="408">可是油又不知道</Graphic>
+    </Event>
+    <Event InTC="00:56:47:23" OutTC="00:56:50:03" Forced="False">
+      <Graphic Width="196" Height="36" X="262" Y="407">這是物理定律</Graphic>
+    </Event>
+    <Event InTC="00:56:50:03" OutTC="00:56:52:09" Forced="False">
+      <Graphic Width="292" Height="36" X="213" Y="407">這有名稱,什麼力的</Graphic>
+    </Event>
+    <Event InTC="00:56:52:09" OutTC="00:56:53:15" Forced="False">
+      <Graphic Width="132" Height="34" X="293" Y="408">狗屁力啦</Graphic>
+    </Event>
+    <Event InTC="00:56:54:04" OutTC="00:56:55:09" Forced="False">
+      <Graphic Width="353" Height="37" X="179" Y="407">你都沒在電影裡看過嗎?</Graphic>
+    </Event>
+    <Event InTC="00:56:55:09" OutTC="00:56:56:13" Forced="False">
+      <Graphic Width="196" Height="37" X="261" Y="407">對啦,電影有</Graphic>
+    </Event>
+    <Event InTC="00:56:59:21" OutTC="00:57:01:03" Forced="False">
+      <Graphic Width="262" Height="35" X="228" Y="407">說不定油箱是空的</Graphic>
+    </Event>
+    <Event InTC="00:57:03:08" OutTC="00:57:05:04" Forced="False">
+      <Graphic Width="292" Height="36" X="213" Y="407">這是濕的,一定有油</Graphic>
+    </Event>
+    <Event InTC="00:57:07:07" OutTC="00:57:08:11" Forced="False">
+      <Graphic Width="127" Height="36" X="293" Y="407">有人來了</Graphic>
+    </Event>
+    <Event InTC="00:57:09:11" OutTC="00:57:10:12" Forced="False">
+      <Graphic Width="66" Height="34" X="328" Y="408">快走</Graphic>
+    </Event>
+    <Event InTC="00:57:17:14" OutTC="00:57:19:12" Forced="False">
+      <Graphic Width="312" Height="36" X="204" Y="408">你在幹嘛? -僞裝啊</Graphic>
+    </Event>
+    <Event InTC="00:57:30:00" OutTC="00:57:31:09" Forced="False">
+      <Graphic Width="164" Height="37" X="277" Y="407">你們是智障</Graphic>
+    </Event>
+    <Event InTC="00:57:31:17" OutTC="00:57:33:00" Forced="False">
+      <Graphic Width="163" Height="37" X="277" Y="407">有夠專業的</Graphic>
+    </Event>
+    <Event InTC="00:57:33:00" OutTC="00:57:35:13" Forced="False">
+      <Graphic Width="475" Height="37" X="123" Y="407">你可以再大聲一點嗎? -蠢到爆</Graphic>
+    </Event>
+    <Event InTC="00:57:35:13" OutTC="00:57:38:15" Forced="False">
+      <Graphic Width="476" Height="36" X="123" Y="407">聽過吸這個字嗎? -我們有吸啊</Graphic>
+    </Event>
+    <Event InTC="00:57:39:11" OutTC="00:57:40:15" Forced="False">
+      <Graphic Width="129" Height="37" X="295" Y="406">水管給我</Graphic>
+    </Event>
+    <Event InTC="00:57:52:22" OutTC="00:57:54:15" Forced="False">
+      <Graphic Width="386" Height="36" X="163" Y="407">你在俄羅斯沒偷過汽油嗎?</Graphic>
+    </Event>
+    <Event InTC="00:57:54:21" OutTC="00:57:56:09" Forced="False">
+      <Graphic Width="292" Height="36" X="214" Y="407">沒有,你種族歧視喔</Graphic>
+    </Event>
+    <Event InTC="00:57:56:18" OutTC="00:57:58:05" Forced="False">
+      <Graphic Width="287" Height="37" X="213" Y="407">我們為什麼會失敗?</Graphic>
+    </Event>
+    <Event InTC="00:57:58:22" OutTC="00:58:00:18" Forced="False">
+      <Graphic Width="293" Height="38" X="214" Y="406">水管得低於水位才行</Graphic>
+    </Event>
+    <Event InTC="00:58:01:03" OutTC="00:58:03:12" Forced="False">
+      <Graphic Width="279" Height="35" X="221" Y="408">要低於水位喔-對</Graphic>
+    </Event>
+    <Event InTC="00:58:04:16" OutTC="00:58:07:05" Forced="False">
+      <Graphic Width="345" Height="35" X="187" Y="407">什麼水位? 你問她啊</Graphic>
+    </Event>
+    <Event InTC="00:58:11:07" OutTC="00:58:13:19" Forced="False">
+      <Graphic Width="245" Height="37" X="238" Y="407">我叫伊莎-很好</Graphic>
+    </Event>
+    <Event InTC="00:58:14:11" OutTC="00:58:15:24" Forced="False">
+      <Graphic Width="288" Height="37" X="212" Y="407">你為啥要去布拉格?</Graphic>
+    </Event>
+    <Event InTC="00:58:16:23" OutTC="00:58:18:18" Forced="False">
+      <Graphic Width="326" Height="36" X="196" Y="407">去找我同父異母的姊姊</Graphic>
+    </Event>
+    <Event InTC="00:58:26:18" OutTC="00:58:29:21" Forced="False">
+      <Graphic Width="438" Height="36" X="142" Y="407">太熱了?-不是,你還是很臭</Graphic>
+    </Event>
+    <Event InTC="00:58:33:13" OutTC="00:58:35:00" Forced="False">
+      <Graphic Width="262" Height="36" X="229" Y="407">你的頭髮住了頭蝨</Graphic>
+    </Event>
+    <Event InTC="00:58:37:15" OutTC="00:58:38:20" Forced="False">
+      <Graphic Width="99" Height="36" X="311" Y="407">我知道</Graphic>
+    </Event>
+    <Event InTC="00:58:40:13" OutTC="00:58:41:19" Forced="False">
+      <Graphic Width="164" Height="37" X="277" Y="407">放這捲卡帶</Graphic>
+    </Event>
+    <Event InTC="00:59:01:03" OutTC="00:59:03:03" Forced="False">
+      <Graphic Width="393" Height="36" X="163" Y="407">你有注意到鏡子是左右相反</Graphic>
+    </Event>
+    <Event InTC="00:59:03:03" OutTC="00:59:05:02" Forced="False">
+      <Graphic Width="286" Height="35" X="214" Y="408">而不是上下顛倒嗎?</Graphic>
+    </Event>
+    <Event InTC="00:59:06:01" OutTC="00:59:08:12" Forced="False">
+      <Graphic Width="225" Height="36" X="245" Y="407">有,我注意到了</Graphic>
+    </Event>
+    <Event InTC="01:00:08:22" OutTC="01:00:10:09" Forced="False">
+      <Graphic Width="129" Height="37" X="295" Y="407">想都別想</Graphic>
+    </Event>
+    <Event InTC="01:00:33:05" OutTC="01:00:34:09" Forced="False">
+      <Graphic Width="97" Height="35" X="310" Y="408">你們看</Graphic>
+    </Event>
+    <Event InTC="01:01:41:21" OutTC="01:01:44:00" Forced="False">
+      <Graphic Width="310" Height="37" X="203" Y="407">她不會游泳-她裝的</Graphic>
+    </Event>
+    <Event InTC="01:01:47:20" OutTC="01:01:49:04" Forced="False">
+      <Graphic Width="164" Height="37" X="277" Y="407">你們是智障</Graphic>
+    </Event>
+    <Event InTC="01:01:50:02" OutTC="01:01:52:03" Forced="False">
+      <Graphic Width="294" Height="36" X="213" Y="407">這裡有禮物,沐浴乳</Graphic>
+    </Event>
+    <Event InTC="01:01:53:05" OutTC="01:01:54:21" Forced="False">
+      <Graphic Width="262" Height="36" X="229" Y="407">你可能從來沒看過</Graphic>
+    </Event>
+    <Event InTC="01:01:55:14" OutTC="01:01:56:20" Forced="False">
+      <Graphic Width="228" Height="37" X="246" Y="407">我覺得有點悲………</Graphic>
+    </Event>
+    <Event InTC="01:02:02:23" OutTC="01:02:05:23" Forced="False">
+      <Graphic Width="295" Height="36" X="212" Y="407">你比你男朋友還要笨</Graphic>
+    </Event>
+    <Event InTC="01:02:15:00" OutTC="01:02:16:13" Forced="False">
+      <Graphic Width="360" Height="37" X="179" Y="406">有教養的人要穿這樣游泳</Graphic>
+    </Event>
+    <Event InTC="01:02:29:20" OutTC="01:02:31:08" Forced="False">
+      <Graphic Width="196" Height="36" X="262" Y="407">我也要沐浴乳</Graphic>
+    </Event>
+    <Event InTC="01:03:00:12" OutTC="01:03:01:21" Forced="False">
+      <Graphic Width="229" Height="36" X="246" Y="407">我去弄點吃的來</Graphic>
+    </Event>
+    <Event InTC="01:03:25:05" OutTC="01:03:26:20" Forced="False">
+      <Graphic Width="161" Height="37" X="279" Y="407">幫我剪頭髮</Graphic>
+    </Event>
+    <Event InTC="01:03:30:16" OutTC="01:03:32:07" Forced="False">
+      <Graphic Width="260" Height="37" X="230" Y="407">我沒幫人剪過頭髮</Graphic>
+    </Event>
+    <Event InTC="01:03:32:16" OutTC="01:03:34:11" Forced="False">
+      <Graphic Width="262" Height="36" X="230" Y="407">無所謂,全部剪掉</Graphic>
+    </Event>
+    <Event InTC="01:03:40:21" OutTC="01:03:43:01" Forced="False">
+      <Graphic Width="374" Height="37" X="172" Y="407">我不想T恤上弄得都是頭髮</Graphic>
+    </Event>
+    <Event InTC="01:04:13:15" OutTC="01:04:14:23" Forced="False">
+      <Graphic Width="222" Height="36" X="246" Y="407">看起來很醜吧?</Graphic>
+    </Event>
+    <Event InTC="01:04:16:08" OutTC="01:04:17:06" Forced="False">
+      <Graphic Width="97" Height="35" X="310" Y="408">很好看</Graphic>
+    </Event>
+    <Event InTC="01:04:33:11" OutTC="01:04:34:22" Forced="False">
+      <Graphic Width="158" Height="35" X="277" Y="408">你做過嗎?</Graphic>
+    </Event>
+    <Event InTC="01:04:35:24" OutTC="01:04:38:01" Forced="False">
+      <Graphic Width="372" Height="36" X="171" Y="407">什麼? -你聽到我的話了</Graphic>
+    </Event>
+    <Event InTC="01:04:38:15" OutTC="01:04:39:14" Forced="False">
+      <Graphic Width="64" Height="36" X="329" Y="407">沒有</Graphic>
+    </Event>
+    <Event InTC="01:04:44:00" OutTC="01:04:44:21" Forced="False">
+      <Graphic Width="124" Height="36" X="294" Y="407">然後咧?</Graphic>
+    </Event>
+    <Event InTC="01:04:46:12" OutTC="01:04:47:08" Forced="False">
+      <Graphic Width="124" Height="35" X="294" Y="407">然後啥?</Graphic>
+    </Event>
+    <Event InTC="01:04:49:24" OutTC="01:04:50:20" Forced="False">
+      <Graphic Width="158" Height="35" X="277" Y="408">你想要嗎?</Graphic>
+    </Event>
+    <Event InTC="01:04:52:16" OutTC="01:04:53:13" Forced="False">
+      <Graphic Width="156" Height="36" X="279" Y="407">想要什麼?</Graphic>
+    </Event>
+    <Event InTC="01:05:00:07" OutTC="01:05:02:12" Forced="False">
+      <Graphic Width="194" Height="36" X="263" Y="407">不過我喜歡…</Graphic>
+    </Event>
+    <Event InTC="01:05:04:17" OutTC="01:05:06:16" Forced="False">
+      <Graphic Width="328" Height="36" X="196" Y="407">你把手放在我的膝蓋上</Graphic>
+    </Event>
+    <Event InTC="01:05:10:11" OutTC="01:05:11:12" Forced="False">
+      <Graphic Width="91" Height="35" X="311" Y="408">是嗎?</Graphic>
+    </Event>
+    <Event InTC="01:05:13:00" OutTC="01:05:13:24" Forced="False">
+      <Graphic Width="34" Height="35" X="342" Y="408">對</Graphic>
+    </Event>
+    <Event InTC="01:05:18:02" OutTC="01:05:19:00" Forced="False">
+      <Graphic Width="124" Height="37" X="294" Y="407">為什麼?</Graphic>
+    </Event>
+    <Event InTC="01:05:27:23" OutTC="01:05:28:21" Forced="False">
+      <Graphic Width="132" Height="37" X="293" Y="407">你在發抖</Graphic>
+    </Event>
+    <Event InTC="01:05:30:08" OutTC="01:05:31:07" Forced="False">
+      <Graphic Width="99" Height="36" X="311" Y="407">我知道</Graphic>
+    </Event>
+    <Event InTC="01:05:32:15" OutTC="01:05:33:21" Forced="False">
+      <Graphic Width="290" Height="37" X="212" Y="407">你知道的事情並不多</Graphic>
+    </Event>
+    <Event InTC="01:05:35:13" OutTC="01:05:36:11" Forced="False">
+      <Graphic Width="99" Height="36" X="311" Y="407">我知道</Graphic>
+    </Event>
+    <Event InTC="01:05:41:17" OutTC="01:05:43:13" Forced="False">
+      <Graphic Width="229" Height="36" X="245" Y="407">如果你想要的話</Graphic>
+    </Event>
+    <Event InTC="01:05:43:20" OutTC="01:05:44:20" Forced="False">
+      <Graphic Width="262" Height="36" X="230" Y="407">我們可以親親就好</Graphic>
+    </Event>
+    <Event InTC="01:05:58:00" OutTC="01:05:59:12" Forced="False">
+      <Graphic Width="189" Height="36" X="262" Y="407">喜歡香腸嗎?</Graphic>
+    </Event>
+    <Event InTC="01:06:36:02" OutTC="01:06:37:12" Forced="False">
+      <Graphic Width="255" Height="36" X="230" Y="407">我們來這裡幹嘛?</Graphic>
+    </Event>
+    <Event InTC="01:06:37:21" OutTC="01:06:41:00" Forced="False">
+      <Graphic Width="360" Height="36" X="179" Y="407">度假啊,就像正常人那樣</Graphic>
+    </Event>
+    <Event InTC="01:06:49:17" OutTC="01:06:51:13" Forced="False">
+      <Graphic Width="360" Height="36" X="178" Y="407">好像「權力遊戲」的場景</Graphic>
+    </Event>
+    <Event InTC="01:06:51:24" OutTC="01:06:53:08" Forced="False">
+      <Graphic Width="161" Height="36" X="276" Y="407">被扶手毀了</Graphic>
+    </Event>
+    <Event InTC="01:07:10:14" OutTC="01:07:11:24" Forced="False">
+      <Graphic Width="162" Height="36" X="278" Y="407">這是最久的</Graphic>
+    </Event>
+    <Event InTC="01:07:12:12" OutTC="01:07:13:20" Forced="False">
+      <Graphic Width="163" Height="37" X="277" Y="407">安索姆威爾</Graphic>
+    </Event>
+    <Event InTC="01:07:14:12" OutTC="01:07:15:20" Forced="False">
+      <Graphic Width="97" Height="37" X="310" Y="407">1906年</Graphic>
+    </Event>
+    <Event InTC="01:07:16:15" OutTC="01:07:17:16" Forced="False">
+      <Graphic Width="93" Height="32" X="311" Y="409">全死了</Graphic>
+    </Event>
+    <Event InTC="01:07:18:18" OutTC="01:07:20:10" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="407">我們一百年後也一樣</Graphic>
+    </Event>
+    <Event InTC="01:07:54:03" OutTC="01:07:56:01" Forced="False">
+      <Graphic Width="167" Height="27" X="275" Y="412">AT、MK、IS</Graphic>
+    </Event>
+    <Event InTC="01:07:56:01" OutTC="01:07:58:02" Forced="False">
+      <Graphic Width="245" Height="36" X="238" Y="407">我喜歡-我也是</Graphic>
+    </Event>
+    <Event InTC="01:07:58:15" OutTC="01:08:02:03" Forced="False">
+      <Graphic Width="229" Height="36" X="245" Y="407">有人只要改一下</Graphic>
+    </Event>
+    <Event InTC="01:08:02:10" OutTC="01:08:04:22" Forced="False">
+      <Graphic Width="409" Height="37" X="147" Y="407">就會變成「2016年核彈危機」</Graphic>
+    </Event>
+    <Event InTC="01:08:07:10" OutTC="01:08:10:06" Forced="False">
+      <Graphic Width="360" Height="36" X="180" Y="407">我們劃破手指抹血上去吧</Graphic>
+    </Event>
+    <Event InTC="01:08:11:04" OutTC="01:08:13:02" Forced="False">
+      <Graphic Width="451" Height="37" X="131" Y="407">你現在是印地安傳奇酋長了嗎?</Graphic>
+    </Event>
+    <Event InTC="01:08:13:02" OutTC="01:08:14:22" Forced="False">
+      <Graphic Width="391" Height="37" X="165" Y="407">不是啊,我是猶太吉普賽人</Graphic>
+    </Event>
+    <Event InTC="01:08:27:03" OutTC="01:08:30:18" Forced="False">
+      <Graphic Width="197" Height="37" X="261" Y="407">(布拉格快車)</Graphic>
+    </Event>
+    <Event InTC="01:08:39:10" OutTC="01:08:41:20" Forced="False">
+      <Graphic Width="346" Height="36" X="186" Y="407">她在幹嘛? -我不知道</Graphic>
+    </Event>
+    <Event InTC="01:08:43:21" OutTC="01:08:45:11" Forced="False">
+      <Graphic Width="223" Height="36" X="245" Y="407">你們有30歐嗎?</Graphic>
+    </Event>
+    <Event InTC="01:08:45:11" OutTC="01:08:47:09" Forced="False">
+      <Graphic Width="292" Height="37" X="213" Y="407">我發誓我會寄給你們</Graphic>
+    </Event>
+    <Event InTC="01:08:48:00" OutTC="01:08:49:20" Forced="False">
+      <Graphic Width="164" Height="36" X="278" Y="407">我姊姊有錢</Graphic>
+    </Event>
+    <Event InTC="01:09:11:12" OutTC="01:09:13:04" Forced="False">
+      <Graphic Width="390" Height="36" X="165" Y="407">沒有你們,我絕對撐不下去</Graphic>
+    </Event>
+    <Event InTC="01:09:40:10" OutTC="01:09:42:02" Forced="False">
+      <Graphic Width="288" Height="37" X="212" Y="407">你不會又戀愛了吧?</Graphic>
+    </Event>
+    <Event InTC="01:09:44:13" OutTC="01:09:45:19" Forced="False">
+      <Graphic Width="161" Height="36" X="279" Y="407">不過說真的</Graphic>
+    </Event>
+    <Event InTC="01:09:46:15" OutTC="01:09:49:00" Forced="False">
+      <Graphic Width="195" Height="36" X="261" Y="407">你挺會把妹的</Graphic>
+    </Event>
+    <Event InTC="01:09:49:24" OutTC="01:09:51:10" Forced="False">
+      <Graphic Width="189" Height="36" X="262" Y="407">是這樣說嗎?</Graphic>
+    </Event>
+    <Event InTC="01:10:02:22" OutTC="01:10:04:03" Forced="False">
+      <Graphic Width="289" Height="37" X="213" Y="407">一切都發生得太快了</Graphic>
+    </Event>
+    <Event InTC="01:10:04:08" OutTC="01:10:07:12" Forced="False">
+      <Graphic Width="296" Height="36" X="215" Y="407">我們在避難所唱著歌</Graphic>
+    </Event>
+    <Event InTC="01:10:07:12" OutTC="01:10:10:08" Forced="False">
+      <Graphic Width="261" Height="35" X="232" Y="408">好耶,世界一團亂</Graphic>
+    </Event>
+    <Event InTC="01:10:10:12" OutTC="01:10:12:22" Forced="False">
+      <Graphic Width="261" Height="35" X="232" Y="408">好耶,世界一團亂</Graphic>
+    </Event>
+    <Event InTC="01:10:12:22" OutTC="01:10:14:00" Forced="False">
+      <Graphic Width="255" Height="36" X="230" Y="407">我是看到鬼了嗎?</Graphic>
+    </Event>
+    <Event InTC="01:10:17:15" OutTC="01:10:18:18" Forced="False">
+      <Graphic Width="119" Height="36" X="294" Y="407">是真的!</Graphic>
+    </Event>
+    <Event InTC="01:10:19:08" OutTC="01:10:20:08" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">奇克</Graphic>
+    </Event>
+    <Event InTC="01:11:16:22" OutTC="01:11:18:03" Forced="False">
+      <Graphic Width="220" Height="36" X="248" Y="407">真的要這樣嗎?</Graphic>
+    </Event>
+    <Event InTC="01:11:18:18" OutTC="01:11:20:04" Forced="False">
+      <Graphic Width="226" Height="36" X="246" Y="407">我才不要往回開</Graphic>
+    </Event>
+    <Event InTC="01:11:37:08" OutTC="01:11:39:14" Forced="False">
+      <Graphic Width="196" Height="34" X="261" Y="408">很好……很好……</Graphic>
+    </Event>
+    <Event InTC="01:11:43:03" OutTC="01:11:44:07" Forced="False">
+      <Graphic Width="163" Height="37" X="278" Y="407">奇克,小心</Graphic>
+    </Event>
+    <Event InTC="01:12:20:22" OutTC="01:12:21:24" Forced="False">
+      <Graphic Width="190" Height="37" X="261" Y="407">你受傷了嗎?</Graphic>
+    </Event>
+    <Event InTC="01:12:28:03" OutTC="01:12:29:08" Forced="False">
+      <Graphic Width="223" Height="37" X="245" Y="407">發生什麼事了?</Graphic>
+    </Event>
+    <Event InTC="01:12:58:10" OutTC="01:12:59:18" Forced="False">
+      <Graphic Width="261" Height="37" X="230" Y="407">我腳受傷不能開車</Graphic>
+    </Event>
+    <Event InTC="01:13:02:02" OutTC="01:13:04:02" Forced="False">
+      <Graphic Width="191" Height="36" X="262" Y="407">那我們就GG了</Graphic>
+    </Event>
+    <Event InTC="01:13:05:16" OutTC="01:13:08:21" Forced="False">
+      <Graphic Width="466" Height="36" X="125" Y="407">不行,你來開-你是起肖了嗎?</Graphic>
+    </Event>
+    <Event InTC="01:13:09:03" OutTC="01:13:11:20" Forced="False">
+      <Graphic Width="457" Height="37" X="131" Y="407">你負責油門跟方向盤,我來打檔</Graphic>
+    </Event>
+    <Event InTC="01:13:12:01" OutTC="01:13:14:00" Forced="False">
+      <Graphic Width="302" Height="37" X="206" Y="407">不行啦-為啥不行?</Graphic>
+    </Event>
+    <Event InTC="01:13:14:16" OutTC="01:13:15:23" Forced="False">
+      <Graphic Width="97" Height="36" X="311" Y="407">我沒膽</Graphic>
+    </Event>
+    <Event InTC="01:13:17:13" OutTC="01:13:19:04" Forced="False">
+      <Graphic Width="196" Height="36" X="262" Y="407">我沒膽又無聊</Graphic>
+    </Event>
+    <Event InTC="01:13:21:13" OutTC="01:13:23:23" Forced="False">
+      <Graphic Width="328" Height="36" X="197" Y="407">我跟你在一起不無聊啊</Graphic>
+    </Event>
+    <Event InTC="01:13:23:23" OutTC="01:13:24:17" Forced="False">
+      <Graphic Width="197" Height="37" X="261" Y="407">你不覺得無聊</Graphic>
+    </Event>
+    <Event InTC="01:13:24:17" OutTC="01:13:27:08" Forced="False">
+      <Graphic Width="455" Height="37" X="133" Y="407">可是塔蒂安娜沒邀我去她的趴踢</Graphic>
+    </Event>
+    <Event InTC="01:13:27:18" OutTC="01:13:29:08" Forced="False">
+      <Graphic Width="158" Height="35" X="277" Y="408">你知道嗎?</Graphic>
+    </Event>
+    <Event InTC="01:13:29:19" OutTC="01:13:30:13" Forced="False">
+      <Graphic Width="197" Height="37" X="261" Y="407">跟伊莎比起來</Graphic>
+    </Event>
+    <Event InTC="01:13:30:13" OutTC="01:13:32:02" Forced="False">
+      <Graphic Width="328" Height="37" X="196" Y="407">塔蒂安娜根本就是腦殘</Graphic>
+    </Event>
+    <Event InTC="01:13:35:04" OutTC="01:13:36:11" Forced="False">
+      <Graphic Width="164" Height="37" X="278" Y="407">我分得出來</Graphic>
+    </Event>
+    <Event InTC="01:13:39:10" OutTC="01:13:40:11" Forced="False">
+      <Graphic Width="94" Height="37" X="314" Y="407">因為…</Graphic>
+    </Event>
+    <Event InTC="01:13:43:01" OutTC="01:13:45:00" Forced="False">
+      <Graphic Width="195" Height="36" X="262" Y="407">我不喜歡女生</Graphic>
+    </Event>
+    <Event InTC="01:13:52:06" OutTC="01:13:54:01" Forced="False">
+      <Graphic Width="261" Height="36" X="230" Y="407">我沒跟任何人說過</Graphic>
+    </Event>
+    <Event InTC="01:13:56:24" OutTC="01:14:01:02" Forced="False">
+      <Graphic Width="293" Height="36" X="212" Y="407">你要怎麼想,我沒差</Graphic>
+    </Event>
+    <Event InTC="01:14:01:16" OutTC="01:14:04:19" Forced="False">
+      <Graphic Width="273" Height="36" X="222" Y="407">我乾脆也當gay算了</Graphic>
+    </Event>
+    <Event InTC="01:14:05:00" OutTC="01:14:06:04" Forced="False">
+      <Graphic Width="132" Height="36" X="292" Y="407">鞋子給我</Graphic>
+    </Event>
+    <Event InTC="01:14:07:08" OutTC="01:14:10:07" Forced="False">
+      <Graphic Width="357" Height="36" X="180" Y="407">這樣就能解決所有的問題</Graphic>
+    </Event>
+    <Event InTC="01:14:10:07" OutTC="01:14:13:07" Forced="False">
+      <Graphic Width="453" Height="37" X="131" Y="407">但我辦不到,我實在太愛女生了</Graphic>
+    </Event>
+    <Event InTC="01:14:23:16" OutTC="01:14:26:16" Forced="False">
+      <Graphic Width="328" Height="36" X="196" Y="407">踩離合器,左邊的踏板</Graphic>
+    </Event>
+    <Event InTC="01:14:29:21" OutTC="01:14:32:09" Forced="False">
+      <Graphic Width="228" Height="36" X="247" Y="407">小心,慢慢放掉</Graphic>
+    </Event>
+    <Event InTC="01:14:35:20" OutTC="01:14:37:03" Forced="False">
+      <Graphic Width="96" Height="34" X="310" Y="408">你很強</Graphic>
+    </Event>
+    <Event InTC="01:14:37:14" OutTC="01:14:39:01" Forced="False">
+      <Graphic Width="131" Height="34" X="293" Y="408">再試一次</Graphic>
+    </Event>
+    <Event InTC="01:14:42:20" OutTC="01:14:44:13" Forced="False">
+      <Graphic Width="96" Height="31" X="312" Y="410">小心・・・</Graphic>
+    </Event>
+    <Event InTC="01:14:44:13" OutTC="01:14:45:22" Forced="False">
+      <Graphic Width="162" Height="35" X="279" Y="408">不要催太猛</Graphic>
+    </Event>
+    <Event InTC="01:14:46:05" OutTC="01:14:47:22" Forced="False">
+      <Graphic Width="227" Height="36" X="245" Y="407">慢慢放掉離合器</Graphic>
+    </Event>
+    <Event InTC="01:14:50:01" OutTC="01:14:52:01" Forced="False">
+      <Graphic Width="225" Height="35" X="245" Y="408">加點油門,對了</Graphic>
+    </Event>
+    <Event InTC="01:14:52:16" OutTC="01:14:53:13" Forced="False">
+      <Graphic Width="62" Height="35" X="327" Y="408">對了</Graphic>
+    </Event>
+    <Event InTC="01:14:54:01" OutTC="01:14:55:20" Forced="False">
+      <Graphic Width="195" Height="36" X="263" Y="407">來,油門再來</Graphic>
+    </Event>
+    <Event InTC="01:14:56:08" OutTC="01:14:57:16" Forced="False">
+      <Graphic Width="132" Height="35" X="293" Y="408">對,水啦</Graphic>
+    </Event>
+    <Event InTC="01:15:15:23" OutTC="01:15:17:14" Forced="False">
+      <Graphic Width="69" Height="33" X="326" Y="409">好啊</Graphic>
+    </Event>
+    <Event InTC="01:15:17:17" OutTC="01:15:19:15" Forced="False">
+      <Graphic Width="230" Height="37" X="245" Y="407">你這孬孬幹得好</Graphic>
+    </Event>
+    <Event InTC="01:15:56:00" OutTC="01:15:57:05" Forced="False">
+      <Graphic Width="132" Height="38" X="292" Y="406">好慘的豬</Graphic>
+    </Event>
+    <Event InTC="01:16:00:07" OutTC="01:16:02:03" Forced="False">
+      <Graphic Width="130" Height="35" X="293" Y="407">什麼北七</Graphic>
+    </Event>
+    <Event InTC="01:16:02:03" OutTC="01:16:03:10" Forced="False">
+      <Graphic Width="99" Height="36" X="309" Y="407">超他車</Graphic>
+    </Event>
+    <Event InTC="01:16:12:15" OutTC="01:16:13:20" Forced="False">
+      <Graphic Width="164" Height="36" X="277" Y="407">從右邊超車</Graphic>
+    </Event>
+    <Event InTC="01:16:22:08" OutTC="01:16:23:16" Forced="False">
+      <Graphic Width="158" Height="37" X="277" Y="407">他有事嗎?</Graphic>
+    </Event>
+    <Event InTC="01:16:25:15" OutTC="01:16:27:15" Forced="False">
+      <Graphic Width="222" Height="37" X="246" Y="407">我要走路肩嗎?</Graphic>
+    </Event>
+    <Event InTC="01:16:27:24" OutTC="01:16:29:09" Forced="False">
+      <Graphic Width="197" Height="37" X="261" Y="407">你覺得行就走</Graphic>
+    </Event>
+    <Event InTC="01:16:29:09" OutTC="01:16:30:20" Forced="False">
+      <Graphic Width="357" Height="36" X="181" Y="407">可以啊,就像俠盜獵車手</Graphic>
+    </Event>
+    <Event InTC="01:17:22:17" OutTC="01:17:23:20" Forced="False">
+      <Graphic Width="98" Height="36" X="312" Y="407">不會吧</Graphic>
+    </Event>
+    <Event InTC="01:17:24:24" OutTC="01:17:26:16" Forced="False">
+      <Graphic Width="131" Height="34" X="293" Y="408">你們是豬</Graphic>
+    </Event>
+    <Event InTC="01:17:26:16" OutTC="01:17:28:07" Forced="False">
+      <Graphic Width="227" Height="36" X="246" Y="407">我要給你們好看</Graphic>
+    </Event>
+    <Event InTC="01:17:28:07" OutTC="01:17:30:06" Forced="False">
+      <Graphic Width="289" Height="38" X="213" Y="406">等我抓到你們就慘了</Graphic>
+    </Event>
+    <Event InTC="01:17:32:17" OutTC="01:17:33:14" Forced="False">
+      <Graphic Width="158" Height="37" X="277" Y="407">你沒事吧?</Graphic>
+    </Event>
+    <Event InTC="01:17:34:19" OutTC="01:17:37:15" Forced="False">
+      <Graphic Width="100" Height="37" X="310" Y="407">救命啊</Graphic>
+    </Event>
+    <Event InTC="01:17:38:17" OutTC="01:17:39:15" Forced="False">
+      <Graphic Width="64" Height="37" X="329" Y="407">沒事</Graphic>
+    </Event>
+    <Event InTC="01:17:40:11" OutTC="01:17:41:05" Forced="False">
+      <Graphic Width="92" Height="34" X="310" Y="408">你呢?</Graphic>
+    </Event>
+    <Event InTC="01:17:44:13" OutTC="01:17:46:04" Forced="False">
+      <Graphic Width="191" Height="37" X="262" Y="407">我想我割傷了</Graphic>
+    </Event>
+    <Event InTC="01:17:49:19" OutTC="01:17:50:21" Forced="False">
+      <Graphic Width="100" Height="37" X="310" Y="407">救命啊</Graphic>
+    </Event>
+    <Event InTC="01:17:57:17" OutTC="01:17:59:05" Forced="False">
+      <Graphic Width="214" Height="37" X="253" Y="407">救命啊-麥克</Graphic>
+    </Event>
+    <Event InTC="01:18:00:04" OutTC="01:18:01:01" Forced="False">
+      <Graphic Width="126" Height="37" X="294" Y="407">我得走了</Graphic>
+    </Event>
+    <Event InTC="01:18:01:11" OutTC="01:18:03:13" Forced="False">
+      <Graphic Width="326" Height="36" X="198" Y="407">否則我會被抓去孤兒院</Graphic>
+    </Event>
+    <Event InTC="01:18:03:24" OutTC="01:18:07:19" Forced="False">
+      <Graphic Width="231" Height="37" X="245" Y="407">救命啊,救命啊</Graphic>
+    </Event>
+    <Event InTC="01:18:11:07" OutTC="01:18:12:03" Forced="False">
+      <Graphic Width="66" Height="37" X="328" Y="407">奇克</Graphic>
+    </Event>
+    <Event InTC="01:18:30:20" OutTC="01:18:32:07" Forced="False">
+      <Graphic Width="259" Height="37" X="231" Y="407">拿去,天氣會變涼</Graphic>
+    </Event>
+    <Event InTC="01:18:49:09" OutTC="01:18:50:15" Forced="False">
+      <Graphic Width="130" Height="36" X="293" Y="407">後會有期</Graphic>
+    </Event>
+    <Event InTC="01:18:55:15" OutTC="01:18:56:22" Forced="False">
+      <Graphic Width="167" Height="36" X="276" Y="407">超狂的外套</Graphic>
+    </Event>
+    <Event InTC="01:19:13:08" OutTC="01:19:15:10" Forced="False">
+      <Graphic Width="197" Height="37" X="262" Y="407">麥克克林伯格</Graphic>
+    </Event>
+    <Event InTC="01:19:16:14" OutTC="01:19:17:24" Forced="False">
+      <Graphic Width="132" Height="37" X="294" Y="407">麥子的麥</Graphic>
+    </Event>
+    <Event InTC="01:19:19:06" OutTC="01:19:22:11" Forced="False">
+      <Graphic Width="351" Height="37" X="181" Y="407">生日? -2002年5月14日</Graphic>
+    </Event>
+    <Event InTC="01:19:24:17" OutTC="01:19:25:24" Forced="False">
+      <Graphic Width="164" Height="37" X="278" Y="407">我只有14歲</Graphic>
+    </Event>
+    <Event InTC="01:19:26:20" OutTC="01:19:28:06" Forced="False">
+      <Graphic Width="131" Height="36" X="294" Y="407">我會算數</Graphic>
+    </Event>
+    <Event InTC="01:19:28:17" OutTC="01:19:31:03" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="407">我還不用負刑事責任</Graphic>
+    </Event>
+    <Event InTC="01:19:31:03" OutTC="01:19:32:03" Forced="False">
+      <Graphic Width="132" Height="36" X="293" Y="407">你當然要</Graphic>
+    </Event>
+    <Event InTC="01:19:32:03" OutTC="01:19:34:06" Forced="False">
+      <Graphic Width="159" Height="37" X="278" Y="407">14歲就要了</Graphic>
+    </Event>
+    <Event InTC="01:19:34:06" OutTC="01:19:35:12" Forced="False">
+      <Graphic Width="188" Height="37" X="263" Y="407">不是15歲嗎?</Graphic>
+    </Event>
+    <Event InTC="01:19:36:15" OutTC="01:19:38:04" Forced="False">
+      <Graphic Width="163" Height="37" X="279" Y="407">不,是14歲</Graphic>
+    </Event>
+    <Event InTC="01:19:38:19" OutTC="01:19:40:24" Forced="False">
+      <Graphic Width="311" Height="37" X="205" Y="407">15歲是鬼扯的早安</Graphic>
+    </Event>
+    <Event InTC="01:19:40:24" OutTC="01:19:42:03" Forced="False">
+      <Graphic Width="34" Height="35" X="342" Y="408" />
+    </Event>
+    <Event InTC="01:19:44:13" OutTC="01:19:45:15" Forced="False">
+      <Graphic Width="190" Height="34" X="261" Y="408">你住在哪裡?</Graphic>
+    </Event>
+    <Event InTC="01:19:48:19" OutTC="01:19:49:17" Forced="False">
+      <Graphic Width="91" Height="37" X="311" Y="407">麥克?</Graphic>
+    </Event>
+    <Event InTC="01:19:51:15" OutTC="01:19:52:21" Forced="False">
+      <Graphic Width="101" Height="34" X="309" Y="408">說話啊</Graphic>
+    </Event>
+    <Event InTC="01:19:52:21" OutTC="01:19:55:06" Forced="False">
+      <Graphic Width="229" Height="36" X="246" Y="407">啥?我說了,對</Graphic>
+    </Event>
+    <Event InTC="01:19:55:06" OutTC="01:19:56:09" Forced="False">
+      <Graphic Width="131" Height="36" X="293" Y="407">對,我懂</Graphic>
+    </Event>
+    <Event InTC="01:19:56:09" OutTC="01:19:59:17" Forced="False">
+      <Graphic Width="441" Height="36" X="139" Y="407">你懂個屁,白痴-我不是白痴</Graphic>
+    </Event>
+    <Event InTC="01:19:59:17" OutTC="01:20:01:04" Forced="False">
+      <Graphic Width="257" Height="36" X="230" Y="407">我知道我們搞砸了</Graphic>
+    </Event>
+    <Event InTC="01:20:01:04" OutTC="01:20:04:04" Forced="False">
+      <Graphic Width="451" Height="36" X="133" Y="407">不對,是你的俄羅斯兄弟搞砸了</Graphic>
+    </Event>
+    <Event InTC="01:20:04:04" OutTC="01:20:07:16" Forced="False">
+      <Graphic Width="387" Height="36" X="164" Y="407">那個社會邊緣人混蛋搞砸了</Graphic>
+    </Event>
+    <Event InTC="01:20:07:16" OutTC="01:20:10:16" Forced="False">
+      <Graphic Width="358" Height="37" X="179" Y="407">你蠢到連後照鏡都不會調</Graphic>
+    </Event>
+    <Event InTC="01:20:10:16" OutTC="01:20:11:15" Forced="False">
+      <Graphic Width="96" Height="35" X="313" Y="408">喬瑟夫</Graphic>
+    </Event>
+    <Event InTC="01:20:15:05" OutTC="01:20:16:13" Forced="False">
+      <Graphic Width="131" Height="36" X="294" Y="407">給我聽好</Graphic>
+    </Event>
+    <Event InTC="01:20:17:00" OutTC="01:20:19:09" Forced="False">
+      <Graphic Width="329" Height="36" X="195" Y="407">公聽會的時候給我閉嘴</Graphic>
+    </Event>
+    <Event InTC="01:20:19:18" OutTC="01:20:22:14" Forced="False">
+      <Graphic Width="295" Height="37" X="212" Y="407">律師會跟法官說實情</Graphic>
+    </Event>
+    <Event InTC="01:20:23:03" OutTC="01:20:25:24" Forced="False">
+      <Graphic Width="393" Height="37" X="163" Y="407">安德烈契查丘夫,綽號奇克</Graphic>
+    </Event>
+    <Event InTC="01:20:25:24" OutTC="01:20:28:01" Forced="False">
+      <Graphic Width="262" Height="37" X="229" Y="407">他肇事逃逸,有罪</Graphic>
+    </Event>
+    <Event InTC="01:20:28:01" OutTC="01:20:31:08" Forced="False">
+      <Graphic Width="230" Height="36" X="245" Y="407">偷車是他的點子</Graphic>
+    </Event>
+    <Event InTC="01:20:31:08" OutTC="01:20:34:11" Forced="False">
+      <Graphic Width="422" Height="36" X="149" Y="407">車禍發生時,車子也是他開的</Graphic>
+    </Event>
+    <Event InTC="01:20:35:14" OutTC="01:20:37:05" Forced="False">
+      <Graphic Width="262" Height="37" X="230" Y="407">我的當事人一起走</Graphic>
+    </Event>
+    <Event InTC="01:20:37:05" OutTC="01:20:39:09" Forced="False">
+      <Graphic Width="294" Height="37" X="213" Y="407">是因為他害怕安德烈</Graphic>
+    </Event>
+    <Event InTC="01:20:46:23" OutTC="01:20:48:05" Forced="False">
+      <Graphic Width="163" Height="36" X="279" Y="407">才不是這樣</Graphic>
+    </Event>
+    <Event InTC="01:20:48:21" OutTC="01:20:50:01" Forced="False">
+      <Graphic Width="228" Height="37" X="246" Y="407">麥克,給我坐下</Graphic>
+    </Event>
+    <Event InTC="01:20:51:19" OutTC="01:20:54:05" Forced="False">
+      <Graphic Width="357" Height="36" X="180" Y="407">我們一起決定開車跑掉的</Graphic>
+    </Event>
+    <Event InTC="01:20:56:08" OutTC="01:20:58:04" Forced="False">
+      <Graphic Width="392" Height="36" X="163" Y="407">在高速公路上也是我開的車</Graphic>
+    </Event>
+    <Event InTC="01:20:58:04" OutTC="01:20:59:19" Forced="False">
+      <Graphic Width="131" Height="36" X="294" Y="407">給我閉嘴</Graphic>
+    </Event>
+    <Event InTC="01:20:59:19" OutTC="01:21:01:15" Forced="False">
+      <Graphic Width="359" Height="37" X="179" Y="407">赫爾克林伯格,保持秩序</Graphic>
+    </Event>
+    <Event InTC="01:21:01:15" OutTC="01:21:03:19" Forced="False">
+      <Graphic Width="325" Height="36" X="197" Y="407">我想聽你的說法會問你</Graphic>
+    </Event>
+    <Event InTC="01:21:04:19" OutTC="01:21:05:21" Forced="False">
+      <Graphic Width="98" Height="36" X="310" Y="407">請坐下</Graphic>
+    </Event>
+    <Event InTC="01:21:09:23" OutTC="01:21:13:07" Forced="False">
+      <Graphic Width="287" Height="37" X="213" Y="407">麥克,這是事實嗎?</Graphic>
+    </Event>
+    <Event InTC="01:21:19:09" OutTC="01:21:20:11" Forced="False">
+      <Graphic Width="164" Height="35" X="278" Y="407">是的,庭上</Graphic>
+    </Event>
+    <Event InTC="01:21:33:17" OutTC="01:21:36:21" Forced="False">
+      <Graphic Width="488" Height="37" X="115" Y="407">學校教導我們,暴力不能解決問題</Graphic>
+    </Event>
+    <Event InTC="01:21:36:21" OutTC="01:21:38:04" Forced="False">
+      <Graphic Width="87" Height="33" X="310" Y="409">屁啦!</Graphic>
+    </Event>
+    <Event InTC="01:21:39:00" OutTC="01:21:40:21" Forced="False">
+      <Graphic Width="96" Height="35" X="313" Y="408">喬瑟夫</Graphic>
+    </Event>
+    <Event InTC="01:21:44:18" OutTC="01:21:47:05" Forced="False">
+      <Graphic Width="229" Height="36" X="246" Y="407">像這樣被偷襲時</Graphic>
+    </Event>
+    <Event InTC="01:21:47:05" OutTC="01:21:49:18" Forced="False">
+      <Graphic Width="386" Height="36" X="163" Y="407">你他媽這不是暴力是什麼?</Graphic>
+    </Event>
+    <Event InTC="01:21:51:09" OutTC="01:21:52:14" Forced="False">
+      <Graphic Width="66" Height="36" X="328" Y="407">我操</Graphic>
+    </Event>
+    <Event InTC="01:22:23:08" OutTC="01:22:26:00" Forced="False">
+      <Graphic Width="328" Height="37" X="197" Y="407">我想過事情會怎麼發展</Graphic>
+    </Event>
+    <Event InTC="01:22:26:19" OutTC="01:22:28:17" Forced="False">
+      <Graphic Width="358" Height="37" X="180" Y="407">我們會住在這棟房子多久</Graphic>
+    </Event>
+    <Event InTC="01:22:29:11" OutTC="01:22:31:12" Forced="False">
+      <Graphic Width="326" Height="37" X="197" Y="407">我父母會維持婚姻多久</Graphic>
+    </Event>
+    <Event InTC="01:22:32:01" OutTC="01:22:34:09" Forced="False">
+      <Graphic Width="391" Height="38" X="164" Y="406">我爸會不會跟夢娜生小孩…</Graphic>
+    </Event>
+    <Event InTC="01:22:57:00" OutTC="01:22:58:13" Forced="False">
+      <Graphic Width="224" Height="35" X="244" Y="408">媽,你在幹嘛?</Graphic>
+    </Event>
+    <Event InTC="01:22:59:04" OutTC="01:23:01:02" Forced="False">
+      <Graphic Width="197" Height="35" X="261" Y="408">你看這些垃圾</Graphic>
+    </Event>
+    <Event InTC="01:23:11:09" OutTC="01:23:12:15" Forced="False">
+      <Graphic Width="129" Height="37" X="295" Y="407">幫我一下</Graphic>
+    </Event>
+    <Event InTC="01:23:43:20" OutTC="01:23:46:16" Forced="False">
+      <Graphic Width="459" Height="36" X="131" Y="407">在水裡憋氣時,我很清楚在想啥</Graphic>
+    </Event>
+    <Event InTC="01:23:47:20" OutTC="01:23:51:08" Forced="False">
+      <Graphic Width="488" Height="37" X="115" Y="407">我覺得很多事都比有個酒鬼媽媽爛</Graphic>
+    </Event>
+    <Event InTC="01:23:51:18" OutTC="01:23:53:16" Forced="False">
+      <Graphic Width="228" Height="35" X="245" Y="408">也比爸爸閃人爛</Graphic>
+    </Event>
+    <Event InTC="01:23:55:01" OutTC="01:23:57:01" Forced="False">
+      <Graphic Width="325" Height="37" X="200" Y="407">因為你不能永遠憋著氣</Graphic>
+    </Event>
+    <Event InTC="01:23:57:09" OutTC="01:23:58:20" Forced="False">
+      <Graphic Width="195" Height="37" X="263" Y="407">只能憋一陣子</Graphic>
+    </Event>
+    <Event InTC="01:24:06:00" OutTC="01:24:09:10" Forced="False">
+      <Graphic Width="388" Height="37" X="163" Y="407">夏天就這樣結束了,開學了</Graphic>
+    </Event>
+    <Event InTC="01:24:20:21" OutTC="01:24:22:06" Forced="False">
+      <Graphic Width="188" Height="35" X="263" Y="408">可以聊聊嗎?</Graphic>
+    </Event>
+    <Event InTC="01:24:23:00" OutTC="01:24:25:11" Forced="False">
+      <Graphic Width="425" Height="37" X="148" Y="407">我得去上學,今天開學第一天</Graphic>
+    </Event>
+    <Event InTC="01:24:25:23" OutTC="01:24:26:23" Forced="False">
+      <Graphic Width="163" Height="36" X="278" Y="407">我們載你去</Graphic>
+    </Event>
+    <Event InTC="01:24:28:23" OutTC="01:24:30:09" Forced="False">
+      <Graphic Width="386" Height="37" X="163" Y="407">你認識安德烈契查丘夫嗎?</Graphic>
+    </Event>
+    <Event InTC="01:24:30:19" OutTC="01:24:32:02" Forced="False">
+      <Graphic Width="196" Height="36" X="261" Y="407">他是我的朋友</Graphic>
+    </Event>
+    <Event InTC="01:24:32:11" OutTC="01:24:33:12" Forced="False">
+      <Graphic Width="158" Height="34" X="277" Y="408">他在哪裡?</Graphic>
+    </Event>
+    <Event InTC="01:24:33:21" OutTC="01:24:35:00" Forced="False">
+      <Graphic Width="131" Height="37" X="294" Y="407">我不曉得</Graphic>
+    </Event>
+    <Event InTC="01:24:37:24" OutTC="01:24:38:22" Forced="False">
+      <Graphic Width="123" Height="35" X="295" Y="407">怎麼了?</Graphic>
+    </Event>
+    <Event InTC="01:24:39:11" OutTC="01:24:40:18" Forced="False">
+      <Graphic Width="224" Height="36" X="246" Y="407">一部拉達被偷了</Graphic>
+    </Event>
+    <Event InTC="01:24:42:11" OutTC="01:24:44:21" Forced="False">
+      <Graphic Width="260" Height="36" X="230" Y="407">前天被接線偷走的</Graphic>
+    </Event>
+    <Event InTC="01:24:44:24" OutTC="01:24:47:08" Forced="False">
+      <Graphic Width="326" Height="36" X="198" Y="407">昨晚找到時,車子全毀</Graphic>
+    </Event>
+    <Event InTC="01:24:47:18" OutTC="01:24:50:00" Forced="False">
+      <Graphic Width="260" Height="36" X="230" Y="407">警官,不是我幹的</Graphic>
+    </Event>
+    <Event InTC="01:24:50:11" OutTC="01:24:53:17" Forced="False">
+      <Graphic Width="425" Height="37" X="148" Y="407">我白天跟一群智障做勞動服務</Graphic>
+    </Event>
+    <Event InTC="01:24:53:17" OutTC="01:24:55:04" Forced="False">
+      <Graphic Width="293" Height="37" X="213" Y="407">晚上都跟我媽在一起</Graphic>
+    </Event>
+    <Event InTC="01:24:57:09" OutTC="01:24:58:18" Forced="False">
+      <Graphic Width="159" Height="37" X="278" Y="407">我都傻眼了</Graphic>
+    </Event>
+    <Event InTC="01:24:59:13" OutTC="01:25:01:10" Forced="False">
+      <Graphic Width="359" Height="37" X="180" Y="407">奇克可以寫封信給我就好</Graphic>
+    </Event>
+    <Event InTC="01:25:01:22" OutTC="01:25:04:00" Forced="False">
+      <Graphic Width="457" Height="37" X="131" Y="407">但搞爛一部拉達,就為了通知我</Graphic>
+    </Event>
+    <Event InTC="01:25:04:10" OutTC="01:25:05:19" Forced="False">
+      <Graphic Width="224" Height="35" X="246" Y="408">這想法也太屌了</Graphic>
+    </Event>
+    <Event InTC="01:25:22:02" OutTC="01:25:23:19" Forced="False">
+      <Graphic Width="320" Height="37" X="197" Y="407">那是麥克克林伯格嗎?</Graphic>
+    </Event>
+    <Event InTC="01:25:29:05" OutTC="01:25:30:21" Forced="False">
+      <Graphic Width="158" Height="35" X="277" Y="407">他怎麼了?</Graphic>
+    </Event>
+    <Event InTC="01:25:56:08" OutTC="01:25:58:14" Forced="False">
+      <Graphic Width="229" Height="37" X="246" Y="407">…畢氏定理也是</Graphic>
+    </Event>
+    <Event InTC="01:25:59:01" OutTC="01:26:02:02" Forced="False">
+      <Graphic Width="261" Height="37" X="231" Y="407">幾何學與幾何形狀</Graphic>
+    </Event>
+    <Event InTC="01:26:02:22" OutTC="01:26:03:18" Forced="False">
+      <Graphic Width="67" Height="36" X="327" Y="407">體積</Graphic>
+    </Event>
+    <Event InTC="01:26:04:02" OutTC="01:26:07:10" Forced="False">
+      <Graphic Width="227" Height="36" X="248" Y="407">曲面、體、角度</Graphic>
+    </Event>
+    <Event InTC="01:26:07:10" OutTC="01:26:09:06" Forced="False">
+      <Graphic Width="68" Height="35" X="327" Y="408">對稱</Graphic>
+    </Event>
+    <Event InTC="01:26:09:24" OutTC="01:26:12:00" Forced="False">
+      <Graphic Width="228" Height="35" X="245" Y="407">喂,這是給你的</Graphic>
+    </Event>
+    <Event InTC="01:26:15:14" OutTC="01:26:16:21" Forced="False">
+      <Graphic Width="99" Height="37" X="309" Y="407">(麥克)</Graphic>
+    </Event>
+    <Event InTC="01:26:17:06" OutTC="01:26:20:07" Forced="False">
+      <Graphic Width="393" Height="37" X="163" Y="407">(你暑假去哪了?塔蒂安娜)</Graphic>
+    </Event>
+    <Event InTC="01:26:21:03" OutTC="01:26:22:08" Forced="False">
+      <Graphic Width="161" Height="36" X="276" Y="407">她看見我了</Graphic>
+    </Event>
+    <Event InTC="01:26:23:04" OutTC="01:26:25:16" Forced="False">
+      <Graphic Width="323" Height="37" X="196" Y="407">塔蒂安娜終於看見我了</Graphic>
+    </Event>
+    <Event InTC="01:26:27:11" OutTC="01:26:30:10" Forced="False">
+      <Graphic Width="294" Height="37" X="212" Y="407">在暑假前,我會樂歪</Graphic>
+    </Event>
+    <Event InTC="01:26:31:20" OutTC="01:26:34:12" Forced="False">
+      <Graphic Width="421" Height="37" X="147" Y="407">但奇怪的是,我現在不在乎了</Graphic>
+    </Event>
+    <Event InTC="01:26:34:12" OutTC="01:26:35:19" Forced="False">
+      <Graphic Width="132" Height="37" X="293" Y="407">(去鄉下)</Graphic>
+    </Event>
+    <Event InTC="01:26:45:03" OutTC="01:26:47:12" Forced="False">
+      <Graphic Width="194" Height="37" X="262" Y="407">我唯一在乎的</Graphic>
+    </Event>
+    <Event InTC="01:26:47:12" OutTC="01:26:48:23" Forced="False">
+      <Graphic Width="196" Height="37" X="262" Y="407">是再見到奇克</Graphic>
+    </Event>
+    <Event InTC="01:26:50:01" OutTC="01:26:51:21" Forced="False">
+      <Graphic Width="196" Height="37" X="262" Y="407">我想沒有奇克</Graphic>
+    </Event>
+    <Event InTC="01:26:51:21" OutTC="01:26:53:18" Forced="False">
+      <Graphic Width="295" Height="36" X="213" Y="407">我就不會有這種暑假</Graphic>
+    </Event>
+    <Event InTC="01:26:53:18" OutTC="01:26:55:15" Forced="False">
+      <Graphic Width="190" Height="35" X="262" Y="408">這個暑假很屌</Graphic>
+    </Event>
+    <Event InTC="01:26:56:14" OutTC="01:26:58:05" Forced="False">
+      <Graphic Width="328" Height="37" X="197" Y="407">是有史以來最棒的暑假</Graphic>
+    </Event>
+    <Event InTC="01:26:58:05" OutTC="01:27:00:03" Forced="False">
+      <Graphic Width="167" Height="27" X="275" Y="412">AT、MK、IS</Graphic>
+    </Event>
+    <Event InTC="01:27:00:03" OutTC="01:27:02:10" Forced="False">
+      <Graphic Width="245" Height="36" X="238" Y="407">我喜歡-我也是</Graphic>
+    </Event>
+    <Event InTC="01:27:02:10" OutTC="01:27:06:06" Forced="False">
+      <Graphic Width="229" Height="36" X="245" Y="407">有人只要改一下</Graphic>
+    </Event>
+    <Event InTC="01:27:06:06" OutTC="01:27:08:07" Forced="False">
+      <Graphic Width="409" Height="37" X="147" Y="407">就會變成「2016年核彈危機」</Graphic>
+    </Event>
+    <Event InTC="01:27:08:07" OutTC="01:27:10:19" Forced="False">
+      <Graphic Width="327" Height="37" X="197" Y="407">我好想趕快再見到奇克</Graphic>
+    </Event>
+    <Event InTC="01:27:11:06" OutTC="01:27:12:06" Forced="False">
+      <Graphic Width="163" Height="37" X="278" Y="407">奇克跟伊莎</Graphic>
+    </Event>
+    <Event InTC="01:27:12:23" OutTC="01:27:15:23" Forced="False">
+      <Graphic Width="458" Height="36" X="131" Y="407">就算下禮拜見不到,晚一點也行</Graphic>
+    </Event>
+    <Event InTC="01:27:15:23" OutTC="01:27:18:04" Forced="False">
+      <Graphic Width="324" Height="37" X="200" Y="407">因為我差點忘了這一趴</Graphic>
+    </Event>
+    <Event InTC="01:27:18:04" OutTC="01:27:20:21" Forced="False">
+      <Graphic Width="361" Height="37" X="179" Y="407">50年後,我們在這裡見吧</Graphic>
+    </Event>
+    <Event InTC="01:27:21:17" OutTC="01:27:24:20" Forced="False">
+      <Graphic Width="207" Height="37" X="253" Y="407">2066年7月28日</Graphic>
+    </Event>
+    <Event InTC="01:27:26:07" OutTC="01:27:28:10" Forced="False">
+      <Graphic Width="326" Height="37" X="198" Y="406">不管我們那時候在幹嘛</Graphic>
+    </Event>
+    <Event InTC="01:27:30:04" OutTC="01:27:31:17" Forced="False">
+      <Graphic Width="222" Height="36" X="246" Y="407">還是這樣很瞎?</Graphic>
+    </Event>
+    <Event InTC="01:27:35:20" OutTC="01:27:36:23" Forced="False">
+      <Graphic Width="65" Height="36" X="329" Y="407">不會</Graphic>
+    </Event>
+    <Event InTC="01:27:38:02" OutTC="01:27:39:08" Forced="False">
+      <Graphic Width="131" Height="36" X="294" Y="407">我們會來</Graphic>
+    </Event>
+    <Event InTC="01:29:25:10" OutTC="01:29:28:23" Forced="False">
+      <Graphic Width="99" Height="37" X="309" Y="407">(起肖)</Graphic>
+    </Event>
+  </Events>
+</BDN>

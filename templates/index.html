@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>字幕處理</title>
+<style>
+  .notice {
+    display: flex;
+    align-items: center;
+    background: #fff4f4;
+    border: 1px solid #e5a3a3;
+    border-radius: 8px;
+    color: #a32b2b;
+    padding: 10px 14px;
+    margin-top: 12px;
+    font-size: 15px;
+  }
+
+  .notice button {
+    margin-left: 10px;
+    background: #fff;
+    border: 1px solid #a32b2b;
+    border-radius: 6px;
+    color: #a32b2b;
+    font-weight: 600;
+    padding: 6px 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .notice button:hover {
+    background: #a32b2b;
+    color: #fff;
+  }
+body { font-family: system-ui, -apple-system, Segoe UI, Noto Sans TC, Arial; margin: 24px; }
+label { display:block; margin-top: 12px; }
+input[type=text], input[type=url], input[type=password], select { width: 520px; max-width: 100%; padding: 8px; }
+button { padding: 8px 16px; margin-top: 16px; }
+pre { background: #111; color: #0f0; padding: 12px; white-space: pre-wrap; }
+.ok { color: #0a0; }
+.err { color: #a00; }
+a.filelink { display: inline-block; margin-right: 10px; }
+</style>
+</head>
+<body>
+<h1>字幕處理</h1>
+
+<form id="f">
+  <label>英文檔案名稱
+    <input type="text" name="file_name_en" placeholder="例如：再見柏林＿英文">
+  </label>
+  <label>英文雲端硬碟連結
+    <input type="url" name="drive_url_en" placeholder="https://drive.google.com/...">
+  </label>
+
+  <label>中文字幕檔案名稱
+    <input type="text" name="file_name_ch" placeholder="例如：再見柏林＿中文">
+  </label>
+  <label>中文字幕雲端硬碟連結
+    <input type="url" name="drive_url_ch" placeholder="https://drive.google.com/...">
+  </label>
+
+  <label>OCR 引擎
+    <select name="ocr">
+      <option value="paddle" selected>OCR Paddle</option>
+      <option value="gemini">OCR Gemini⏬請新增api key</option>
+    </select>
+  </label>
+
+  <label>API Key
+    <input type="password" name="api_key" placeholder="輸入 API 金鑰">
+  </label>
+
+  <label>翻譯選項
+    <select name="translate">
+      <option value="">（可留空）</option>
+      <option value="none">不翻譯</option>
+      <option value="en2zh">英→中</option>
+      <option value="zh2en">中→英</option>
+    </select>
+  </label>
+
+  <button type="submit">開始處理</button>
+  <div style="display:flex; align-items:center; color: rgb(169, 43, 43);">
+    <button type="button" id="resetBtn" style="margin-right:4px;">RESET</button>
+    🗣️提醒：確認檔案下載後請按下「reset」，清除執行資料，才能運行下一份檔案
+  </div>
+  <div style="display:flex; align-items:center; color: rgb(169, 43, 43);">
+    <button type="button" id="shutdownBtn" style="margin-right:4px;">關閉程式</button>
+    🗣️提醒：結束使用前請「務必」按下「關閉程式」🌹🥟
+  </div>
+  
+</form>
+
+<h2>執行結果</h2>
+<div id="result"></div>
+
+<script>
+const f = document.getElementById('f');
+const result = document.getElementById('result');
+
+f.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  result.innerHTML = '執行中…';
+  const payload = Object.fromEntries(new FormData(f).entries());
+
+  try {
+    const res = await fetch('/run', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    const data = await res.json();
+
+    let html = '';
+    for (const [name, code, out] of (data.logs || [])) {
+      html += `<h3>${name} ${code===0?'<span class="ok">✔</span>':'<span class="err">✖</span>'}</h3>`;
+      html += `<pre>${String(out||'').replace(/[&<>]/g, s=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[s]))}</pre>`;
+    }
+
+    if (data.files) {
+      html += `<h3>輸出檔案</h3>`;
+      if (data.files.en)    html += `<a class="filelink" href="${data.files.en}" download>英文字幕（.srt）</a>`;
+      if (data.files.zh)    html += `<a class="filelink" href="${data.files.zh}" download>中文字幕（.srt）</a>`;
+      if (data.files.merge) html += `<a class="filelink" href="${data.files.merge}" download>中文字幕（對齊後）（merged.srt）</a>`;
+    }
+
+    result.innerHTML = html;
+  } catch (err) {
+    result.innerHTML = `<pre class="err">執行錯誤：${err}</pre>`;
+  }
+});
+
+const resetBtn = document.getElementById('resetBtn');
+resetBtn.addEventListener('click', async () => {
+  const ok = window.confirm('確認要清空 data/* 與 output/*？此操作無法復原，請先儲存相關檔案。');
+  if (!ok) return;
+
+  resetBtn.disabled = true;
+  const prev = result.innerHTML;
+  result.innerHTML = '清理中…';
+
+  try {
+    const res = await fetch('/reset', { method: 'POST' });
+    const data = await res.json();
+    if (data.ok) {
+      const msg =
+        `已清空。\n` +
+        `data：刪除 ${data.data.files} 檔、${data.data.dirs} 資料夾\n` +
+        `output：刪除 ${data.output.files} 檔、${data.output.dirs} 資料夾`;
+      result.innerHTML = `<pre>${msg}</pre>`;
+    } else {
+      result.innerHTML = `<pre class="err">重置失敗</pre>`;
+    }
+  } catch (e) {
+    result.innerHTML = `<pre class="err">重置發生錯誤：${e}</pre>`;
+  } finally {
+    resetBtn.disabled = false;
+  }
+});
+
+const shutdownBtn = document.getElementById('shutdownBtn');
+shutdownBtn.addEventListener('click', async () => {
+  const ok = confirm('確定要關閉 Flask 伺服器嗎？');
+  if (!ok) return;
+  try {
+    const res = await fetch('/shutdown', { method: 'POST' });
+    // 送出後連線會斷，這是正常
+  } catch (_) {
+    // ignore
+  }
+});
+
+
+</script>
+</body>
+</html>

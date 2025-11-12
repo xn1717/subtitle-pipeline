@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BDN Version="0.93" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BD-03-006-0093b BDN File Format.xsd">
+  <Description>
+    <Name Title="subtitle" Content=""/>
+    <Language Code="eng"/>
+    <Format VideoFormat="480i" FrameRate="25" DropFrame="False"/>
+    <Events Type="Graphic" FirstEventInTC="00:02:06:09" LastEventOutTC="01:29:29:10" NumberofEvents="951"/>
+  </Description>
+  <Events>
+    <Event InTC="00:02:06:09" OutTC="00:02:07:16" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0001.png</Graphic>
+    </Event>
+    <Event InTC="00:02:11:17" OutTC="00:02:16:03" Forced="False">
+      <Graphic Width="183" Height="28" X="268" Y="410">subtitle_0002.png</Graphic>
+    </Event>
+    <Event InTC="00:02:27:09" OutTC="00:02:30:14" Forced="False">
+      <Graphic Width="287" Height="60" X="215" Y="378">subtitle_0003.png</Graphic>
+    </Event>
+    <Event InTC="00:02:32:03" OutTC="00:02:34:15" Forced="False">
+      <Graphic Width="371" Height="60" X="175" Y="378">subtitle_0004.png</Graphic>
+    </Event>
+    <Event InTC="00:02:35:23" OutTC="00:02:37:14" Forced="False">
+      <Graphic Width="417" Height="28" X="151" Y="410">subtitle_0005.png</Graphic>
+    </Event>
+    <Event InTC="00:02:39:15" OutTC="00:02:41:14" Forced="False">
+      <Graphic Width="184" Height="28" X="267" Y="410">subtitle_0006.png</Graphic>
+    </Event>
+    <Event InTC="00:02:43:21" OutTC="00:02:47:01" Forced="False">
+      <Graphic Width="431" Height="28" X="143" Y="410">subtitle_0007.png</Graphic>
+    </Event>
+    <Event InTC="00:02:47:01" OutTC="00:02:49:07" Forced="False">
+      <Graphic Width="449" Height="28" X="134" Y="410">subtitle_0008.png</Graphic>
+    </Event>
+    <Event InTC="00:02:50:06" OutTC="00:02:51:19" Forced="False">
+      <Graphic Width="228" Height="28" X="244" Y="410">subtitle_0009.png</Graphic>
+    </Event>
+    <Event InTC="00:02:51:19" OutTC="00:02:56:07" Forced="False">
+      <Graphic Width="436" Height="28" X="141" Y="410">subtitle_0010.png</Graphic>
+    </Event>
+    <Event InTC="00:02:56:07" OutTC="00:02:59:05" Forced="False">
+      <Graphic Width="370" Height="28" X="173" Y="410">subtitle_0011.png</Graphic>
+    </Event>
+    <Event InTC="00:02:59:05" OutTC="00:03:02:15" Forced="False">
+      <Graphic Width="327" Height="28" X="196" Y="410">subtitle_0012.png</Graphic>
+    </Event>
+    <Event InTC="00:03:02:15" OutTC="00:03:04:20" Forced="False">
+      <Graphic Width="275" Height="28" X="221" Y="410">subtitle_0013.png</Graphic>
+    </Event>
+    <Event InTC="00:03:04:20" OutTC="00:03:09:01" Forced="False">
+      <Graphic Width="361" Height="28" X="179" Y="410">subtitle_0014.png</Graphic>
+    </Event>
+    <Event InTC="00:03:09:01" OutTC="00:03:09:24" Forced="False">
+      <Graphic Width="58" Height="23" X="330" Y="410">subtitle_0015.png</Graphic>
+    </Event>
+    <Event InTC="00:03:09:24" OutTC="00:03:14:01" Forced="False">
+      <Graphic Width="315" Height="28" X="202" Y="410">subtitle_0016.png</Graphic>
+    </Event>
+    <Event InTC="00:03:14:01" OutTC="00:03:16:19" Forced="False">
+      <Graphic Width="372" Height="26" X="173" Y="410">subtitle_0017.png</Graphic>
+    </Event>
+    <Event InTC="00:03:19:07" OutTC="00:03:20:09" Forced="False">
+      <Graphic Width="100" Height="23" X="309" Y="410">subtitle_0018.png</Graphic>
+    </Event>
+    <Event InTC="00:03:21:23" OutTC="00:03:24:22" Forced="False">
+      <Graphic Width="134" Height="23" X="291" Y="410">subtitle_0019.png</Graphic>
+    </Event>
+    <Event InTC="00:03:24:22" OutTC="00:03:27:01" Forced="False">
+      <Graphic Width="345" Height="28" X="186" Y="410">subtitle_0020.png</Graphic>
+    </Event>
+    <Event InTC="00:03:27:01" OutTC="00:03:29:07" Forced="False">
+      <Graphic Width="362" Height="28" X="178" Y="410">subtitle_0021.png</Graphic>
+    </Event>
+    <Event InTC="00:03:29:07" OutTC="00:03:31:08" Forced="False">
+      <Graphic Width="389" Height="28" X="165" Y="410">subtitle_0022.png</Graphic>
+    </Event>
+    <Event InTC="00:03:31:20" OutTC="00:03:35:22" Forced="False">
+      <Graphic Width="330" Height="23" X="193" Y="410">subtitle_0023.png</Graphic>
+    </Event>
+    <Event InTC="00:03:37:17" OutTC="00:03:40:02" Forced="False">
+      <Graphic Width="191" Height="28" X="264" Y="410">subtitle_0024.png</Graphic>
+    </Event>
+    <Event InTC="00:03:41:13" OutTC="00:03:43:03" Forced="False">
+      <Graphic Width="178" Height="28" X="270" Y="410">subtitle_0025.png</Graphic>
+    </Event>
+    <Event InTC="00:03:44:06" OutTC="00:03:46:01" Forced="False">
+      <Graphic Width="238" Height="28" X="240" Y="410">subtitle_0026.png</Graphic>
+    </Event>
+    <Event InTC="00:03:51:16" OutTC="00:03:54:18" Forced="False">
+      <Graphic Width="337" Height="60" X="191" Y="378">subtitle_0027.png</Graphic>
+    </Event>
+    <Event InTC="00:03:56:18" OutTC="00:03:59:21" Forced="False">
+      <Graphic Width="482" Height="28" X="119" Y="410">subtitle_0028.png</Graphic>
+    </Event>
+    <Event InTC="00:03:59:21" OutTC="00:04:01:23" Forced="False">
+      <Graphic Width="245" Height="28" X="236" Y="410">subtitle_0029.png</Graphic>
+    </Event>
+    <Event InTC="00:04:01:23" OutTC="00:04:04:09" Forced="False">
+      <Graphic Width="195" Height="23" X="261" Y="410">subtitle_0030.png</Graphic>
+    </Event>
+    <Event InTC="00:04:05:03" OutTC="00:04:07:05" Forced="False">
+      <Graphic Width="252" Height="28" X="233" Y="410">subtitle_0031.png</Graphic>
+    </Event>
+    <Event InTC="00:04:07:05" OutTC="00:04:09:05" Forced="False">
+      <Graphic Width="285" Height="28" X="216" Y="410">subtitle_0032.png</Graphic>
+    </Event>
+    <Event InTC="00:04:09:17" OutTC="00:04:13:18" Forced="False">
+      <Graphic Width="437" Height="60" X="140" Y="378">subtitle_0033.png</Graphic>
+    </Event>
+    <Event InTC="00:04:13:18" OutTC="00:04:15:02" Forced="False">
+      <Graphic Width="190" Height="28" X="265" Y="410">subtitle_0034.png</Graphic>
+    </Event>
+    <Event InTC="00:04:16:11" OutTC="00:04:17:10" Forced="False">
+      <Graphic Width="120" Height="28" X="299" Y="410">subtitle_0035.png</Graphic>
+    </Event>
+    <Event InTC="00:04:31:11" OutTC="00:04:34:01" Forced="False">
+      <Graphic Width="363" Height="28" X="177" Y="410">subtitle_0036.png</Graphic>
+    </Event>
+    <Event InTC="00:04:34:01" OutTC="00:04:35:17" Forced="False">
+      <Graphic Width="304" Height="28" X="207" Y="410">subtitle_0037.png</Graphic>
+    </Event>
+    <Event InTC="00:04:35:17" OutTC="00:04:37:19" Forced="False">
+      <Graphic Width="520" Height="28" X="99" Y="410">subtitle_0038.png</Graphic>
+    </Event>
+    <Event InTC="00:04:38:08" OutTC="00:04:40:18" Forced="False">
+      <Graphic Width="254" Height="28" X="233" Y="410">subtitle_0039.png</Graphic>
+    </Event>
+    <Event InTC="00:04:40:22" OutTC="00:04:42:06" Forced="False">
+      <Graphic Width="114" Height="23" X="302" Y="410">subtitle_0040.png</Graphic>
+    </Event>
+    <Event InTC="00:04:43:05" OutTC="00:04:44:18" Forced="False">
+      <Graphic Width="181" Height="28" X="268" Y="410">subtitle_0041.png</Graphic>
+    </Event>
+    <Event InTC="00:04:44:18" OutTC="00:04:47:22" Forced="False">
+      <Graphic Width="298" Height="60" X="210" Y="378">subtitle_0042.png</Graphic>
+    </Event>
+    <Event InTC="00:04:48:05" OutTC="00:04:50:21" Forced="False">
+      <Graphic Width="346" Height="28" X="186" Y="410">subtitle_0043.png</Graphic>
+    </Event>
+    <Event InTC="00:04:50:21" OutTC="00:04:53:15" Forced="False">
+      <Graphic Width="506" Height="28" X="106" Y="410">subtitle_0044.png</Graphic>
+    </Event>
+    <Event InTC="00:04:54:07" OutTC="00:04:56:05" Forced="False">
+      <Graphic Width="345" Height="28" X="186" Y="410">subtitle_0045.png</Graphic>
+    </Event>
+    <Event InTC="00:05:03:12" OutTC="00:05:05:23" Forced="False">
+      <Graphic Width="321" Height="23" X="198" Y="410">subtitle_0046.png</Graphic>
+    </Event>
+    <Event InTC="00:05:05:23" OutTC="00:05:08:04" Forced="False">
+      <Graphic Width="456" Height="28" X="131" Y="410">subtitle_0047.png</Graphic>
+    </Event>
+    <Event InTC="00:05:08:04" OutTC="00:05:11:10" Forced="False">
+      <Graphic Width="315" Height="58" X="202" Y="378">subtitle_0048.png</Graphic>
+    </Event>
+    <Event InTC="00:05:11:10" OutTC="00:05:14:19" Forced="False">
+      <Graphic Width="333" Height="60" X="192" Y="378">subtitle_0049.png</Graphic>
+    </Event>
+    <Event InTC="00:05:14:19" OutTC="00:05:16:23" Forced="False">
+      <Graphic Width="375" Height="28" X="172" Y="410">subtitle_0050.png</Graphic>
+    </Event>
+    <Event InTC="00:05:16:23" OutTC="00:05:19:10" Forced="False">
+      <Graphic Width="491" Height="26" X="114" Y="410">subtitle_0051.png</Graphic>
+    </Event>
+    <Event InTC="00:05:19:10" OutTC="00:05:20:14" Forced="False">
+      <Graphic Width="86" Height="28" X="317" Y="410">subtitle_0052.png</Graphic>
+    </Event>
+    <Event InTC="00:05:22:01" OutTC="00:05:23:05" Forced="False">
+      <Graphic Width="149" Height="28" X="284" Y="410">subtitle_0053.png</Graphic>
+    </Event>
+    <Event InTC="00:05:24:04" OutTC="00:05:25:05" Forced="False">
+      <Graphic Width="150" Height="26" X="284" Y="410">subtitle_0054.png</Graphic>
+    </Event>
+    <Event InTC="00:05:26:01" OutTC="00:05:27:05" Forced="False">
+      <Graphic Width="167" Height="23" X="276" Y="410">subtitle_0055.png</Graphic>
+    </Event>
+    <Event InTC="00:05:27:15" OutTC="00:05:29:01" Forced="False">
+      <Graphic Width="242" Height="28" X="239" Y="410">subtitle_0056.png</Graphic>
+    </Event>
+    <Event InTC="00:05:32:02" OutTC="00:05:33:00" Forced="False">
+      <Graphic Width="113" Height="28" X="302" Y="410">subtitle_0057.png</Graphic>
+    </Event>
+    <Event InTC="00:05:33:06" OutTC="00:05:34:23" Forced="False">
+      <Graphic Width="203" Height="28" X="257" Y="410">subtitle_0058.png</Graphic>
+    </Event>
+    <Event InTC="00:05:36:24" OutTC="00:05:38:12" Forced="False">
+      <Graphic Width="247" Height="28" X="235" Y="410">subtitle_0059.png</Graphic>
+    </Event>
+    <Event InTC="00:05:42:18" OutTC="00:05:43:24" Forced="False">
+      <Graphic Width="66" Height="23" X="327" Y="410">subtitle_0060.png</Graphic>
+    </Event>
+    <Event InTC="00:05:44:24" OutTC="00:05:46:15" Forced="False">
+      <Graphic Width="170" Height="28" X="274" Y="410">subtitle_0061.png</Graphic>
+    </Event>
+    <Event InTC="00:05:47:10" OutTC="00:05:49:06" Forced="False">
+      <Graphic Width="265" Height="28" X="227" Y="410">subtitle_0062.png</Graphic>
+    </Event>
+    <Event InTC="00:05:49:13" OutTC="00:05:51:09" Forced="False">
+      <Graphic Width="139" Height="23" X="290" Y="410">subtitle_0063.png</Graphic>
+    </Event>
+    <Event InTC="00:05:51:09" OutTC="00:05:52:24" Forced="False">
+      <Graphic Width="177" Height="28" X="271" Y="410">subtitle_0064.png</Graphic>
+    </Event>
+    <Event InTC="00:05:53:21" OutTC="00:05:56:04" Forced="False">
+      <Graphic Width="361" Height="28" X="179" Y="410">subtitle_0065.png</Graphic>
+    </Event>
+    <Event InTC="00:05:57:01" OutTC="00:06:00:23" Forced="False">
+      <Graphic Width="369" Height="60" X="174" Y="378">subtitle_0066.png</Graphic>
+    </Event>
+    <Event InTC="00:06:00:23" OutTC="00:06:03:20" Forced="False">
+      <Graphic Width="428" Height="28" X="145" Y="410">subtitle_0067.png</Graphic>
+    </Event>
+    <Event InTC="00:06:04:09" OutTC="00:06:06:14" Forced="False">
+      <Graphic Width="336" Height="28" X="191" Y="410">subtitle_0068.png</Graphic>
+    </Event>
+    <Event InTC="00:06:10:18" OutTC="00:06:14:01" Forced="False">
+      <Graphic Width="388" Height="60" X="166" Y="378">subtitle_0069.png</Graphic>
+    </Event>
+    <Event InTC="00:06:14:12" OutTC="00:06:15:23" Forced="False">
+      <Graphic Width="130" Height="28" X="294" Y="410">subtitle_0070.png</Graphic>
+    </Event>
+    <Event InTC="00:06:17:24" OutTC="00:06:20:17" Forced="False">
+      <Graphic Width="390" Height="28" X="164" Y="410">subtitle_0071.png</Graphic>
+    </Event>
+    <Event InTC="00:06:20:17" OutTC="00:06:23:02" Forced="False">
+      <Graphic Width="399" Height="28" X="160" Y="410">subtitle_0072.png</Graphic>
+    </Event>
+    <Event InTC="00:06:23:02" OutTC="00:06:27:16" Forced="False">
+      <Graphic Width="275" Height="55" X="221" Y="378">subtitle_0073.png</Graphic>
+    </Event>
+    <Event InTC="00:06:27:16" OutTC="00:06:29:19" Forced="False">
+      <Graphic Width="206" Height="23" X="257" Y="410">subtitle_0074.png</Graphic>
+    </Event>
+    <Event InTC="00:06:29:19" OutTC="00:06:33:13" Forced="False">
+      <Graphic Width="268" Height="60" X="226" Y="378">subtitle_0075.png</Graphic>
+    </Event>
+    <Event InTC="00:06:34:07" OutTC="00:06:36:09" Forced="False">
+      <Graphic Width="332" Height="28" X="193" Y="410">subtitle_0076.png</Graphic>
+    </Event>
+    <Event InTC="00:06:36:09" OutTC="00:06:40:23" Forced="False">
+      <Graphic Width="356" Height="60" X="182" Y="378">subtitle_0077.png</Graphic>
+    </Event>
+    <Event InTC="00:06:40:23" OutTC="00:06:45:11" Forced="False">
+      <Graphic Width="484" Height="28" X="116" Y="410">subtitle_0078.png</Graphic>
+    </Event>
+    <Event InTC="00:06:46:21" OutTC="00:06:48:21" Forced="False">
+      <Graphic Width="442" Height="28" X="137" Y="410">subtitle_0079.png</Graphic>
+    </Event>
+    <Event InTC="00:06:49:22" OutTC="00:06:54:03" Forced="False">
+      <Graphic Width="293" Height="60" X="211" Y="378">subtitle_0080.png</Graphic>
+    </Event>
+    <Event InTC="00:06:56:00" OutTC="00:06:57:16" Forced="False">
+      <Graphic Width="262" Height="28" X="228" Y="410">subtitle_0081.png</Graphic>
+    </Event>
+    <Event InTC="00:06:58:05" OutTC="00:07:02:05" Forced="False">
+      <Graphic Width="381" Height="60" X="169" Y="378">subtitle_0082.png</Graphic>
+    </Event>
+    <Event InTC="00:07:05:11" OutTC="00:07:07:11" Forced="False">
+      <Graphic Width="267" Height="23" X="225" Y="410">subtitle_0083.png</Graphic>
+    </Event>
+    <Event InTC="00:07:13:11" OutTC="00:07:18:19" Forced="False">
+      <Graphic Width="275" Height="60" X="221" Y="378">subtitle_0084.png</Graphic>
+    </Event>
+    <Event InTC="00:07:19:17" OutTC="00:07:21:24" Forced="False">
+      <Graphic Width="364" Height="28" X="177" Y="410">subtitle_0085.png</Graphic>
+    </Event>
+    <Event InTC="00:07:22:13" OutTC="00:07:25:11" Forced="False">
+      <Graphic Width="358" Height="55" X="181" Y="378">subtitle_0086.png</Graphic>
+    </Event>
+    <Event InTC="00:07:45:01" OutTC="00:07:48:07" Forced="False">
+      <Graphic Width="287" Height="60" X="217" Y="378">subtitle_0087.png</Graphic>
+    </Event>
+    <Event InTC="00:07:49:21" OutTC="00:07:53:12" Forced="False">
+      <Graphic Width="472" Height="28" X="123" Y="410">subtitle_0088.png</Graphic>
+    </Event>
+    <Event InTC="00:07:56:19" OutTC="00:07:58:00" Forced="False">
+      <Graphic Width="159" Height="28" X="280" Y="410">subtitle_0089.png</Graphic>
+    </Event>
+    <Event InTC="00:07:58:15" OutTC="00:08:01:10" Forced="False">
+      <Graphic Width="247" Height="28" X="235" Y="410">subtitle_0090.png</Graphic>
+    </Event>
+    <Event InTC="00:08:01:10" OutTC="00:08:02:08" Forced="False">
+      <Graphic Width="51" Height="23" X="334" Y="410">subtitle_0091.png</Graphic>
+    </Event>
+    <Event InTC="00:08:03:05" OutTC="00:08:07:06" Forced="False">
+      <Graphic Width="351" Height="60" X="184" Y="378">subtitle_0092.png</Graphic>
+    </Event>
+    <Event InTC="00:08:07:06" OutTC="00:08:09:06" Forced="False">
+      <Graphic Width="292" Height="28" X="212" Y="410">subtitle_0093.png</Graphic>
+    </Event>
+    <Event InTC="00:08:09:19" OutTC="00:08:11:13" Forced="False">
+      <Graphic Width="207" Height="28" X="256" Y="410">subtitle_0094.png</Graphic>
+    </Event>
+    <Event InTC="00:08:11:21" OutTC="00:08:15:09" Forced="False">
+      <Graphic Width="292" Height="23" X="212" Y="410">subtitle_0095.png</Graphic>
+    </Event>
+    <Event InTC="00:08:15:09" OutTC="00:08:16:17" Forced="False">
+      <Graphic Width="178" Height="23" X="270" Y="410">subtitle_0096.png</Graphic>
+    </Event>
+    <Event InTC="00:08:16:17" OutTC="00:08:17:18" Forced="False">
+      <Graphic Width="88" Height="23" X="316" Y="410">subtitle_0097.png</Graphic>
+    </Event>
+    <Event InTC="00:08:19:01" OutTC="00:08:20:15" Forced="False">
+      <Graphic Width="178" Height="23" X="270" Y="410">subtitle_0098.png</Graphic>
+    </Event>
+    <Event InTC="00:08:21:20" OutTC="00:08:24:24" Forced="False">
+      <Graphic Width="415" Height="60" X="151" Y="378">subtitle_0099.png</Graphic>
+    </Event>
+    <Event InTC="00:08:25:21" OutTC="00:08:27:14" Forced="False">
+      <Graphic Width="124" Height="23" X="297" Y="410">subtitle_0100.png</Graphic>
+    </Event>
+    <Event InTC="00:08:27:14" OutTC="00:08:30:04" Forced="False">
+      <Graphic Width="228" Height="28" X="245" Y="410">subtitle_0101.png</Graphic>
+    </Event>
+    <Event InTC="00:08:30:04" OutTC="00:08:32:07" Forced="False">
+      <Graphic Width="278" Height="28" X="220" Y="410">subtitle_0102.png</Graphic>
+    </Event>
+    <Event InTC="00:08:32:07" OutTC="00:08:33:16" Forced="False">
+      <Graphic Width="113" Height="23" X="302" Y="410">subtitle_0103.png</Graphic>
+    </Event>
+    <Event InTC="00:08:34:16" OutTC="00:08:37:18" Forced="False">
+      <Graphic Width="133" Height="28" X="292" Y="410">subtitle_0104.png</Graphic>
+    </Event>
+    <Event InTC="00:08:37:18" OutTC="00:08:40:16" Forced="False">
+      <Graphic Width="439" Height="26" X="139" Y="410">subtitle_0105.png</Graphic>
+    </Event>
+    <Event InTC="00:08:40:16" OutTC="00:08:44:02" Forced="False">
+      <Graphic Width="455" Height="28" X="132" Y="410">subtitle_0106.png</Graphic>
+    </Event>
+    <Event InTC="00:08:44:02" OutTC="00:08:45:24" Forced="False">
+      <Graphic Width="378" Height="28" X="171" Y="410">subtitle_0107.png</Graphic>
+    </Event>
+    <Event InTC="00:08:46:18" OutTC="00:08:48:05" Forced="False">
+      <Graphic Width="148" Height="23" X="285" Y="410">subtitle_0108.png</Graphic>
+    </Event>
+    <Event InTC="00:08:48:20" OutTC="00:08:51:06" Forced="False">
+      <Graphic Width="447" Height="28" X="136" Y="410">subtitle_0109.png</Graphic>
+    </Event>
+    <Event InTC="00:08:53:01" OutTC="00:08:56:22" Forced="False">
+      <Graphic Width="329" Height="60" X="195" Y="378">subtitle_0110.png</Graphic>
+    </Event>
+    <Event InTC="00:08:57:23" OutTC="00:08:59:07" Forced="False">
+      <Graphic Width="351" Height="28" X="183" Y="410">subtitle_0111.png</Graphic>
+    </Event>
+    <Event InTC="00:08:59:07" OutTC="00:09:00:20" Forced="False">
+      <Graphic Width="375" Height="28" X="172" Y="410">subtitle_0112.png</Graphic>
+    </Event>
+    <Event InTC="00:09:00:20" OutTC="00:09:03:10" Forced="False">
+      <Graphic Width="309" Height="28" X="204" Y="410">subtitle_0113.png</Graphic>
+    </Event>
+    <Event InTC="00:09:03:10" OutTC="00:09:05:12" Forced="False">
+      <Graphic Width="387" Height="28" X="167" Y="410">subtitle_0114.png</Graphic>
+    </Event>
+    <Event InTC="00:09:05:12" OutTC="00:09:07:14" Forced="False">
+      <Graphic Width="171" Height="24" X="273" Y="410">subtitle_0115.png</Graphic>
+    </Event>
+    <Event InTC="00:09:07:14" OutTC="00:09:09:15" Forced="False">
+      <Graphic Width="160" Height="26" X="279" Y="410">subtitle_0116.png</Graphic>
+    </Event>
+    <Event InTC="00:09:09:15" OutTC="00:09:13:02" Forced="False">
+      <Graphic Width="366" Height="60" X="175" Y="378">subtitle_0117.png</Graphic>
+    </Event>
+    <Event InTC="00:09:13:09" OutTC="00:09:15:17" Forced="False">
+      <Graphic Width="282" Height="28" X="219" Y="410">subtitle_0118.png</Graphic>
+    </Event>
+    <Event InTC="00:09:15:17" OutTC="00:09:18:16" Forced="False">
+      <Graphic Width="461" Height="28" X="129" Y="410">subtitle_0119.png</Graphic>
+    </Event>
+    <Event InTC="00:09:18:16" OutTC="00:09:21:15" Forced="False">
+      <Graphic Width="475" Height="28" X="123" Y="410">subtitle_0120.png</Graphic>
+    </Event>
+    <Event InTC="00:09:22:17" OutTC="00:09:26:21" Forced="False">
+      <Graphic Width="467" Height="28" X="125" Y="410">subtitle_0121.png</Graphic>
+    </Event>
+    <Event InTC="00:09:26:21" OutTC="00:09:28:23" Forced="False">
+      <Graphic Width="528" Height="23" X="95" Y="410">subtitle_0122.png</Graphic>
+    </Event>
+    <Event InTC="00:09:28:23" OutTC="00:09:32:18" Forced="False">
+      <Graphic Width="408" Height="28" X="156" Y="410">subtitle_0123.png</Graphic>
+    </Event>
+    <Event InTC="00:09:32:18" OutTC="00:09:35:17" Forced="False">
+      <Graphic Width="460" Height="28" X="129" Y="410">subtitle_0124.png</Graphic>
+    </Event>
+    <Event InTC="00:09:39:14" OutTC="00:09:43:04" Forced="False">
+      <Graphic Width="415" Height="60" X="151" Y="378">subtitle_0125.png</Graphic>
+    </Event>
+    <Event InTC="00:09:43:04" OutTC="00:09:44:23" Forced="False">
+      <Graphic Width="298" Height="28" X="210" Y="410">subtitle_0126.png</Graphic>
+    </Event>
+    <Event InTC="00:09:47:03" OutTC="00:09:49:03" Forced="False">
+      <Graphic Width="509" Height="28" X="105" Y="410">subtitle_0127.png</Graphic>
+    </Event>
+    <Event InTC="00:09:50:08" OutTC="00:09:53:09" Forced="False">
+      <Graphic Width="482" Height="28" X="118" Y="410">subtitle_0128.png</Graphic>
+    </Event>
+    <Event InTC="00:09:53:09" OutTC="00:09:54:20" Forced="False">
+      <Graphic Width="196" Height="26" X="261" Y="410">subtitle_0129.png</Graphic>
+    </Event>
+    <Event InTC="00:09:55:10" OutTC="00:09:57:13" Forced="False">
+      <Graphic Width="270" Height="28" X="224" Y="410">subtitle_0130.png</Graphic>
+    </Event>
+    <Event InTC="00:09:58:22" OutTC="00:10:00:02" Forced="False">
+      <Graphic Width="221" Height="28" X="248" Y="410">subtitle_0131.png</Graphic>
+    </Event>
+    <Event InTC="00:10:00:06" OutTC="00:10:03:00" Forced="False">
+      <Graphic Width="234" Height="28" X="242" Y="410">subtitle_0132.png</Graphic>
+    </Event>
+    <Event InTC="00:10:03:07" OutTC="00:10:03:23" Forced="False">
+      <Graphic Width="289" Height="28" X="216" Y="410">subtitle_0133.png</Graphic>
+    </Event>
+    <Event InTC="00:10:03:23" OutTC="00:10:05:02" Forced="False">
+      <Graphic Width="89" Height="28" X="315" Y="410">subtitle_0134.png</Graphic>
+    </Event>
+    <Event InTC="00:10:05:02" OutTC="00:10:06:04" Forced="False">
+      <Graphic Width="72" Height="23" X="323" Y="410">subtitle_0135.png</Graphic>
+    </Event>
+    <Event InTC="00:10:06:04" OutTC="00:10:07:07" Forced="False">
+      <Graphic Width="117" Height="23" X="300" Y="410">subtitle_0136.png</Graphic>
+    </Event>
+    <Event InTC="00:10:07:24" OutTC="00:10:09:06" Forced="False">
+      <Graphic Width="78" Height="28" X="319" Y="410">subtitle_0137.png</Graphic>
+    </Event>
+    <Event InTC="00:10:10:13" OutTC="00:10:11:11" Forced="False">
+      <Graphic Width="175" Height="28" X="272" Y="410">subtitle_0138.png</Graphic>
+    </Event>
+    <Event InTC="00:10:11:11" OutTC="00:10:12:11" Forced="False">
+      <Graphic Width="269" Height="28" X="225" Y="410">subtitle_0139.png</Graphic>
+    </Event>
+    <Event InTC="00:10:12:20" OutTC="00:10:16:23" Forced="False">
+      <Graphic Width="308" Height="60" X="206" Y="378">subtitle_0140.png</Graphic>
+    </Event>
+    <Event InTC="00:10:36:10" OutTC="00:10:39:13" Forced="False">
+      <Graphic Width="299" Height="23" X="209" Y="410">subtitle_0141.png</Graphic>
+    </Event>
+    <Event InTC="00:10:39:13" OutTC="00:10:41:14" Forced="False">
+      <Graphic Width="228" Height="28" X="245" Y="410">subtitle_0142.png</Graphic>
+    </Event>
+    <Event InTC="00:10:41:14" OutTC="00:10:42:19" Forced="False">
+      <Graphic Width="199" Height="23" X="261" Y="410">subtitle_0143.png</Graphic>
+    </Event>
+    <Event InTC="00:10:46:01" OutTC="00:10:47:06" Forced="False">
+      <Graphic Width="208" Height="28" X="255" Y="410">subtitle_0144.png</Graphic>
+    </Event>
+    <Event InTC="00:10:59:05" OutTC="00:11:01:12" Forced="False">
+      <Graphic Width="346" Height="28" X="186" Y="410">subtitle_0145.png</Graphic>
+    </Event>
+    <Event InTC="00:11:01:12" OutTC="00:11:04:22" Forced="False">
+      <Graphic Width="468" Height="28" X="124" Y="410">subtitle_0146.png</Graphic>
+    </Event>
+    <Event InTC="00:11:04:22" OutTC="00:11:07:20" Forced="False">
+      <Graphic Width="420" Height="28" X="149" Y="410">subtitle_0147.png</Graphic>
+    </Event>
+    <Event InTC="00:11:07:20" OutTC="00:11:10:21" Forced="False">
+      <Graphic Width="445" Height="28" X="137" Y="410">subtitle_0148.png</Graphic>
+    </Event>
+    <Event InTC="00:11:36:01" OutTC="00:11:38:00" Forced="False">
+      <Graphic Width="262" Height="28" X="228" Y="410">subtitle_0149.png</Graphic>
+    </Event>
+    <Event InTC="00:11:40:13" OutTC="00:11:41:14" Forced="False">
+      <Graphic Width="87" Height="23" X="316" Y="410">subtitle_0150.png</Graphic>
+    </Event>
+    <Event InTC="00:12:02:04" OutTC="00:12:04:09" Forced="False">
+      <Graphic Width="345" Height="28" X="186" Y="410">subtitle_0151.png</Graphic>
+    </Event>
+    <Event InTC="00:12:04:09" OutTC="00:12:05:20" Forced="False">
+      <Graphic Width="224" Height="28" X="247" Y="410">subtitle_0152.png</Graphic>
+    </Event>
+    <Event InTC="00:12:05:20" OutTC="00:12:08:04" Forced="False">
+      <Graphic Width="486" Height="28" X="117" Y="410">subtitle_0153.png</Graphic>
+    </Event>
+    <Event InTC="00:12:08:04" OutTC="00:12:11:12" Forced="False">
+      <Graphic Width="406" Height="28" X="157" Y="410">subtitle_0154.png</Graphic>
+    </Event>
+    <Event InTC="00:12:11:20" OutTC="00:12:12:20" Forced="False">
+      <Graphic Width="113" Height="28" X="303" Y="410">subtitle_0155.png</Graphic>
+    </Event>
+    <Event InTC="00:12:13:13" OutTC="00:12:15:08" Forced="False">
+      <Graphic Width="166" Height="23" X="277" Y="410">subtitle_0156.png</Graphic>
+    </Event>
+    <Event InTC="00:12:19:11" OutTC="00:12:21:05" Forced="False">
+      <Graphic Width="134" Height="28" X="293" Y="410">subtitle_0157.png</Graphic>
+    </Event>
+    <Event InTC="00:12:21:05" OutTC="00:12:22:18" Forced="False">
+      <Graphic Width="247" Height="23" X="236" Y="410">subtitle_0158.png</Graphic>
+    </Event>
+    <Event InTC="00:12:26:05" OutTC="00:12:28:01" Forced="False">
+      <Graphic Width="191" Height="28" X="264" Y="410">subtitle_0159.png</Graphic>
+    </Event>
+    <Event InTC="00:12:32:08" OutTC="00:12:33:09" Forced="False">
+      <Graphic Width="137" Height="28" X="291" Y="410">subtitle_0160.png</Graphic>
+    </Event>
+    <Event InTC="00:12:39:10" OutTC="00:12:41:06" Forced="False">
+      <Graphic Width="352" Height="28" X="183" Y="410">subtitle_0161.png</Graphic>
+    </Event>
+    <Event InTC="00:12:41:16" OutTC="00:12:42:20" Forced="False">
+      <Graphic Width="82" Height="23" X="319" Y="410">subtitle_0162.png</Graphic>
+    </Event>
+    <Event InTC="00:12:44:22" OutTC="00:12:45:23" Forced="False">
+      <Graphic Width="186" Height="28" X="265" Y="410">subtitle_0163.png</Graphic>
+    </Event>
+    <Event InTC="00:12:46:04" OutTC="00:12:48:03" Forced="False">
+      <Graphic Width="303" Height="28" X="208" Y="410">subtitle_0164.png</Graphic>
+    </Event>
+    <Event InTC="00:12:48:03" OutTC="00:12:49:03" Forced="False">
+      <Graphic Width="133" Height="28" X="293" Y="410">subtitle_0165.png</Graphic>
+    </Event>
+    <Event InTC="00:12:49:13" OutTC="00:12:51:12" Forced="False">
+      <Graphic Width="399" Height="28" X="160" Y="410">subtitle_0166.png</Graphic>
+    </Event>
+    <Event InTC="00:12:54:09" OutTC="00:12:56:02" Forced="False">
+      <Graphic Width="58" Height="23" X="330" Y="410">subtitle_0167.png</Graphic>
+    </Event>
+    <Event InTC="00:12:56:02" OutTC="00:12:57:17" Forced="False">
+      <Graphic Width="246" Height="28" X="236" Y="410">subtitle_0168.png</Graphic>
+    </Event>
+    <Event InTC="00:12:59:07" OutTC="00:13:02:11" Forced="False">
+      <Graphic Width="442" Height="28" X="138" Y="410">subtitle_0169.png</Graphic>
+    </Event>
+    <Event InTC="00:13:02:11" OutTC="00:13:06:06" Forced="False">
+      <Graphic Width="442" Height="55" X="138" Y="378">subtitle_0170.png</Graphic>
+    </Event>
+    <Event InTC="00:13:06:06" OutTC="00:13:09:10" Forced="False">
+      <Graphic Width="355" Height="28" X="182" Y="410">subtitle_0171.png</Graphic>
+    </Event>
+    <Event InTC="00:13:09:10" OutTC="00:13:11:18" Forced="False">
+      <Graphic Width="340" Height="28" X="189" Y="410">subtitle_0172.png</Graphic>
+    </Event>
+    <Event InTC="00:13:11:18" OutTC="00:13:13:01" Forced="False">
+      <Graphic Width="156" Height="28" X="280" Y="410">subtitle_0173.png</Graphic>
+    </Event>
+    <Event InTC="00:13:13:01" OutTC="00:13:14:19" Forced="False">
+      <Graphic Width="295" Height="28" X="211" Y="410">subtitle_0174.png</Graphic>
+    </Event>
+    <Event InTC="00:13:31:19" OutTC="00:13:33:06" Forced="False">
+      <Graphic Width="365" Height="28" X="177" Y="410">subtitle_0175.png</Graphic>
+    </Event>
+    <Event InTC="00:13:40:20" OutTC="00:13:42:07" Forced="False">
+      <Graphic Width="219" Height="28" X="250" Y="410">subtitle_0176.png</Graphic>
+    </Event>
+    <Event InTC="00:13:42:07" OutTC="00:13:44:02" Forced="False">
+      <Graphic Width="218" Height="28" X="250" Y="410">subtitle_0177.png</Graphic>
+    </Event>
+    <Event InTC="00:13:44:02" OutTC="00:13:45:16" Forced="False">
+      <Graphic Width="93" Height="28" X="313" Y="410">subtitle_0178.png</Graphic>
+    </Event>
+    <Event InTC="00:13:45:16" OutTC="00:13:47:13" Forced="False">
+      <Graphic Width="294" Height="28" X="212" Y="410">subtitle_0179.png</Graphic>
+    </Event>
+    <Event InTC="00:13:47:13" OutTC="00:13:49:02" Forced="False">
+      <Graphic Width="231" Height="28" X="243" Y="410">subtitle_0180.png</Graphic>
+    </Event>
+    <Event InTC="00:13:49:02" OutTC="00:13:51:12" Forced="False">
+      <Graphic Width="380" Height="28" X="171" Y="410">subtitle_0181.png</Graphic>
+    </Event>
+    <Event InTC="00:13:52:11" OutTC="00:13:53:15" Forced="False">
+      <Graphic Width="244" Height="28" X="238" Y="410">subtitle_0182.png</Graphic>
+    </Event>
+    <Event InTC="00:13:53:15" OutTC="00:13:55:04" Forced="False">
+      <Graphic Width="247" Height="28" X="235" Y="410">subtitle_0183.png</Graphic>
+    </Event>
+    <Event InTC="00:13:55:04" OutTC="00:13:57:05" Forced="False">
+      <Graphic Width="188" Height="28" X="265" Y="410">subtitle_0184.png</Graphic>
+    </Event>
+    <Event InTC="00:13:57:05" OutTC="00:13:59:23" Forced="False">
+      <Graphic Width="291" Height="26" X="214" Y="410">subtitle_0185.png</Graphic>
+    </Event>
+    <Event InTC="00:13:59:23" OutTC="00:14:02:12" Forced="False">
+      <Graphic Width="443" Height="28" X="137" Y="410">subtitle_0186.png</Graphic>
+    </Event>
+    <Event InTC="00:14:02:12" OutTC="00:14:03:14" Forced="False">
+      <Graphic Width="134" Height="23" X="293" Y="410">subtitle_0187.png</Graphic>
+    </Event>
+    <Event InTC="00:14:04:00" OutTC="00:14:07:10" Forced="False">
+      <Graphic Width="301" Height="60" X="209" Y="378">subtitle_0188.png</Graphic>
+    </Event>
+    <Event InTC="00:14:07:10" OutTC="00:14:08:14" Forced="False">
+      <Graphic Width="165" Height="28" X="277" Y="410">subtitle_0189.png</Graphic>
+    </Event>
+    <Event InTC="00:14:08:14" OutTC="00:14:10:13" Forced="False">
+      <Graphic Width="364" Height="28" X="178" Y="410">subtitle_0190.png</Graphic>
+    </Event>
+    <Event InTC="00:14:11:07" OutTC="00:14:12:14" Forced="False">
+      <Graphic Width="202" Height="28" X="257" Y="410">subtitle_0191.png</Graphic>
+    </Event>
+    <Event InTC="00:14:12:23" OutTC="00:14:15:01" Forced="False">
+      <Graphic Width="424" Height="28" X="147" Y="410">subtitle_0192.png</Graphic>
+    </Event>
+    <Event InTC="00:14:15:01" OutTC="00:14:17:04" Forced="False">
+      <Graphic Width="441" Height="28" X="138" Y="410">subtitle_0193.png</Graphic>
+    </Event>
+    <Event InTC="00:14:18:23" OutTC="00:14:19:23" Forced="False">
+      <Graphic Width="107" Height="28" X="306" Y="410">subtitle_0194.png</Graphic>
+    </Event>
+    <Event InTC="00:14:20:17" OutTC="00:14:22:16" Forced="False">
+      <Graphic Width="216" Height="28" X="251" Y="410">subtitle_0195.png</Graphic>
+    </Event>
+    <Event InTC="00:15:22:16" OutTC="00:15:23:20" Forced="False">
+      <Graphic Width="68" Height="23" X="326" Y="410">subtitle_0196.png</Graphic>
+    </Event>
+    <Event InTC="00:15:33:00" OutTC="00:15:34:03" Forced="False">
+      <Graphic Width="68" Height="23" X="326" Y="410">subtitle_0197.png</Graphic>
+    </Event>
+    <Event InTC="00:16:08:07" OutTC="00:16:10:18" Forced="False">
+      <Graphic Width="463" Height="28" X="127" Y="410">subtitle_0198.png</Graphic>
+    </Event>
+    <Event InTC="00:16:58:12" OutTC="00:16:59:12" Forced="False">
+      <Graphic Width="66" Height="23" X="327" Y="410">subtitle_0199.png</Graphic>
+    </Event>
+    <Event InTC="00:17:00:15" OutTC="00:17:01:23" Forced="False">
+      <Graphic Width="229" Height="23" X="244" Y="410">subtitle_0200.png</Graphic>
+    </Event>
+    <Event InTC="00:17:04:12" OutTC="00:17:06:20" Forced="False">
+      <Graphic Width="283" Height="28" X="217" Y="410">subtitle_0201.png</Graphic>
+    </Event>
+    <Event InTC="00:17:06:20" OutTC="00:17:08:09" Forced="False">
+      <Graphic Width="269" Height="28" X="225" Y="410">subtitle_0202.png</Graphic>
+    </Event>
+    <Event InTC="00:17:09:08" OutTC="00:17:10:17" Forced="False">
+      <Graphic Width="115" Height="28" X="303" Y="410">subtitle_0203.png</Graphic>
+    </Event>
+    <Event InTC="00:17:11:06" OutTC="00:17:13:16" Forced="False">
+      <Graphic Width="319" Height="28" X="201" Y="410">subtitle_0204.png</Graphic>
+    </Event>
+    <Event InTC="00:17:19:00" OutTC="00:17:21:08" Forced="False">
+      <Graphic Width="250" Height="28" X="235" Y="410">subtitle_0205.png</Graphic>
+    </Event>
+    <Event InTC="00:17:24:19" OutTC="00:17:26:21" Forced="False">
+      <Graphic Width="303" Height="28" X="208" Y="410">subtitle_0206.png</Graphic>
+    </Event>
+    <Event InTC="00:17:30:05" OutTC="00:17:31:18" Forced="False">
+      <Graphic Width="281" Height="28" X="219" Y="410">subtitle_0207.png</Graphic>
+    </Event>
+    <Event InTC="00:17:32:19" OutTC="00:17:33:21" Forced="False">
+      <Graphic Width="175" Height="28" X="271" Y="410">subtitle_0208.png</Graphic>
+    </Event>
+    <Event InTC="00:17:33:21" OutTC="00:17:36:08" Forced="False">
+      <Graphic Width="370" Height="28" X="175" Y="410">subtitle_0209.png</Graphic>
+    </Event>
+    <Event InTC="00:17:49:19" OutTC="00:17:50:17" Forced="False">
+      <Graphic Width="30" Height="23" X="344" Y="410">subtitle_0210.png</Graphic>
+    </Event>
+    <Event InTC="00:17:51:08" OutTC="00:17:52:13" Forced="False">
+      <Graphic Width="62" Height="23" X="329" Y="410">subtitle_0211.png</Graphic>
+    </Event>
+    <Event InTC="00:17:53:02" OutTC="00:17:54:23" Forced="False">
+      <Graphic Width="316" Height="28" X="202" Y="410">subtitle_0212.png</Graphic>
+    </Event>
+    <Event InTC="00:17:55:22" OutTC="00:17:57:00" Forced="False">
+      <Graphic Width="58" Height="23" X="330" Y="410">subtitle_0213.png</Graphic>
+    </Event>
+    <Event InTC="00:17:57:23" OutTC="00:17:59:07" Forced="False">
+      <Graphic Width="138" Height="26" X="291" Y="410">subtitle_0214.png</Graphic>
+    </Event>
+    <Event InTC="00:18:04:10" OutTC="00:18:06:18" Forced="False">
+      <Graphic Width="280" Height="28" X="219" Y="410">subtitle_0215.png</Graphic>
+    </Event>
+    <Event InTC="00:18:14:02" OutTC="00:18:15:20" Forced="False">
+      <Graphic Width="350" Height="28" X="184" Y="410">subtitle_0216.png</Graphic>
+    </Event>
+    <Event InTC="00:18:16:17" OutTC="00:18:18:05" Forced="False">
+      <Graphic Width="174" Height="28" X="272" Y="410">subtitle_0217.png</Graphic>
+    </Event>
+    <Event InTC="00:18:18:05" OutTC="00:18:19:17" Forced="False">
+      <Graphic Width="133" Height="28" X="293" Y="410">subtitle_0218.png</Graphic>
+    </Event>
+    <Event InTC="00:18:22:16" OutTC="00:18:25:00" Forced="False">
+      <Graphic Width="289" Height="28" X="215" Y="410">subtitle_0219.png</Graphic>
+    </Event>
+    <Event InTC="00:18:25:00" OutTC="00:18:28:03" Forced="False">
+      <Graphic Width="397" Height="28" X="161" Y="410">subtitle_0220.png</Graphic>
+    </Event>
+    <Event InTC="00:18:28:03" OutTC="00:18:29:20" Forced="False">
+      <Graphic Width="135" Height="28" X="291" Y="410">subtitle_0221.png</Graphic>
+    </Event>
+    <Event InTC="00:18:29:20" OutTC="00:18:32:09" Forced="False">
+      <Graphic Width="283" Height="28" X="218" Y="410">subtitle_0222.png</Graphic>
+    </Event>
+    <Event InTC="00:18:34:20" OutTC="00:18:36:15" Forced="False">
+      <Graphic Width="330" Height="28" X="195" Y="410">subtitle_0223.png</Graphic>
+    </Event>
+    <Event InTC="00:18:38:00" OutTC="00:18:39:17" Forced="False">
+      <Graphic Width="358" Height="28" X="180" Y="410">subtitle_0224.png</Graphic>
+    </Event>
+    <Event InTC="00:19:07:16" OutTC="00:19:09:20" Forced="False">
+      <Graphic Width="275" Height="28" X="221" Y="410">subtitle_0225.png</Graphic>
+    </Event>
+    <Event InTC="00:19:12:06" OutTC="00:19:14:00" Forced="False">
+      <Graphic Width="226" Height="28" X="246" Y="410">subtitle_0226.png</Graphic>
+    </Event>
+    <Event InTC="00:19:36:04" OutTC="00:19:39:24" Forced="False">
+      <Graphic Width="333" Height="60" X="192" Y="378">subtitle_0227.png</Graphic>
+    </Event>
+    <Event InTC="00:19:54:08" OutTC="00:19:55:19" Forced="False">
+      <Graphic Width="239" Height="28" X="241" Y="410">subtitle_0228.png</Graphic>
+    </Event>
+    <Event InTC="00:19:56:01" OutTC="00:19:58:02" Forced="False">
+      <Graphic Width="212" Height="28" X="253" Y="410">subtitle_0229.png</Graphic>
+    </Event>
+    <Event InTC="00:19:58:02" OutTC="00:19:59:16" Forced="False">
+      <Graphic Width="197" Height="28" X="261" Y="410">subtitle_0230.png</Graphic>
+    </Event>
+    <Event InTC="00:20:05:23" OutTC="00:20:08:08" Forced="False">
+      <Graphic Width="275" Height="26" X="221" Y="410">subtitle_0231.png</Graphic>
+    </Event>
+    <Event InTC="00:20:10:05" OutTC="00:20:13:06" Forced="False">
+      <Graphic Width="477" Height="28" X="120" Y="410">subtitle_0232.png</Graphic>
+    </Event>
+    <Event InTC="00:20:13:06" OutTC="00:20:14:20" Forced="False">
+      <Graphic Width="280" Height="28" X="219" Y="410">subtitle_0233.png</Graphic>
+    </Event>
+    <Event InTC="00:20:15:10" OutTC="00:20:18:13" Forced="False">
+      <Graphic Width="438" Height="28" X="140" Y="410">subtitle_0234.png</Graphic>
+    </Event>
+    <Event InTC="00:20:18:13" OutTC="00:20:20:09" Forced="False">
+      <Graphic Width="370" Height="28" X="174" Y="410">subtitle_0235.png</Graphic>
+    </Event>
+    <Event InTC="00:20:28:22" OutTC="00:20:31:01" Forced="False">
+      <Graphic Width="360" Height="28" X="179" Y="410">subtitle_0236.png</Graphic>
+    </Event>
+    <Event InTC="00:20:31:07" OutTC="00:20:32:06" Forced="False">
+      <Graphic Width="38" Height="23" X="341" Y="410">subtitle_0237.png</Graphic>
+    </Event>
+    <Event InTC="00:20:45:20" OutTC="00:20:48:13" Forced="False">
+      <Graphic Width="384" Height="28" X="166" Y="410">subtitle_0238.png</Graphic>
+    </Event>
+    <Event InTC="00:20:48:13" OutTC="00:20:50:10" Forced="False">
+      <Graphic Width="316" Height="28" X="201" Y="410">subtitle_0239.png</Graphic>
+    </Event>
+    <Event InTC="00:20:55:12" OutTC="00:20:56:22" Forced="False">
+      <Graphic Width="215" Height="28" X="252" Y="410">subtitle_0240.png</Graphic>
+    </Event>
+    <Event InTC="00:20:57:17" OutTC="00:20:59:03" Forced="False">
+      <Graphic Width="179" Height="23" X="269" Y="410">subtitle_0241.png</Graphic>
+    </Event>
+    <Event InTC="00:21:05:19" OutTC="00:21:07:06" Forced="False">
+      <Graphic Width="269" Height="23" X="224" Y="410">subtitle_0242.png</Graphic>
+    </Event>
+    <Event InTC="00:21:08:08" OutTC="00:21:10:18" Forced="False">
+      <Graphic Width="440" Height="28" X="139" Y="410">subtitle_0243.png</Graphic>
+    </Event>
+    <Event InTC="00:21:12:00" OutTC="00:21:14:06" Forced="False">
+      <Graphic Width="413" Height="28" X="152" Y="410">subtitle_0244.png</Graphic>
+    </Event>
+    <Event InTC="00:21:17:16" OutTC="00:21:19:09" Forced="False">
+      <Graphic Width="376" Height="28" X="173" Y="410">subtitle_0245.png</Graphic>
+    </Event>
+    <Event InTC="00:21:20:03" OutTC="00:21:21:09" Forced="False">
+      <Graphic Width="108" Height="28" X="305" Y="410">subtitle_0246.png</Graphic>
+    </Event>
+    <Event InTC="00:21:21:24" OutTC="00:21:23:01" Forced="False">
+      <Graphic Width="217" Height="28" X="251" Y="410">subtitle_0247.png</Graphic>
+    </Event>
+    <Event InTC="00:21:23:01" OutTC="00:21:24:21" Forced="False">
+      <Graphic Width="389" Height="28" X="165" Y="410">subtitle_0248.png</Graphic>
+    </Event>
+    <Event InTC="00:21:24:21" OutTC="00:21:28:07" Forced="False">
+      <Graphic Width="359" Height="60" X="179" Y="378">subtitle_0249.png</Graphic>
+    </Event>
+    <Event InTC="00:21:28:07" OutTC="00:21:31:02" Forced="False">
+      <Graphic Width="408" Height="28" X="154" Y="410">subtitle_0250.png</Graphic>
+    </Event>
+    <Event InTC="00:21:31:02" OutTC="00:21:32:16" Forced="False">
+      <Graphic Width="285" Height="28" X="217" Y="410">subtitle_0251.png</Graphic>
+    </Event>
+    <Event InTC="00:21:33:22" OutTC="00:21:35:10" Forced="False">
+      <Graphic Width="245" Height="28" X="237" Y="410">subtitle_0252.png</Graphic>
+    </Event>
+    <Event InTC="00:21:38:19" OutTC="00:21:40:04" Forced="False">
+      <Graphic Width="230" Height="23" X="243" Y="410">subtitle_0253.png</Graphic>
+    </Event>
+    <Event InTC="00:21:41:03" OutTC="00:21:42:09" Forced="False">
+      <Graphic Width="77" Height="28" X="320" Y="410">subtitle_0254.png</Graphic>
+    </Event>
+    <Event InTC="00:21:51:24" OutTC="00:21:53:24" Forced="False">
+      <Graphic Width="219" Height="28" X="249" Y="410">subtitle_0255.png</Graphic>
+    </Event>
+    <Event InTC="00:21:53:24" OutTC="00:21:55:19" Forced="False">
+      <Graphic Width="196" Height="28" X="261" Y="410">subtitle_0256.png</Graphic>
+    </Event>
+    <Event InTC="00:21:55:19" OutTC="00:21:56:20" Forced="False">
+      <Graphic Width="210" Height="23" X="255" Y="410">subtitle_0257.png</Graphic>
+    </Event>
+    <Event InTC="00:21:56:20" OutTC="00:21:59:10" Forced="False">
+      <Graphic Width="362" Height="28" X="178" Y="410">subtitle_0258.png</Graphic>
+    </Event>
+    <Event InTC="00:22:05:11" OutTC="00:22:07:00" Forced="False">
+      <Graphic Width="249" Height="28" X="235" Y="410">subtitle_0259.png</Graphic>
+    </Event>
+    <Event InTC="00:22:08:12" OutTC="00:22:09:19" Forced="False">
+      <Graphic Width="132" Height="28" X="293" Y="410">subtitle_0260.png</Graphic>
+    </Event>
+    <Event InTC="00:22:10:12" OutTC="00:22:11:21" Forced="False">
+      <Graphic Width="164" Height="28" X="277" Y="410">subtitle_0261.png</Graphic>
+    </Event>
+    <Event InTC="00:22:12:17" OutTC="00:22:13:19" Forced="False">
+      <Graphic Width="221" Height="26" X="249" Y="410">subtitle_0262.png</Graphic>
+    </Event>
+    <Event InTC="00:22:14:02" OutTC="00:22:15:07" Forced="False">
+      <Graphic Width="114" Height="28" X="302" Y="410">subtitle_0263.png</Graphic>
+    </Event>
+    <Event InTC="00:22:16:11" OutTC="00:22:18:06" Forced="False">
+      <Graphic Width="147" Height="28" X="286" Y="410">subtitle_0264.png</Graphic>
+    </Event>
+    <Event InTC="00:22:21:10" OutTC="00:22:23:11" Forced="False">
+      <Graphic Width="251" Height="26" X="233" Y="410">subtitle_0265.png</Graphic>
+    </Event>
+    <Event InTC="00:22:24:00" OutTC="00:22:25:14" Forced="False">
+      <Graphic Width="72" Height="23" X="323" Y="410">subtitle_0266.png</Graphic>
+    </Event>
+    <Event InTC="00:22:25:14" OutTC="00:22:27:07" Forced="False">
+      <Graphic Width="298" Height="28" X="210" Y="410">subtitle_0267.png</Graphic>
+    </Event>
+    <Event InTC="00:22:28:11" OutTC="00:22:30:09" Forced="False">
+      <Graphic Width="229" Height="28" X="245" Y="410">subtitle_0268.png</Graphic>
+    </Event>
+    <Event InTC="00:22:30:09" OutTC="00:22:32:07" Forced="False">
+      <Graphic Width="201" Height="23" X="258" Y="410">subtitle_0269.png</Graphic>
+    </Event>
+    <Event InTC="00:22:32:21" OutTC="00:22:33:24" Forced="False">
+      <Graphic Width="132" Height="26" X="292" Y="410">subtitle_0270.png</Graphic>
+    </Event>
+    <Event InTC="00:22:34:14" OutTC="00:22:37:10" Forced="False">
+      <Graphic Width="165" Height="26" X="277" Y="410">subtitle_0271.png</Graphic>
+    </Event>
+    <Event InTC="00:22:37:10" OutTC="00:22:39:06" Forced="False">
+      <Graphic Width="282" Height="28" X="218" Y="410">subtitle_0272.png</Graphic>
+    </Event>
+    <Event InTC="00:22:39:20" OutTC="00:22:41:12" Forced="False">
+      <Graphic Width="248" Height="28" X="235" Y="410">subtitle_0273.png</Graphic>
+    </Event>
+    <Event InTC="00:22:42:11" OutTC="00:22:43:22" Forced="False">
+      <Graphic Width="97" Height="23" X="310" Y="410">subtitle_0274.png</Graphic>
+    </Event>
+    <Event InTC="00:22:43:22" OutTC="00:22:46:08" Forced="False">
+      <Graphic Width="404" Height="23" X="157" Y="410">subtitle_0275.png</Graphic>
+    </Event>
+    <Event InTC="00:22:46:08" OutTC="00:22:48:02" Forced="False">
+      <Graphic Width="168" Height="23" X="275" Y="410">subtitle_0276.png</Graphic>
+    </Event>
+    <Event InTC="00:22:48:18" OutTC="00:22:50:00" Forced="False">
+      <Graphic Width="142" Height="23" X="287" Y="410">subtitle_0277.png</Graphic>
+    </Event>
+    <Event InTC="00:22:54:07" OutTC="00:22:55:23" Forced="False">
+      <Graphic Width="104" Height="23" X="307" Y="410">subtitle_0278.png</Graphic>
+    </Event>
+    <Event InTC="00:22:59:14" OutTC="00:23:01:00" Forced="False">
+      <Graphic Width="238" Height="28" X="240" Y="410">subtitle_0279.png</Graphic>
+    </Event>
+    <Event InTC="00:23:01:00" OutTC="00:23:03:00" Forced="False">
+      <Graphic Width="151" Height="28" X="283" Y="410">subtitle_0280.png</Graphic>
+    </Event>
+    <Event InTC="00:23:03:00" OutTC="00:23:05:02" Forced="False">
+      <Graphic Width="371" Height="28" X="173" Y="410">subtitle_0281.png</Graphic>
+    </Event>
+    <Event InTC="00:23:05:02" OutTC="00:23:06:11" Forced="False">
+      <Graphic Width="46" Height="23" X="337" Y="410">subtitle_0282.png</Graphic>
+    </Event>
+    <Event InTC="00:23:06:11" OutTC="00:23:09:15" Forced="False">
+      <Graphic Width="362" Height="28" X="178" Y="410">subtitle_0283.png</Graphic>
+    </Event>
+    <Event InTC="00:23:09:15" OutTC="00:23:11:10" Forced="False">
+      <Graphic Width="441" Height="28" X="138" Y="410">subtitle_0284.png</Graphic>
+    </Event>
+    <Event InTC="00:23:11:10" OutTC="00:23:13:01" Forced="False">
+      <Graphic Width="172" Height="28" X="274" Y="410">subtitle_0285.png</Graphic>
+    </Event>
+    <Event InTC="00:23:13:01" OutTC="00:23:14:18" Forced="False">
+      <Graphic Width="160" Height="23" X="279" Y="410">subtitle_0286.png</Graphic>
+    </Event>
+    <Event InTC="00:23:14:18" OutTC="00:23:15:22" Forced="False">
+      <Graphic Width="160" Height="28" X="279" Y="410">subtitle_0287.png</Graphic>
+    </Event>
+    <Event InTC="00:23:16:12" OutTC="00:23:19:03" Forced="False">
+      <Graphic Width="360" Height="28" X="180" Y="410">subtitle_0288.png</Graphic>
+    </Event>
+    <Event InTC="00:23:19:03" OutTC="00:23:20:14" Forced="False">
+      <Graphic Width="162" Height="28" X="279" Y="410">subtitle_0289.png</Graphic>
+    </Event>
+    <Event InTC="00:23:20:14" OutTC="00:23:22:01" Forced="False">
+      <Graphic Width="200" Height="28" X="259" Y="410">subtitle_0290.png</Graphic>
+    </Event>
+    <Event InTC="00:23:22:01" OutTC="00:23:24:02" Forced="False">
+      <Graphic Width="334" Height="28" X="192" Y="410">subtitle_0291.png</Graphic>
+    </Event>
+    <Event InTC="00:23:24:02" OutTC="00:23:25:12" Forced="False">
+      <Graphic Width="164" Height="28" X="277" Y="410">subtitle_0292.png</Graphic>
+    </Event>
+    <Event InTC="00:23:25:12" OutTC="00:23:27:11" Forced="False">
+      <Graphic Width="362" Height="28" X="177" Y="410">subtitle_0293.png</Graphic>
+    </Event>
+    <Event InTC="00:23:27:11" OutTC="00:23:28:16" Forced="False">
+      <Graphic Width="198" Height="28" X="260" Y="410">subtitle_0294.png</Graphic>
+    </Event>
+    <Event InTC="00:23:28:16" OutTC="00:23:30:11" Forced="False">
+      <Graphic Width="123" Height="28" X="298" Y="410">subtitle_0295.png</Graphic>
+    </Event>
+    <Event InTC="00:23:30:11" OutTC="00:23:31:23" Forced="False">
+      <Graphic Width="223" Height="28" X="247" Y="410">subtitle_0296.png</Graphic>
+    </Event>
+    <Event InTC="00:23:40:20" OutTC="00:23:42:10" Forced="False">
+      <Graphic Width="272" Height="28" X="222" Y="410">subtitle_0297.png</Graphic>
+    </Event>
+    <Event InTC="00:23:44:07" OutTC="00:23:45:19" Forced="False">
+      <Graphic Width="259" Height="28" X="230" Y="410">subtitle_0298.png</Graphic>
+    </Event>
+    <Event InTC="00:23:45:19" OutTC="00:23:48:02" Forced="False">
+      <Graphic Width="348" Height="28" X="185" Y="410">subtitle_0299.png</Graphic>
+    </Event>
+    <Event InTC="00:23:48:02" OutTC="00:23:50:00" Forced="False">
+      <Graphic Width="198" Height="28" X="260" Y="410">subtitle_0300.png</Graphic>
+    </Event>
+    <Event InTC="00:23:50:00" OutTC="00:23:53:12" Forced="False">
+      <Graphic Width="414" Height="28" X="152" Y="410">subtitle_0301.png</Graphic>
+    </Event>
+    <Event InTC="00:23:53:12" OutTC="00:23:56:08" Forced="False">
+      <Graphic Width="381" Height="28" X="169" Y="410">subtitle_0302.png</Graphic>
+    </Event>
+    <Event InTC="00:23:56:08" OutTC="00:23:59:12" Forced="False">
+      <Graphic Width="298" Height="60" X="211" Y="378">subtitle_0303.png</Graphic>
+    </Event>
+    <Event InTC="00:24:01:00" OutTC="00:24:02:23" Forced="False">
+      <Graphic Width="324" Height="28" X="196" Y="410">subtitle_0304.png</Graphic>
+    </Event>
+    <Event InTC="00:24:08:10" OutTC="00:24:09:22" Forced="False">
+      <Graphic Width="182" Height="28" X="268" Y="410">subtitle_0305.png</Graphic>
+    </Event>
+    <Event InTC="00:24:09:22" OutTC="00:24:11:10" Forced="False">
+      <Graphic Width="161" Height="23" X="279" Y="410">subtitle_0306.png</Graphic>
+    </Event>
+    <Event InTC="00:24:11:10" OutTC="00:24:13:23" Forced="False">
+      <Graphic Width="279" Height="60" X="220" Y="378">subtitle_0307.png</Graphic>
+    </Event>
+    <Event InTC="00:24:14:01" OutTC="00:24:15:22" Forced="False">
+      <Graphic Width="338" Height="28" X="191" Y="410">subtitle_0308.png</Graphic>
+    </Event>
+    <Event InTC="00:24:17:08" OutTC="00:24:19:23" Forced="False">
+      <Graphic Width="300" Height="60" X="208" Y="378">subtitle_0309.png</Graphic>
+    </Event>
+    <Event InTC="00:24:20:11" OutTC="00:24:22:17" Forced="False">
+      <Graphic Width="379" Height="28" X="171" Y="410">subtitle_0310.png</Graphic>
+    </Event>
+    <Event InTC="00:24:22:17" OutTC="00:24:24:21" Forced="False">
+      <Graphic Width="306" Height="28" X="206" Y="410">subtitle_0311.png</Graphic>
+    </Event>
+    <Event InTC="00:24:25:00" OutTC="00:24:27:07" Forced="False">
+      <Graphic Width="226" Height="23" X="246" Y="410">subtitle_0312.png</Graphic>
+    </Event>
+    <Event InTC="00:24:27:07" OutTC="00:24:30:04" Forced="False">
+      <Graphic Width="450" Height="28" X="134" Y="410">subtitle_0313.png</Graphic>
+    </Event>
+    <Event InTC="00:24:50:21" OutTC="00:24:53:11" Forced="False">
+      <Graphic Width="372" Height="26" X="173" Y="410">subtitle_0314.png</Graphic>
+    </Event>
+    <Event InTC="00:25:00:10" OutTC="00:25:02:15" Forced="False">
+      <Graphic Width="393" Height="28" X="162" Y="410">subtitle_0315.png</Graphic>
+    </Event>
+    <Event InTC="00:25:02:18" OutTC="00:25:03:21" Forced="False">
+      <Graphic Width="64" Height="28" X="327" Y="410">subtitle_0316.png</Graphic>
+    </Event>
+    <Event InTC="00:25:05:17" OutTC="00:25:06:17" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0317.png</Graphic>
+    </Event>
+    <Event InTC="00:25:08:22" OutTC="00:25:10:13" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0318.png</Graphic>
+    </Event>
+    <Event InTC="00:25:10:13" OutTC="00:25:12:03" Forced="False">
+      <Graphic Width="231" Height="26" X="244" Y="410">subtitle_0319.png</Graphic>
+    </Event>
+    <Event InTC="00:25:15:01" OutTC="00:25:16:11" Forced="False">
+      <Graphic Width="230" Height="28" X="244" Y="410">subtitle_0320.png</Graphic>
+    </Event>
+    <Event InTC="00:25:16:11" OutTC="00:25:17:19" Forced="False">
+      <Graphic Width="114" Height="23" X="303" Y="410">subtitle_0321.png</Graphic>
+    </Event>
+    <Event InTC="00:25:18:10" OutTC="00:25:19:21" Forced="False">
+      <Graphic Width="90" Height="28" X="313" Y="410">subtitle_0322.png</Graphic>
+    </Event>
+    <Event InTC="00:26:02:12" OutTC="00:26:03:16" Forced="False">
+      <Graphic Width="59" Height="23" X="329" Y="410">subtitle_0323.png</Graphic>
+    </Event>
+    <Event InTC="00:26:05:11" OutTC="00:26:06:22" Forced="False">
+      <Graphic Width="115" Height="28" X="301" Y="410">subtitle_0324.png</Graphic>
+    </Event>
+    <Event InTC="00:26:08:13" OutTC="00:26:10:01" Forced="False">
+      <Graphic Width="88" Height="28" X="315" Y="410">subtitle_0325.png</Graphic>
+    </Event>
+    <Event InTC="00:26:25:09" OutTC="00:26:26:15" Forced="False">
+      <Graphic Width="136" Height="28" X="291" Y="410">subtitle_0326.png</Graphic>
+    </Event>
+    <Event InTC="00:26:32:16" OutTC="00:26:34:12" Forced="False">
+      <Graphic Width="151" Height="23" X="283" Y="410">subtitle_0327.png</Graphic>
+    </Event>
+    <Event InTC="00:26:34:12" OutTC="00:26:36:13" Forced="False">
+      <Graphic Width="338" Height="28" X="191" Y="410">subtitle_0328.png</Graphic>
+    </Event>
+    <Event InTC="00:26:45:01" OutTC="00:26:46:11" Forced="False">
+      <Graphic Width="295" Height="28" X="212" Y="410">subtitle_0329.png</Graphic>
+    </Event>
+    <Event InTC="00:26:47:08" OutTC="00:26:49:14" Forced="False">
+      <Graphic Width="366" Height="28" X="176" Y="410">subtitle_0330.png</Graphic>
+    </Event>
+    <Event InTC="00:27:08:01" OutTC="00:27:09:00" Forced="False">
+      <Graphic Width="80" Height="23" X="319" Y="410">subtitle_0331.png</Graphic>
+    </Event>
+    <Event InTC="00:27:09:00" OutTC="00:27:11:06" Forced="False">
+      <Graphic Width="311" Height="28" X="203" Y="410">subtitle_0332.png</Graphic>
+    </Event>
+    <Event InTC="00:27:26:20" OutTC="00:27:28:11" Forced="False">
+      <Graphic Width="209" Height="28" X="255" Y="410">subtitle_0333.png</Graphic>
+    </Event>
+    <Event InTC="00:27:28:24" OutTC="00:27:30:13" Forced="False">
+      <Graphic Width="245" Height="28" X="236" Y="410">subtitle_0334.png</Graphic>
+    </Event>
+    <Event InTC="00:27:35:17" OutTC="00:27:37:01" Forced="False">
+      <Graphic Width="144" Height="23" X="287" Y="410">subtitle_0335.png</Graphic>
+    </Event>
+    <Event InTC="00:27:41:10" OutTC="00:27:43:16" Forced="False">
+      <Graphic Width="300" Height="28" X="209" Y="410">subtitle_0336.png</Graphic>
+    </Event>
+    <Event InTC="00:27:45:23" OutTC="00:27:47:07" Forced="False">
+      <Graphic Width="114" Height="23" X="302" Y="410">subtitle_0337.png</Graphic>
+    </Event>
+    <Event InTC="00:27:47:17" OutTC="00:27:49:16" Forced="False">
+      <Graphic Width="355" Height="28" X="182" Y="410">subtitle_0338.png</Graphic>
+    </Event>
+    <Event InTC="00:27:50:21" OutTC="00:27:52:11" Forced="False">
+      <Graphic Width="258" Height="23" X="230" Y="410">subtitle_0339.png</Graphic>
+    </Event>
+    <Event InTC="00:27:53:15" OutTC="00:27:56:09" Forced="False">
+      <Graphic Width="426" Height="26" X="147" Y="410">subtitle_0340.png</Graphic>
+    </Event>
+    <Event InTC="00:27:56:20" OutTC="00:28:00:06" Forced="False">
+      <Graphic Width="459" Height="28" X="129" Y="410">subtitle_0341.png</Graphic>
+    </Event>
+    <Event InTC="00:28:00:06" OutTC="00:28:04:24" Forced="False">
+      <Graphic Width="447" Height="60" X="136" Y="378">subtitle_0342.png</Graphic>
+    </Event>
+    <Event InTC="00:28:04:24" OutTC="00:28:06:11" Forced="False">
+      <Graphic Width="160" Height="28" X="280" Y="410">subtitle_0343.png</Graphic>
+    </Event>
+    <Event InTC="00:28:06:11" OutTC="00:28:09:07" Forced="False">
+      <Graphic Width="377" Height="28" X="170" Y="410">subtitle_0344.png</Graphic>
+    </Event>
+    <Event InTC="00:28:09:16" OutTC="00:28:12:16" Forced="False">
+      <Graphic Width="311" Height="60" X="203" Y="378">subtitle_0345.png</Graphic>
+    </Event>
+    <Event InTC="00:28:12:16" OutTC="00:28:15:22" Forced="False">
+      <Graphic Width="378" Height="28" X="171" Y="410">subtitle_0346.png</Graphic>
+    </Event>
+    <Event InTC="00:28:15:22" OutTC="00:28:17:12" Forced="False">
+      <Graphic Width="271" Height="28" X="223" Y="410">subtitle_0347.png</Graphic>
+    </Event>
+    <Event InTC="00:28:31:19" OutTC="00:28:33:20" Forced="False">
+      <Graphic Width="385" Height="28" X="166" Y="410">subtitle_0348.png</Graphic>
+    </Event>
+    <Event InTC="00:28:34:04" OutTC="00:28:35:13" Forced="False">
+      <Graphic Width="290" Height="28" X="214" Y="410">subtitle_0349.png</Graphic>
+    </Event>
+    <Event InTC="00:28:36:01" OutTC="00:28:37:20" Forced="False">
+      <Graphic Width="329" Height="28" X="195" Y="410">subtitle_0350.png</Graphic>
+    </Event>
+    <Event InTC="00:28:37:20" OutTC="00:28:39:10" Forced="False">
+      <Graphic Width="269" Height="28" X="225" Y="410">subtitle_0351.png</Graphic>
+    </Event>
+    <Event InTC="00:28:39:10" OutTC="00:28:42:14" Forced="False">
+      <Graphic Width="418" Height="28" X="149" Y="410">subtitle_0352.png</Graphic>
+    </Event>
+    <Event InTC="00:28:42:14" OutTC="00:28:44:03" Forced="False">
+      <Graphic Width="174" Height="28" X="272" Y="410">subtitle_0353.png</Graphic>
+    </Event>
+    <Event InTC="00:28:44:03" OutTC="00:28:47:03" Forced="False">
+      <Graphic Width="405" Height="28" X="156" Y="410">subtitle_0354.png</Graphic>
+    </Event>
+    <Event InTC="00:28:47:03" OutTC="00:28:50:04" Forced="False">
+      <Graphic Width="456" Height="28" X="130" Y="410">subtitle_0355.png</Graphic>
+    </Event>
+    <Event InTC="00:28:50:04" OutTC="00:28:53:09" Forced="False">
+      <Graphic Width="489" Height="28" X="114" Y="410">subtitle_0356.png</Graphic>
+    </Event>
+    <Event InTC="00:28:53:12" OutTC="00:28:55:12" Forced="False">
+      <Graphic Width="330" Height="28" X="195" Y="410">subtitle_0357.png</Graphic>
+    </Event>
+    <Event InTC="00:28:56:02" OutTC="00:28:58:23" Forced="False">
+      <Graphic Width="438" Height="60" X="139" Y="378">subtitle_0358.png</Graphic>
+    </Event>
+    <Event InTC="00:28:59:10" OutTC="00:29:01:09" Forced="False">
+      <Graphic Width="372" Height="28" X="173" Y="410">subtitle_0359.png</Graphic>
+    </Event>
+    <Event InTC="00:29:01:09" OutTC="00:29:03:11" Forced="False">
+      <Graphic Width="338" Height="28" X="190" Y="410">subtitle_0360.png</Graphic>
+    </Event>
+    <Event InTC="00:29:10:06" OutTC="00:29:11:09" Forced="False">
+      <Graphic Width="132" Height="23" X="293" Y="410">subtitle_0361.png</Graphic>
+    </Event>
+    <Event InTC="00:29:14:20" OutTC="00:29:16:11" Forced="False">
+      <Graphic Width="265" Height="28" X="227" Y="410">subtitle_0362.png</Graphic>
+    </Event>
+    <Event InTC="00:29:16:11" OutTC="00:29:18:15" Forced="False">
+      <Graphic Width="392" Height="28" X="162" Y="410">subtitle_0363.png</Graphic>
+    </Event>
+    <Event InTC="00:29:23:10" OutTC="00:29:24:07" Forced="False">
+      <Graphic Width="50" Height="28" X="335" Y="410">subtitle_0364.png</Graphic>
+    </Event>
+    <Event InTC="00:29:24:07" OutTC="00:29:25:24" Forced="False">
+      <Graphic Width="473" Height="28" X="123" Y="410">subtitle_0365.png</Graphic>
+    </Event>
+    <Event InTC="00:29:25:24" OutTC="00:29:27:12" Forced="False">
+      <Graphic Width="126" Height="23" X="296" Y="410">subtitle_0366.png</Graphic>
+    </Event>
+    <Event InTC="00:29:39:14" OutTC="00:29:43:08" Forced="False">
+      <Graphic Width="445" Height="28" X="137" Y="410">subtitle_0367.png</Graphic>
+    </Event>
+    <Event InTC="00:29:43:08" OutTC="00:29:44:20" Forced="False">
+      <Graphic Width="227" Height="28" X="245" Y="410">subtitle_0368.png</Graphic>
+    </Event>
+    <Event InTC="00:29:44:20" OutTC="00:29:46:11" Forced="False">
+      <Graphic Width="228" Height="28" X="245" Y="410">subtitle_0369.png</Graphic>
+    </Event>
+    <Event InTC="00:29:46:11" OutTC="00:29:48:05" Forced="False">
+      <Graphic Width="296" Height="28" X="210" Y="410">subtitle_0370.png</Graphic>
+    </Event>
+    <Event InTC="00:29:53:21" OutTC="00:29:55:11" Forced="False">
+      <Graphic Width="174" Height="28" X="272" Y="410">subtitle_0371.png</Graphic>
+    </Event>
+    <Event InTC="00:29:55:11" OutTC="00:29:57:23" Forced="False">
+      <Graphic Width="245" Height="28" X="237" Y="410">subtitle_0372.png</Graphic>
+    </Event>
+    <Event InTC="00:30:14:15" OutTC="00:30:15:23" Forced="False">
+      <Graphic Width="187" Height="28" X="266" Y="410">subtitle_0373.png</Graphic>
+    </Event>
+    <Event InTC="00:30:16:20" OutTC="00:30:18:17" Forced="False">
+      <Graphic Width="267" Height="28" X="226" Y="410">subtitle_0374.png</Graphic>
+    </Event>
+    <Event InTC="00:30:25:07" OutTC="00:30:26:15" Forced="False">
+      <Graphic Width="259" Height="23" X="230" Y="410">subtitle_0375.png</Graphic>
+    </Event>
+    <Event InTC="00:30:26:15" OutTC="00:30:28:10" Forced="False">
+      <Graphic Width="235" Height="28" X="242" Y="410">subtitle_0376.png</Graphic>
+    </Event>
+    <Event InTC="00:30:28:10" OutTC="00:30:29:22" Forced="False">
+      <Graphic Width="168" Height="28" X="275" Y="410">subtitle_0377.png</Graphic>
+    </Event>
+    <Event InTC="00:30:30:21" OutTC="00:30:31:21" Forced="False">
+      <Graphic Width="50" Height="23" X="334" Y="410">subtitle_0378.png</Graphic>
+    </Event>
+    <Event InTC="00:30:31:21" OutTC="00:30:33:21" Forced="False">
+      <Graphic Width="327" Height="28" X="196" Y="410">subtitle_0379.png</Graphic>
+    </Event>
+    <Event InTC="00:30:49:14" OutTC="00:30:51:13" Forced="False">
+      <Graphic Width="317" Height="23" X="200" Y="410">subtitle_0380.png</Graphic>
+    </Event>
+    <Event InTC="00:30:51:13" OutTC="00:30:53:12" Forced="False">
+      <Graphic Width="398" Height="28" X="160" Y="410">subtitle_0381.png</Graphic>
+    </Event>
+    <Event InTC="00:30:53:12" OutTC="00:30:55:09" Forced="False">
+      <Graphic Width="252" Height="28" X="233" Y="410">subtitle_0382.png</Graphic>
+    </Event>
+    <Event InTC="00:30:56:21" OutTC="00:30:58:07" Forced="False">
+      <Graphic Width="125" Height="28" X="297" Y="410">subtitle_0383.png</Graphic>
+    </Event>
+    <Event InTC="00:30:58:07" OutTC="00:31:00:16" Forced="False">
+      <Graphic Width="380" Height="28" X="169" Y="410">subtitle_0384.png</Graphic>
+    </Event>
+    <Event InTC="00:31:00:21" OutTC="00:31:03:06" Forced="False">
+      <Graphic Width="290" Height="28" X="215" Y="410">subtitle_0385.png</Graphic>
+    </Event>
+    <Event InTC="00:31:31:22" OutTC="00:31:33:05" Forced="False">
+      <Graphic Width="154" Height="28" X="282" Y="410">subtitle_0386.png</Graphic>
+    </Event>
+    <Event InTC="00:31:34:09" OutTC="00:31:36:09" Forced="False">
+      <Graphic Width="353" Height="28" X="182" Y="410">subtitle_0387.png</Graphic>
+    </Event>
+    <Event InTC="00:31:36:09" OutTC="00:31:38:23" Forced="False">
+      <Graphic Width="341" Height="60" X="188" Y="378">subtitle_0388.png</Graphic>
+    </Event>
+    <Event InTC="00:31:46:18" OutTC="00:31:47:19" Forced="False">
+      <Graphic Width="91" Height="23" X="314" Y="410">subtitle_0389.png</Graphic>
+    </Event>
+    <Event InTC="00:31:48:02" OutTC="00:31:49:18" Forced="False">
+      <Graphic Width="285" Height="28" X="217" Y="410">subtitle_0390.png</Graphic>
+    </Event>
+    <Event InTC="00:32:03:02" OutTC="00:32:04:14" Forced="False">
+      <Graphic Width="221" Height="28" X="249" Y="410">subtitle_0391.png</Graphic>
+    </Event>
+    <Event InTC="00:32:05:23" OutTC="00:32:10:16" Forced="False">
+      <Graphic Width="323" Height="60" X="198" Y="378">subtitle_0392.png</Graphic>
+    </Event>
+    <Event InTC="00:32:11:10" OutTC="00:32:16:01" Forced="False">
+      <Graphic Width="321" Height="26" X="199" Y="410">subtitle_0393.png</Graphic>
+    </Event>
+    <Event InTC="00:32:16:13" OutTC="00:32:18:08" Forced="False">
+      <Graphic Width="279" Height="28" X="220" Y="410">subtitle_0394.png</Graphic>
+    </Event>
+    <Event InTC="00:32:20:08" OutTC="00:32:22:07" Forced="False">
+      <Graphic Width="186" Height="23" X="266" Y="410">subtitle_0395.png</Graphic>
+    </Event>
+    <Event InTC="00:32:22:07" OutTC="00:32:25:03" Forced="False">
+      <Graphic Width="381" Height="60" X="170" Y="378">subtitle_0396.png</Graphic>
+    </Event>
+    <Event InTC="00:32:25:14" OutTC="00:32:27:01" Forced="False">
+      <Graphic Width="105" Height="26" X="307" Y="410">subtitle_0397.png</Graphic>
+    </Event>
+    <Event InTC="00:32:27:01" OutTC="00:32:30:19" Forced="False">
+      <Graphic Width="358" Height="55" X="180" Y="378">subtitle_0398.png</Graphic>
+    </Event>
+    <Event InTC="00:32:30:19" OutTC="00:32:32:22" Forced="False">
+      <Graphic Width="229" Height="23" X="245" Y="410">subtitle_0399.png</Graphic>
+    </Event>
+    <Event InTC="00:32:33:23" OutTC="00:32:36:02" Forced="False">
+      <Graphic Width="273" Height="28" X="222" Y="410">subtitle_0400.png</Graphic>
+    </Event>
+    <Event InTC="00:32:36:02" OutTC="00:32:38:21" Forced="False">
+      <Graphic Width="501" Height="23" X="109" Y="410">subtitle_0401.png</Graphic>
+    </Event>
+    <Event InTC="00:32:38:21" OutTC="00:32:41:15" Forced="False">
+      <Graphic Width="379" Height="28" X="170" Y="410">subtitle_0402.png</Graphic>
+    </Event>
+    <Event InTC="00:32:41:15" OutTC="00:32:43:02" Forced="False">
+      <Graphic Width="281" Height="28" X="219" Y="410">subtitle_0403.png</Graphic>
+    </Event>
+    <Event InTC="00:32:43:02" OutTC="00:32:45:12" Forced="False">
+      <Graphic Width="484" Height="28" X="117" Y="410">subtitle_0404.png</Graphic>
+    </Event>
+    <Event InTC="00:32:45:12" OutTC="00:32:47:07" Forced="False">
+      <Graphic Width="213" Height="28" X="253" Y="410">subtitle_0405.png</Graphic>
+    </Event>
+    <Event InTC="00:32:47:07" OutTC="00:32:48:07" Forced="False">
+      <Graphic Width="198" Height="28" X="260" Y="410">subtitle_0406.png</Graphic>
+    </Event>
+    <Event InTC="00:32:48:07" OutTC="00:32:49:14" Forced="False">
+      <Graphic Width="190" Height="23" X="265" Y="410">subtitle_0407.png</Graphic>
+    </Event>
+    <Event InTC="00:32:49:14" OutTC="00:32:52:21" Forced="False">
+      <Graphic Width="362" Height="58" X="178" Y="378">subtitle_0408.png</Graphic>
+    </Event>
+    <Event InTC="00:32:52:21" OutTC="00:32:55:20" Forced="False">
+      <Graphic Width="266" Height="28" X="226" Y="410">subtitle_0409.png</Graphic>
+    </Event>
+    <Event InTC="00:32:55:20" OutTC="00:32:59:02" Forced="False">
+      <Graphic Width="534" Height="23" X="92" Y="410">subtitle_0410.png</Graphic>
+    </Event>
+    <Event InTC="00:32:59:02" OutTC="00:33:01:13" Forced="False">
+      <Graphic Width="465" Height="28" X="126" Y="410">subtitle_0411.png</Graphic>
+    </Event>
+    <Event InTC="00:33:01:13" OutTC="00:33:03:20" Forced="False">
+      <Graphic Width="242" Height="28" X="238" Y="410">subtitle_0412.png</Graphic>
+    </Event>
+    <Event InTC="00:33:03:20" OutTC="00:33:05:06" Forced="False">
+      <Graphic Width="126" Height="23" X="296" Y="410">subtitle_0413.png</Graphic>
+    </Event>
+    <Event InTC="00:33:05:06" OutTC="00:33:06:12" Forced="False">
+      <Graphic Width="156" Height="28" X="281" Y="410">subtitle_0414.png</Graphic>
+    </Event>
+    <Event InTC="00:33:45:11" OutTC="00:33:47:00" Forced="False">
+      <Graphic Width="293" Height="28" X="213" Y="410">subtitle_0415.png</Graphic>
+    </Event>
+    <Event InTC="00:33:58:18" OutTC="00:34:00:00" Forced="False">
+      <Graphic Width="137" Height="28" X="290" Y="410">subtitle_0416.png</Graphic>
+    </Event>
+    <Event InTC="00:34:05:17" OutTC="00:34:07:06" Forced="False">
+      <Graphic Width="163" Height="23" X="278" Y="410">subtitle_0417.png</Graphic>
+    </Event>
+    <Event InTC="00:34:07:06" OutTC="00:34:08:24" Forced="False">
+      <Graphic Width="261" Height="28" X="229" Y="410">subtitle_0418.png</Graphic>
+    </Event>
+    <Event InTC="00:34:10:17" OutTC="00:34:12:00" Forced="False">
+      <Graphic Width="311" Height="28" X="204" Y="410">subtitle_0419.png</Graphic>
+    </Event>
+    <Event InTC="00:34:12:16" OutTC="00:34:13:17" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0420.png</Graphic>
+    </Event>
+    <Event InTC="00:34:30:23" OutTC="00:34:32:06" Forced="False">
+      <Graphic Width="182" Height="28" X="269" Y="410">subtitle_0421.png</Graphic>
+    </Event>
+    <Event InTC="00:34:32:13" OutTC="00:34:33:17" Forced="False">
+      <Graphic Width="113" Height="28" X="303" Y="410">subtitle_0422.png</Graphic>
+    </Event>
+    <Event InTC="00:34:33:17" OutTC="00:34:36:04" Forced="False">
+      <Graphic Width="371" Height="28" X="173" Y="410">subtitle_0423.png</Graphic>
+    </Event>
+    <Event InTC="00:35:03:23" OutTC="00:35:06:14" Forced="False">
+      <Graphic Width="302" Height="23" X="209" Y="410">subtitle_0424.png</Graphic>
+    </Event>
+    <Event InTC="00:35:12:18" OutTC="00:35:14:04" Forced="False">
+      <Graphic Width="156" Height="23" X="280" Y="410">subtitle_0425.png</Graphic>
+    </Event>
+    <Event InTC="00:35:42:22" OutTC="00:35:44:21" Forced="False">
+      <Graphic Width="321" Height="28" X="198" Y="410">subtitle_0426.png</Graphic>
+    </Event>
+    <Event InTC="00:35:50:07" OutTC="00:35:52:02" Forced="False">
+      <Graphic Width="209" Height="23" X="255" Y="410">subtitle_0427.png</Graphic>
+    </Event>
+    <Event InTC="00:35:52:02" OutTC="00:35:53:14" Forced="False">
+      <Graphic Width="159" Height="26" X="280" Y="410">subtitle_0428.png</Graphic>
+    </Event>
+    <Event InTC="00:35:53:14" OutTC="00:35:55:08" Forced="False">
+      <Graphic Width="201" Height="28" X="258" Y="410">subtitle_0429.png</Graphic>
+    </Event>
+    <Event InTC="00:35:56:13" OutTC="00:35:58:11" Forced="False">
+      <Graphic Width="384" Height="28" X="166" Y="410">subtitle_0430.png</Graphic>
+    </Event>
+    <Event InTC="00:35:58:11" OutTC="00:36:00:19" Forced="False">
+      <Graphic Width="287" Height="28" X="216" Y="410">subtitle_0431.png</Graphic>
+    </Event>
+    <Event InTC="00:36:00:19" OutTC="00:36:03:00" Forced="False">
+      <Graphic Width="291" Height="28" X="213" Y="410">subtitle_0432.png</Graphic>
+    </Event>
+    <Event InTC="00:36:05:02" OutTC="00:36:06:08" Forced="False">
+      <Graphic Width="195" Height="28" X="261" Y="410">subtitle_0433.png</Graphic>
+    </Event>
+    <Event InTC="00:36:06:08" OutTC="00:36:08:02" Forced="False">
+      <Graphic Width="474" Height="26" X="122" Y="410">subtitle_0434.png</Graphic>
+    </Event>
+    <Event InTC="00:36:08:02" OutTC="00:36:09:08" Forced="False">
+      <Graphic Width="122" Height="28" X="298" Y="410">subtitle_0435.png</Graphic>
+    </Event>
+    <Event InTC="00:36:09:23" OutTC="00:36:12:14" Forced="False">
+      <Graphic Width="165" Height="28" X="276" Y="410">subtitle_0436.png</Graphic>
+    </Event>
+    <Event InTC="00:36:13:17" OutTC="00:36:16:17" Forced="False">
+      <Graphic Width="344" Height="28" X="187" Y="410">subtitle_0437.png</Graphic>
+    </Event>
+    <Event InTC="00:36:16:17" OutTC="00:36:17:17" Forced="False">
+      <Graphic Width="63" Height="23" X="328" Y="410">subtitle_0438.png</Graphic>
+    </Event>
+    <Event InTC="00:36:18:13" OutTC="00:36:21:12" Forced="False">
+      <Graphic Width="254" Height="23" X="233" Y="410">subtitle_0439.png</Graphic>
+    </Event>
+    <Event InTC="00:36:21:12" OutTC="00:36:22:16" Forced="False">
+      <Graphic Width="134" Height="26" X="292" Y="410">subtitle_0440.png</Graphic>
+    </Event>
+    <Event InTC="00:36:23:12" OutTC="00:36:25:10" Forced="False">
+      <Graphic Width="316" Height="23" X="201" Y="410">subtitle_0441.png</Graphic>
+    </Event>
+    <Event InTC="00:36:26:01" OutTC="00:36:26:21" Forced="False">
+      <Graphic Width="60" Height="23" X="329" Y="410">subtitle_0442.png</Graphic>
+    </Event>
+    <Event InTC="00:36:26:21" OutTC="00:36:28:05" Forced="False">
+      <Graphic Width="163" Height="23" X="278" Y="410">subtitle_0443.png</Graphic>
+    </Event>
+    <Event InTC="00:36:29:19" OutTC="00:36:31:08" Forced="False">
+      <Graphic Width="193" Height="23" X="262" Y="410">subtitle_0444.png</Graphic>
+    </Event>
+    <Event InTC="00:37:16:00" OutTC="00:37:17:04" Forced="False">
+      <Graphic Width="238" Height="28" X="240" Y="410">subtitle_0445.png</Graphic>
+    </Event>
+    <Event InTC="00:37:17:14" OutTC="00:37:21:14" Forced="False">
+      <Graphic Width="413" Height="60" X="153" Y="378">subtitle_0446.png</Graphic>
+    </Event>
+    <Event InTC="00:37:32:20" OutTC="00:37:34:09" Forced="False">
+      <Graphic Width="219" Height="26" X="250" Y="410">subtitle_0447.png</Graphic>
+    </Event>
+    <Event InTC="00:37:40:12" OutTC="00:37:41:15" Forced="False">
+      <Graphic Width="200" Height="28" X="260" Y="410">subtitle_0448.png</Graphic>
+    </Event>
+    <Event InTC="00:37:43:08" OutTC="00:37:46:02" Forced="False">
+      <Graphic Width="401" Height="28" X="160" Y="410">subtitle_0449.png</Graphic>
+    </Event>
+    <Event InTC="00:37:46:02" OutTC="00:37:47:12" Forced="False">
+      <Graphic Width="216" Height="28" X="251" Y="410">subtitle_0450.png</Graphic>
+    </Event>
+    <Event InTC="00:37:51:12" OutTC="00:37:54:11" Forced="False">
+      <Graphic Width="311" Height="28" X="205" Y="410">subtitle_0451.png</Graphic>
+    </Event>
+    <Event InTC="00:37:59:18" OutTC="00:38:00:18" Forced="False">
+      <Graphic Width="146" Height="28" X="286" Y="410">subtitle_0452.png</Graphic>
+    </Event>
+    <Event InTC="00:38:02:22" OutTC="00:38:04:00" Forced="False">
+      <Graphic Width="100" Height="23" X="309" Y="410">subtitle_0453.png</Graphic>
+    </Event>
+    <Event InTC="00:38:11:15" OutTC="00:38:13:01" Forced="False">
+      <Graphic Width="126" Height="23" X="296" Y="410">subtitle_0454.png</Graphic>
+    </Event>
+    <Event InTC="00:38:15:17" OutTC="00:38:19:03" Forced="False">
+      <Graphic Width="405" Height="23" X="156" Y="410">subtitle_0455.png</Graphic>
+    </Event>
+    <Event InTC="00:38:19:07" OutTC="00:38:20:16" Forced="False">
+      <Graphic Width="210" Height="28" X="254" Y="410">subtitle_0456.png</Graphic>
+    </Event>
+    <Event InTC="00:38:35:10" OutTC="00:38:36:16" Forced="False">
+      <Graphic Width="62" Height="23" X="327" Y="410">subtitle_0457.png</Graphic>
+    </Event>
+    <Event InTC="00:38:37:06" OutTC="00:38:38:22" Forced="False">
+      <Graphic Width="136" Height="28" X="291" Y="410">subtitle_0458.png</Graphic>
+    </Event>
+    <Event InTC="00:38:38:22" OutTC="00:38:40:20" Forced="False">
+      <Graphic Width="214" Height="28" X="251" Y="410">subtitle_0459.png</Graphic>
+    </Event>
+    <Event InTC="00:38:42:15" OutTC="00:38:44:10" Forced="False">
+      <Graphic Width="329" Height="28" X="195" Y="410">subtitle_0460.png</Graphic>
+    </Event>
+    <Event InTC="00:38:44:10" OutTC="00:38:46:17" Forced="False">
+      <Graphic Width="328" Height="28" X="195" Y="410">subtitle_0461.png</Graphic>
+    </Event>
+    <Event InTC="00:38:46:17" OutTC="00:38:48:15" Forced="False">
+      <Graphic Width="271" Height="23" X="223" Y="410">subtitle_0462.png</Graphic>
+    </Event>
+    <Event InTC="00:38:48:15" OutTC="00:38:51:01" Forced="False">
+      <Graphic Width="304" Height="28" X="207" Y="410">subtitle_0463.png</Graphic>
+    </Event>
+    <Event InTC="00:38:55:04" OutTC="00:38:57:16" Forced="False">
+      <Graphic Width="464" Height="28" X="127" Y="410">subtitle_0464.png</Graphic>
+    </Event>
+    <Event InTC="00:38:57:16" OutTC="00:38:59:10" Forced="False">
+      <Graphic Width="256" Height="28" X="231" Y="410">subtitle_0465.png</Graphic>
+    </Event>
+    <Event InTC="00:38:59:10" OutTC="00:39:02:18" Forced="False">
+      <Graphic Width="396" Height="28" X="160" Y="410">subtitle_0466.png</Graphic>
+    </Event>
+    <Event InTC="00:39:03:16" OutTC="00:39:05:14" Forced="False">
+      <Graphic Width="306" Height="28" X="207" Y="410">subtitle_0467.png</Graphic>
+    </Event>
+    <Event InTC="00:39:05:14" OutTC="00:39:07:03" Forced="False">
+      <Graphic Width="146" Height="28" X="286" Y="410">subtitle_0468.png</Graphic>
+    </Event>
+    <Event InTC="00:39:09:04" OutTC="00:39:11:00" Forced="False">
+      <Graphic Width="371" Height="28" X="175" Y="410">subtitle_0469.png</Graphic>
+    </Event>
+    <Event InTC="00:39:13:17" OutTC="00:39:16:01" Forced="False">
+      <Graphic Width="286" Height="28" X="216" Y="410">subtitle_0470.png</Graphic>
+    </Event>
+    <Event InTC="00:39:16:17" OutTC="00:39:19:07" Forced="False">
+      <Graphic Width="292" Height="28" X="213" Y="410">subtitle_0471.png</Graphic>
+    </Event>
+    <Event InTC="00:39:19:07" OutTC="00:39:23:02" Forced="False">
+      <Graphic Width="305" Height="55" X="206" Y="378">subtitle_0472.png</Graphic>
+    </Event>
+    <Event InTC="00:39:24:24" OutTC="00:39:27:07" Forced="False">
+      <Graphic Width="343" Height="23" X="187" Y="410">subtitle_0473.png</Graphic>
+    </Event>
+    <Event InTC="00:39:27:07" OutTC="00:39:28:19" Forced="False">
+      <Graphic Width="201" Height="28" X="257" Y="410">subtitle_0474.png</Graphic>
+    </Event>
+    <Event InTC="00:39:28:19" OutTC="00:39:31:05" Forced="False">
+      <Graphic Width="327" Height="23" X="196" Y="410">subtitle_0475.png</Graphic>
+    </Event>
+    <Event InTC="00:39:32:00" OutTC="00:39:34:09" Forced="False">
+      <Graphic Width="239" Height="28" X="240" Y="410">subtitle_0476.png</Graphic>
+    </Event>
+    <Event InTC="00:39:34:09" OutTC="00:39:35:20" Forced="False">
+      <Graphic Width="179" Height="28" X="269" Y="410">subtitle_0477.png</Graphic>
+    </Event>
+    <Event InTC="00:39:35:20" OutTC="00:39:37:07" Forced="False">
+      <Graphic Width="202" Height="28" X="259" Y="410">subtitle_0478.png</Graphic>
+    </Event>
+    <Event InTC="00:39:39:04" OutTC="00:39:40:24" Forced="False">
+      <Graphic Width="287" Height="28" X="215" Y="410">subtitle_0479.png</Graphic>
+    </Event>
+    <Event InTC="00:39:42:02" OutTC="00:39:43:12" Forced="False">
+      <Graphic Width="162" Height="28" X="278" Y="410">subtitle_0480.png</Graphic>
+    </Event>
+    <Event InTC="00:39:44:03" OutTC="00:39:45:23" Forced="False">
+      <Graphic Width="338" Height="28" X="190" Y="410">subtitle_0481.png</Graphic>
+    </Event>
+    <Event InTC="00:39:46:15" OutTC="00:39:48:14" Forced="False">
+      <Graphic Width="380" Height="28" X="169" Y="410">subtitle_0482.png</Graphic>
+    </Event>
+    <Event InTC="00:39:49:09" OutTC="00:39:51:04" Forced="False">
+      <Graphic Width="195" Height="28" X="262" Y="410">subtitle_0483.png</Graphic>
+    </Event>
+    <Event InTC="00:39:51:04" OutTC="00:39:53:19" Forced="False">
+      <Graphic Width="301" Height="23" X="208" Y="410">subtitle_0484.png</Graphic>
+    </Event>
+    <Event InTC="00:39:57:07" OutTC="00:39:58:17" Forced="False">
+      <Graphic Width="162" Height="28" X="278" Y="410">subtitle_0485.png</Graphic>
+    </Event>
+    <Event InTC="00:40:22:06" OutTC="00:40:24:11" Forced="False">
+      <Graphic Width="459" Height="28" X="129" Y="410">subtitle_0486.png</Graphic>
+    </Event>
+    <Event InTC="00:40:24:11" OutTC="00:40:28:00" Forced="False">
+      <Graphic Width="334" Height="60" X="191" Y="378">subtitle_0487.png</Graphic>
+    </Event>
+    <Event InTC="00:40:29:07" OutTC="00:40:30:24" Forced="False">
+      <Graphic Width="222" Height="28" X="248" Y="410">subtitle_0488.png</Graphic>
+    </Event>
+    <Event InTC="00:40:32:12" OutTC="00:40:34:05" Forced="False">
+      <Graphic Width="216" Height="23" X="251" Y="410">subtitle_0489.png</Graphic>
+    </Event>
+    <Event InTC="00:40:34:05" OutTC="00:40:36:17" Forced="False">
+      <Graphic Width="417" Height="28" X="150" Y="410">subtitle_0490.png</Graphic>
+    </Event>
+    <Event InTC="00:40:37:18" OutTC="00:40:40:07" Forced="False">
+      <Graphic Width="292" Height="26" X="214" Y="410">subtitle_0491.png</Graphic>
+    </Event>
+    <Event InTC="00:40:41:01" OutTC="00:40:43:21" Forced="False">
+      <Graphic Width="381" Height="28" X="168" Y="410">subtitle_0492.png</Graphic>
+    </Event>
+    <Event InTC="00:40:46:04" OutTC="00:40:47:14" Forced="False">
+      <Graphic Width="72" Height="23" X="323" Y="410">subtitle_0493.png</Graphic>
+    </Event>
+    <Event InTC="00:40:47:19" OutTC="00:40:49:07" Forced="False">
+      <Graphic Width="159" Height="23" X="280" Y="410">subtitle_0494.png</Graphic>
+    </Event>
+    <Event InTC="00:40:52:17" OutTC="00:40:54:18" Forced="False">
+      <Graphic Width="289" Height="28" X="215" Y="410">subtitle_0495.png</Graphic>
+    </Event>
+    <Event InTC="00:40:55:15" OutTC="00:40:57:04" Forced="False">
+      <Graphic Width="139" Height="23" X="290" Y="410">subtitle_0496.png</Graphic>
+    </Event>
+    <Event InTC="00:41:01:11" OutTC="00:41:04:10" Forced="False">
+      <Graphic Width="402" Height="28" X="158" Y="410">subtitle_0497.png</Graphic>
+    </Event>
+    <Event InTC="00:41:10:15" OutTC="00:41:12:07" Forced="False">
+      <Graphic Width="167" Height="23" X="275" Y="410">subtitle_0498.png</Graphic>
+    </Event>
+    <Event InTC="00:41:14:04" OutTC="00:41:15:13" Forced="False">
+      <Graphic Width="328" Height="28" X="197" Y="410">subtitle_0499.png</Graphic>
+    </Event>
+    <Event InTC="00:41:17:13" OutTC="00:41:20:16" Forced="False">
+      <Graphic Width="379" Height="23" X="170" Y="410">subtitle_0500.png</Graphic>
+    </Event>
+    <Event InTC="00:41:22:04" OutTC="00:41:23:09" Forced="False">
+      <Graphic Width="197" Height="28" X="261" Y="410">subtitle_0501.png</Graphic>
+    </Event>
+    <Event InTC="00:41:25:24" OutTC="00:41:28:18" Forced="False">
+      <Graphic Width="294" Height="23" X="212" Y="410">subtitle_0502.png</Graphic>
+    </Event>
+    <Event InTC="00:41:29:12" OutTC="00:41:32:01" Forced="False">
+      <Graphic Width="364" Height="28" X="177" Y="410">subtitle_0503.png</Graphic>
+    </Event>
+    <Event InTC="00:41:32:01" OutTC="00:41:34:10" Forced="False">
+      <Graphic Width="306" Height="28" X="205" Y="410">subtitle_0504.png</Graphic>
+    </Event>
+    <Event InTC="00:41:45:21" OutTC="00:41:47:02" Forced="False">
+      <Graphic Width="180" Height="23" X="268" Y="410">subtitle_0505.png</Graphic>
+    </Event>
+    <Event InTC="00:41:49:16" OutTC="00:41:53:05" Forced="False">
+      <Graphic Width="314" Height="28" X="203" Y="410">subtitle_0506.png</Graphic>
+    </Event>
+    <Event InTC="00:41:57:08" OutTC="00:41:58:16" Forced="False">
+      <Graphic Width="182" Height="23" X="268" Y="410">subtitle_0507.png</Graphic>
+    </Event>
+    <Event InTC="00:42:00:11" OutTC="00:42:02:04" Forced="False">
+      <Graphic Width="300" Height="28" X="209" Y="410">subtitle_0508.png</Graphic>
+    </Event>
+    <Event InTC="00:42:03:15" OutTC="00:42:06:04" Forced="False">
+      <Graphic Width="347" Height="55" X="185" Y="378">subtitle_0509.png</Graphic>
+    </Event>
+    <Event InTC="00:42:06:23" OutTC="00:42:10:00" Forced="False">
+      <Graphic Width="363" Height="58" X="177" Y="378">subtitle_0510.png</Graphic>
+    </Event>
+    <Event InTC="00:42:11:00" OutTC="00:42:12:22" Forced="False">
+      <Graphic Width="324" Height="28" X="197" Y="410">subtitle_0511.png</Graphic>
+    </Event>
+    <Event InTC="00:42:13:11" OutTC="00:42:15:19" Forced="False">
+      <Graphic Width="290" Height="28" X="214" Y="410">subtitle_0512.png</Graphic>
+    </Event>
+    <Event InTC="00:42:16:04" OutTC="00:42:18:22" Forced="False">
+      <Graphic Width="399" Height="26" X="160" Y="410">subtitle_0513.png</Graphic>
+    </Event>
+    <Event InTC="00:42:20:10" OutTC="00:42:21:22" Forced="False">
+      <Graphic Width="155" Height="28" X="282" Y="410">subtitle_0514.png</Graphic>
+    </Event>
+    <Event InTC="00:42:22:11" OutTC="00:42:23:19" Forced="False">
+      <Graphic Width="189" Height="23" X="265" Y="410">subtitle_0515.png</Graphic>
+    </Event>
+    <Event InTC="00:42:23:19" OutTC="00:42:26:03" Forced="False">
+      <Graphic Width="362" Height="28" X="178" Y="410">subtitle_0516.png</Graphic>
+    </Event>
+    <Event InTC="00:42:28:07" OutTC="00:42:31:00" Forced="False">
+      <Graphic Width="428" Height="28" X="146" Y="410">subtitle_0517.png</Graphic>
+    </Event>
+    <Event InTC="00:42:31:00" OutTC="00:42:32:16" Forced="False">
+      <Graphic Width="226" Height="28" X="245" Y="410">subtitle_0518.png</Graphic>
+    </Event>
+    <Event InTC="00:42:33:00" OutTC="00:42:34:10" Forced="False">
+      <Graphic Width="134" Height="23" X="293" Y="410">subtitle_0519.png</Graphic>
+    </Event>
+    <Event InTC="00:42:35:00" OutTC="00:42:37:07" Forced="False">
+      <Graphic Width="239" Height="26" X="240" Y="410">subtitle_0520.png</Graphic>
+    </Event>
+    <Event InTC="00:42:37:17" OutTC="00:42:39:19" Forced="False">
+      <Graphic Width="326" Height="28" X="197" Y="410">subtitle_0521.png</Graphic>
+    </Event>
+    <Event InTC="00:42:40:13" OutTC="00:42:42:17" Forced="False">
+      <Graphic Width="340" Height="28" X="189" Y="410">subtitle_0522.png</Graphic>
+    </Event>
+    <Event InTC="00:42:42:17" OutTC="00:42:45:12" Forced="False">
+      <Graphic Width="345" Height="28" X="186" Y="410">subtitle_0523.png</Graphic>
+    </Event>
+    <Event InTC="00:42:45:12" OutTC="00:42:48:15" Forced="False">
+      <Graphic Width="499" Height="28" X="110" Y="410">subtitle_0524.png</Graphic>
+    </Event>
+    <Event InTC="00:42:49:05" OutTC="00:42:52:02" Forced="False">
+      <Graphic Width="399" Height="28" X="160" Y="410">subtitle_0525.png</Graphic>
+    </Event>
+    <Event InTC="00:42:52:02" OutTC="00:42:53:23" Forced="False">
+      <Graphic Width="349" Height="28" X="184" Y="410">subtitle_0526.png</Graphic>
+    </Event>
+    <Event InTC="00:42:55:08" OutTC="00:42:58:03" Forced="False">
+      <Graphic Width="373" Height="23" X="171" Y="410">subtitle_0527.png</Graphic>
+    </Event>
+    <Event InTC="00:42:58:08" OutTC="00:43:01:04" Forced="False">
+      <Graphic Width="447" Height="28" X="136" Y="410">subtitle_0528.png</Graphic>
+    </Event>
+    <Event InTC="00:43:20:17" OutTC="00:43:21:19" Forced="False">
+      <Graphic Width="38" Height="23" X="340" Y="410">subtitle_0529.png</Graphic>
+    </Event>
+    <Event InTC="00:43:23:02" OutTC="00:43:24:07" Forced="False">
+      <Graphic Width="57" Height="23" X="329" Y="410">subtitle_0530.png</Graphic>
+    </Event>
+    <Event InTC="00:43:29:05" OutTC="00:43:33:00" Forced="False">
+      <Graphic Width="288" Height="58" X="214" Y="378">subtitle_0531.png</Graphic>
+    </Event>
+    <Event InTC="00:43:33:00" OutTC="00:43:35:15" Forced="False">
+      <Graphic Width="473" Height="28" X="122" Y="410">subtitle_0532.png</Graphic>
+    </Event>
+    <Event InTC="00:43:37:10" OutTC="00:43:38:24" Forced="False">
+      <Graphic Width="203" Height="23" X="257" Y="410">subtitle_0533.png</Graphic>
+    </Event>
+    <Event InTC="00:43:38:24" OutTC="00:43:41:05" Forced="False">
+      <Graphic Width="275" Height="28" X="221" Y="410">subtitle_0534.png</Graphic>
+    </Event>
+    <Event InTC="00:43:48:12" OutTC="00:43:49:20" Forced="False">
+      <Graphic Width="112" Height="28" X="303" Y="410">subtitle_0535.png</Graphic>
+    </Event>
+    <Event InTC="00:43:50:12" OutTC="00:43:51:18" Forced="False">
+      <Graphic Width="120" Height="23" X="299" Y="410">subtitle_0536.png</Graphic>
+    </Event>
+    <Event InTC="00:44:05:22" OutTC="00:44:07:24" Forced="False">
+      <Graphic Width="265" Height="28" X="226" Y="410">subtitle_0537.png</Graphic>
+    </Event>
+    <Event InTC="00:44:07:24" OutTC="00:44:10:13" Forced="False">
+      <Graphic Width="291" Height="26" X="213" Y="410">subtitle_0538.png</Graphic>
+    </Event>
+    <Event InTC="00:44:11:17" OutTC="00:44:12:23" Forced="False">
+      <Graphic Width="89" Height="28" X="314" Y="410">subtitle_0539.png</Graphic>
+    </Event>
+    <Event InTC="00:44:14:00" OutTC="00:44:19:00" Forced="False">
+      <Graphic Width="297" Height="60" X="211" Y="378">subtitle_0540.png</Graphic>
+    </Event>
+    <Event InTC="00:44:19:02" OutTC="00:44:19:24" Forced="False">
+      <Graphic Width="129" Height="28" X="295" Y="410">subtitle_0541.png</Graphic>
+    </Event>
+    <Event InTC="00:44:19:24" OutTC="00:44:21:04" Forced="False">
+      <Graphic Width="129" Height="28" X="295" Y="410">subtitle_0542.png</Graphic>
+    </Event>
+    <Event InTC="00:44:21:04" OutTC="00:44:23:14" Forced="False">
+      <Graphic Width="270" Height="23" X="224" Y="410">subtitle_0543.png</Graphic>
+    </Event>
+    <Event InTC="00:44:25:06" OutTC="00:44:28:12" Forced="False">
+      <Graphic Width="330" Height="28" X="194" Y="410">subtitle_0544.png</Graphic>
+    </Event>
+    <Event InTC="00:44:28:12" OutTC="00:44:30:07" Forced="False">
+      <Graphic Width="329" Height="23" X="194" Y="410">subtitle_0545.png</Graphic>
+    </Event>
+    <Event InTC="00:44:30:07" OutTC="00:44:31:14" Forced="False">
+      <Graphic Width="83" Height="23" X="317" Y="410">subtitle_0546.png</Graphic>
+    </Event>
+    <Event InTC="00:44:32:02" OutTC="00:44:34:20" Forced="False">
+      <Graphic Width="245" Height="28" X="236" Y="410">subtitle_0547.png</Graphic>
+    </Event>
+    <Event InTC="00:44:38:02" OutTC="00:44:40:11" Forced="False">
+      <Graphic Width="193" Height="28" X="263" Y="410">subtitle_0548.png</Graphic>
+    </Event>
+    <Event InTC="00:44:42:07" OutTC="00:44:44:15" Forced="False">
+      <Graphic Width="281" Height="28" X="220" Y="410">subtitle_0549.png</Graphic>
+    </Event>
+    <Event InTC="00:44:44:15" OutTC="00:44:46:00" Forced="False">
+      <Graphic Width="152" Height="23" X="283" Y="410">subtitle_0550.png</Graphic>
+    </Event>
+    <Event InTC="00:44:46:00" OutTC="00:44:48:09" Forced="False">
+      <Graphic Width="241" Height="28" X="238" Y="410">subtitle_0551.png</Graphic>
+    </Event>
+    <Event InTC="00:44:49:24" OutTC="00:44:54:12" Forced="False">
+      <Graphic Width="434" Height="28" X="142" Y="410">subtitle_0552.png</Graphic>
+    </Event>
+    <Event InTC="00:44:54:12" OutTC="00:44:55:14" Forced="False">
+      <Graphic Width="121" Height="23" X="299" Y="410">subtitle_0553.png</Graphic>
+    </Event>
+    <Event InTC="00:44:56:00" OutTC="00:44:57:05" Forced="False">
+      <Graphic Width="137" Height="23" X="291" Y="410">subtitle_0554.png</Graphic>
+    </Event>
+    <Event InTC="00:44:57:05" OutTC="00:44:59:03" Forced="False">
+      <Graphic Width="481" Height="26" X="119" Y="410">subtitle_0555.png</Graphic>
+    </Event>
+    <Event InTC="00:44:59:03" OutTC="00:45:02:00" Forced="False">
+      <Graphic Width="453" Height="28" X="132" Y="410">subtitle_0556.png</Graphic>
+    </Event>
+    <Event InTC="00:45:02:13" OutTC="00:45:04:11" Forced="False">
+      <Graphic Width="137" Height="23" X="290" Y="410">subtitle_0557.png</Graphic>
+    </Event>
+    <Event InTC="00:45:04:11" OutTC="00:45:06:08" Forced="False">
+      <Graphic Width="304" Height="28" X="207" Y="410">subtitle_0558.png</Graphic>
+    </Event>
+    <Event InTC="00:45:06:18" OutTC="00:45:09:08" Forced="False">
+      <Graphic Width="335" Height="28" X="191" Y="410">subtitle_0559.png</Graphic>
+    </Event>
+    <Event InTC="00:45:09:24" OutTC="00:45:11:17" Forced="False">
+      <Graphic Width="143" Height="28" X="288" Y="410">subtitle_0560.png</Graphic>
+    </Event>
+    <Event InTC="00:45:12:10" OutTC="00:45:13:14" Forced="False">
+      <Graphic Width="80" Height="23" X="319" Y="410">subtitle_0561.png</Graphic>
+    </Event>
+    <Event InTC="00:45:13:23" OutTC="00:45:16:01" Forced="False">
+      <Graphic Width="133" Height="28" X="292" Y="410">subtitle_0562.png</Graphic>
+    </Event>
+    <Event InTC="00:45:35:05" OutTC="00:45:38:09" Forced="False">
+      <Graphic Width="388" Height="60" X="165" Y="378">subtitle_0563.png</Graphic>
+    </Event>
+    <Event InTC="00:45:38:09" OutTC="00:45:40:02" Forced="False">
+      <Graphic Width="278" Height="28" X="220" Y="410">subtitle_0564.png</Graphic>
+    </Event>
+    <Event InTC="00:45:40:11" OutTC="00:45:43:13" Forced="False">
+      <Graphic Width="119" Height="28" X="299" Y="410">subtitle_0565.png</Graphic>
+    </Event>
+    <Event InTC="00:45:46:01" OutTC="00:45:49:02" Forced="False">
+      <Graphic Width="293" Height="28" X="213" Y="410">subtitle_0566.png</Graphic>
+    </Event>
+    <Event InTC="00:45:49:15" OutTC="00:45:53:03" Forced="False">
+      <Graphic Width="350" Height="60" X="184" Y="378">subtitle_0567.png</Graphic>
+    </Event>
+    <Event InTC="00:45:53:03" OutTC="00:45:56:11" Forced="False">
+      <Graphic Width="347" Height="58" X="185" Y="378">subtitle_0568.png</Graphic>
+    </Event>
+    <Event InTC="00:45:56:11" OutTC="00:45:57:24" Forced="False">
+      <Graphic Width="209" Height="28" X="254" Y="410">subtitle_0569.png</Graphic>
+    </Event>
+    <Event InTC="00:45:58:21" OutTC="00:46:00:03" Forced="False">
+      <Graphic Width="87" Height="23" X="316" Y="410">subtitle_0570.png</Graphic>
+    </Event>
+    <Event InTC="00:46:00:18" OutTC="00:46:02:11" Forced="False">
+      <Graphic Width="119" Height="28" X="299" Y="410">subtitle_0571.png</Graphic>
+    </Event>
+    <Event InTC="00:46:05:02" OutTC="00:46:06:03" Forced="False">
+      <Graphic Width="135" Height="28" X="292" Y="410">subtitle_0572.png</Graphic>
+    </Event>
+    <Event InTC="00:46:07:01" OutTC="00:46:08:12" Forced="False">
+      <Graphic Width="104" Height="23" X="307" Y="410">subtitle_0573.png</Graphic>
+    </Event>
+    <Event InTC="00:46:11:08" OutTC="00:46:13:02" Forced="False">
+      <Graphic Width="243" Height="23" X="237" Y="410">subtitle_0574.png</Graphic>
+    </Event>
+    <Event InTC="00:46:13:24" OutTC="00:46:15:06" Forced="False">
+      <Graphic Width="163" Height="28" X="278" Y="410">subtitle_0575.png</Graphic>
+    </Event>
+    <Event InTC="00:46:15:06" OutTC="00:46:16:14" Forced="False">
+      <Graphic Width="238" Height="28" X="240" Y="410">subtitle_0576.png</Graphic>
+    </Event>
+    <Event InTC="00:46:16:14" OutTC="00:46:17:20" Forced="False">
+      <Graphic Width="64" Height="28" X="327" Y="410">subtitle_0577.png</Graphic>
+    </Event>
+    <Event InTC="00:46:46:04" OutTC="00:46:47:18" Forced="False">
+      <Graphic Width="488" Height="28" X="115" Y="410">subtitle_0578.png</Graphic>
+    </Event>
+    <Event InTC="00:46:47:18" OutTC="00:46:49:05" Forced="False">
+      <Graphic Width="187" Height="28" X="267" Y="410">subtitle_0579.png</Graphic>
+    </Event>
+    <Event InTC="00:46:49:24" OutTC="00:46:51:15" Forced="False">
+      <Graphic Width="164" Height="28" X="276" Y="410">subtitle_0580.png</Graphic>
+    </Event>
+    <Event InTC="00:46:51:15" OutTC="00:46:53:15" Forced="False">
+      <Graphic Width="135" Height="28" X="292" Y="410">subtitle_0581.png</Graphic>
+    </Event>
+    <Event InTC="00:46:54:03" OutTC="00:46:55:03" Forced="False">
+      <Graphic Width="104" Height="28" X="307" Y="410">subtitle_0582.png</Graphic>
+    </Event>
+    <Event InTC="00:47:01:07" OutTC="00:47:03:16" Forced="False">
+      <Graphic Width="179" Height="28" X="269" Y="410">subtitle_0583.png</Graphic>
+    </Event>
+    <Event InTC="00:47:18:22" OutTC="00:47:20:12" Forced="False">
+      <Graphic Width="339" Height="28" X="189" Y="410">subtitle_0584.png</Graphic>
+    </Event>
+    <Event InTC="00:47:28:02" OutTC="00:47:29:13" Forced="False">
+      <Graphic Width="170" Height="28" X="274" Y="410">subtitle_0585.png</Graphic>
+    </Event>
+    <Event InTC="00:48:24:20" OutTC="00:48:26:05" Forced="False">
+      <Graphic Width="194" Height="23" X="262" Y="410">subtitle_0586.png</Graphic>
+    </Event>
+    <Event InTC="00:48:26:18" OutTC="00:48:30:04" Forced="False">
+      <Graphic Width="468" Height="28" X="125" Y="410">subtitle_0587.png</Graphic>
+    </Event>
+    <Event InTC="00:48:30:04" OutTC="00:48:34:20" Forced="False">
+      <Graphic Width="452" Height="60" X="134" Y="378">subtitle_0588.png</Graphic>
+    </Event>
+    <Event InTC="00:48:34:20" OutTC="00:48:38:01" Forced="False">
+      <Graphic Width="385" Height="60" X="167" Y="378">subtitle_0589.png</Graphic>
+    </Event>
+    <Event InTC="00:48:41:10" OutTC="00:48:44:19" Forced="False">
+      <Graphic Width="400" Height="28" X="160" Y="410">subtitle_0590.png</Graphic>
+    </Event>
+    <Event InTC="00:48:44:19" OutTC="00:48:47:00" Forced="False">
+      <Graphic Width="344" Height="28" X="186" Y="410">subtitle_0591.png</Graphic>
+    </Event>
+    <Event InTC="00:48:47:13" OutTC="00:48:49:03" Forced="False">
+      <Graphic Width="289" Height="26" X="215" Y="410">subtitle_0592.png</Graphic>
+    </Event>
+    <Event InTC="00:48:49:03" OutTC="00:48:51:04" Forced="False">
+      <Graphic Width="378" Height="28" X="169" Y="410">subtitle_0593.png</Graphic>
+    </Event>
+    <Event InTC="00:48:59:21" OutTC="00:49:01:03" Forced="False">
+      <Graphic Width="70" Height="23" X="325" Y="410">subtitle_0594.png</Graphic>
+    </Event>
+    <Event InTC="00:49:13:08" OutTC="00:49:16:15" Forced="False">
+      <Graphic Width="357" Height="60" X="180" Y="378">subtitle_0595.png</Graphic>
+    </Event>
+    <Event InTC="00:49:16:15" OutTC="00:49:19:03" Forced="False">
+      <Graphic Width="344" Height="60" X="188" Y="378">subtitle_0596.png</Graphic>
+    </Event>
+    <Event InTC="00:49:19:16" OutTC="00:49:21:01" Forced="False">
+      <Graphic Width="196" Height="23" X="261" Y="410">subtitle_0597.png</Graphic>
+    </Event>
+    <Event InTC="00:49:21:01" OutTC="00:49:22:23" Forced="False">
+      <Graphic Width="232" Height="28" X="243" Y="410">subtitle_0598.png</Graphic>
+    </Event>
+    <Event InTC="00:49:23:07" OutTC="00:49:25:02" Forced="False">
+      <Graphic Width="294" Height="28" X="212" Y="410">subtitle_0599.png</Graphic>
+    </Event>
+    <Event InTC="00:49:25:02" OutTC="00:49:28:06" Forced="False">
+      <Graphic Width="419" Height="55" X="149" Y="378">subtitle_0600.png</Graphic>
+    </Event>
+    <Event InTC="00:49:37:18" OutTC="00:49:38:24" Forced="False">
+      <Graphic Width="97" Height="23" X="311" Y="410">subtitle_0601.png</Graphic>
+    </Event>
+    <Event InTC="00:49:40:23" OutTC="00:49:42:05" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0602.png</Graphic>
+    </Event>
+    <Event InTC="00:50:00:13" OutTC="00:50:01:16" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0603.png</Graphic>
+    </Event>
+    <Event InTC="00:50:06:03" OutTC="00:50:07:12" Forced="False">
+      <Graphic Width="333" Height="28" X="192" Y="410">subtitle_0604.png</Graphic>
+    </Event>
+    <Event InTC="00:50:07:12" OutTC="00:50:08:15" Forced="False">
+      <Graphic Width="54" Height="23" X="333" Y="410">subtitle_0605.png</Graphic>
+    </Event>
+    <Event InTC="00:50:10:02" OutTC="00:50:11:07" Forced="False">
+      <Graphic Width="54" Height="23" X="333" Y="410">subtitle_0606.png</Graphic>
+    </Event>
+    <Event InTC="00:50:22:09" OutTC="00:50:24:18" Forced="False">
+      <Graphic Width="399" Height="28" X="160" Y="410">subtitle_0607.png</Graphic>
+    </Event>
+    <Event InTC="00:50:24:18" OutTC="00:50:27:16" Forced="False">
+      <Graphic Width="491" Height="28" X="113" Y="410">subtitle_0608.png</Graphic>
+    </Event>
+    <Event InTC="00:50:36:18" OutTC="00:50:38:20" Forced="False">
+      <Graphic Width="230" Height="28" X="244" Y="410">subtitle_0609.png</Graphic>
+    </Event>
+    <Event InTC="00:50:49:13" OutTC="00:50:51:17" Forced="False">
+      <Graphic Width="253" Height="28" X="233" Y="410">subtitle_0610.png</Graphic>
+    </Event>
+    <Event InTC="00:50:54:19" OutTC="00:50:56:15" Forced="False">
+      <Graphic Width="322" Height="28" X="197" Y="410">subtitle_0611.png</Graphic>
+    </Event>
+    <Event InTC="00:50:57:13" OutTC="00:50:59:19" Forced="False">
+      <Graphic Width="355" Height="28" X="181" Y="410">subtitle_0612.png</Graphic>
+    </Event>
+    <Event InTC="00:51:00:07" OutTC="00:51:01:16" Forced="False">
+      <Graphic Width="151" Height="28" X="283" Y="410">subtitle_0613.png</Graphic>
+    </Event>
+    <Event InTC="00:51:01:16" OutTC="00:51:04:09" Forced="False">
+      <Graphic Width="307" Height="60" X="206" Y="378">subtitle_0614.png</Graphic>
+    </Event>
+    <Event InTC="00:51:09:13" OutTC="00:51:11:17" Forced="False">
+      <Graphic Width="318" Height="28" X="200" Y="410">subtitle_0615.png</Graphic>
+    </Event>
+    <Event InTC="00:51:13:10" OutTC="00:51:15:21" Forced="False">
+      <Graphic Width="331" Height="23" X="194" Y="410">subtitle_0616.png</Graphic>
+    </Event>
+    <Event InTC="00:51:21:08" OutTC="00:51:23:03" Forced="False">
+      <Graphic Width="141" Height="28" X="288" Y="410">subtitle_0617.png</Graphic>
+    </Event>
+    <Event InTC="00:51:23:03" OutTC="00:51:26:09" Forced="False">
+      <Graphic Width="438" Height="28" X="139" Y="410">subtitle_0618.png</Graphic>
+    </Event>
+    <Event InTC="00:51:30:09" OutTC="00:51:31:13" Forced="False">
+      <Graphic Width="63" Height="23" X="329" Y="410">subtitle_0619.png</Graphic>
+    </Event>
+    <Event InTC="00:51:32:21" OutTC="00:51:34:09" Forced="False">
+      <Graphic Width="182" Height="23" X="267" Y="410">subtitle_0620.png</Graphic>
+    </Event>
+    <Event InTC="00:52:59:20" OutTC="00:53:00:23" Forced="False">
+      <Graphic Width="58" Height="23" X="330" Y="410">subtitle_0621.png</Graphic>
+    </Event>
+    <Event InTC="00:53:06:20" OutTC="00:53:08:08" Forced="False">
+      <Graphic Width="283" Height="26" X="218" Y="410">subtitle_0622.png</Graphic>
+    </Event>
+    <Event InTC="00:53:09:06" OutTC="00:53:10:18" Forced="False">
+      <Graphic Width="124" Height="23" X="297" Y="410">subtitle_0623.png</Graphic>
+    </Event>
+    <Event InTC="00:53:24:24" OutTC="00:53:27:00" Forced="False">
+      <Graphic Width="167" Height="23" X="276" Y="410">subtitle_0624.png</Graphic>
+    </Event>
+    <Event InTC="00:53:29:08" OutTC="00:53:30:07" Forced="False">
+      <Graphic Width="73" Height="23" X="323" Y="410">subtitle_0625.png</Graphic>
+    </Event>
+    <Event InTC="00:53:30:17" OutTC="00:53:32:03" Forced="False">
+      <Graphic Width="137" Height="23" X="290" Y="410">subtitle_0626.png</Graphic>
+    </Event>
+    <Event InTC="00:53:32:03" OutTC="00:53:33:08" Forced="False">
+      <Graphic Width="163" Height="28" X="278" Y="410">subtitle_0627.png</Graphic>
+    </Event>
+    <Event InTC="00:53:33:08" OutTC="00:53:35:00" Forced="False">
+      <Graphic Width="238" Height="26" X="240" Y="410">subtitle_0628.png</Graphic>
+    </Event>
+    <Event InTC="00:53:35:00" OutTC="00:53:37:10" Forced="False">
+      <Graphic Width="282" Height="23" X="218" Y="410">subtitle_0629.png</Graphic>
+    </Event>
+    <Event InTC="00:53:37:10" OutTC="00:53:39:01" Forced="False">
+      <Graphic Width="193" Height="23" X="263" Y="410">subtitle_0630.png</Graphic>
+    </Event>
+    <Event InTC="00:53:39:01" OutTC="00:53:40:24" Forced="False">
+      <Graphic Width="259" Height="23" X="230" Y="410">subtitle_0631.png</Graphic>
+    </Event>
+    <Event InTC="00:53:40:24" OutTC="00:53:43:05" Forced="False">
+      <Graphic Width="354" Height="28" X="182" Y="410">subtitle_0632.png</Graphic>
+    </Event>
+    <Event InTC="00:53:43:05" OutTC="00:53:45:21" Forced="False">
+      <Graphic Width="334" Height="28" X="192" Y="410">subtitle_0633.png</Graphic>
+    </Event>
+    <Event InTC="00:53:45:21" OutTC="00:53:48:10" Forced="False">
+      <Graphic Width="475" Height="28" X="122" Y="410">subtitle_0634.png</Graphic>
+    </Event>
+    <Event InTC="00:53:48:10" OutTC="00:53:51:13" Forced="False">
+      <Graphic Width="411" Height="28" X="153" Y="410">subtitle_0635.png</Graphic>
+    </Event>
+    <Event InTC="00:53:52:15" OutTC="00:53:54:11" Forced="False">
+      <Graphic Width="284" Height="28" X="217" Y="410">subtitle_0636.png</Graphic>
+    </Event>
+    <Event InTC="00:53:56:05" OutTC="00:53:57:22" Forced="False">
+      <Graphic Width="292" Height="28" X="213" Y="410">subtitle_0637.png</Graphic>
+    </Event>
+    <Event InTC="00:53:57:22" OutTC="00:53:59:12" Forced="False">
+      <Graphic Width="139" Height="28" X="289" Y="410">subtitle_0638.png</Graphic>
+    </Event>
+    <Event InTC="00:54:02:04" OutTC="00:54:04:13" Forced="False">
+      <Graphic Width="289" Height="28" X="213" Y="410">subtitle_0639.png</Graphic>
+    </Event>
+    <Event InTC="00:54:05:14" OutTC="00:54:07:04" Forced="False">
+      <Graphic Width="229" Height="23" X="245" Y="410">subtitle_0640.png</Graphic>
+    </Event>
+    <Event InTC="00:54:12:23" OutTC="00:54:14:10" Forced="False">
+      <Graphic Width="75" Height="23" X="322" Y="410">subtitle_0641.png</Graphic>
+    </Event>
+    <Event InTC="00:54:22:15" OutTC="00:54:24:15" Forced="False">
+      <Graphic Width="263" Height="28" X="227" Y="410">subtitle_0642.png</Graphic>
+    </Event>
+    <Event InTC="00:54:24:15" OutTC="00:54:27:07" Forced="False">
+      <Graphic Width="374" Height="28" X="173" Y="410">subtitle_0643.png</Graphic>
+    </Event>
+    <Event InTC="00:54:27:07" OutTC="00:54:31:24" Forced="False">
+      <Graphic Width="360" Height="60" X="179" Y="378">subtitle_0644.png</Graphic>
+    </Event>
+    <Event InTC="00:54:31:24" OutTC="00:54:33:12" Forced="False">
+      <Graphic Width="161" Height="23" X="278" Y="410">subtitle_0645.png</Graphic>
+    </Event>
+    <Event InTC="00:54:33:12" OutTC="00:54:35:14" Forced="False">
+      <Graphic Width="278" Height="28" X="221" Y="410">subtitle_0646.png</Graphic>
+    </Event>
+    <Event InTC="00:54:35:14" OutTC="00:54:37:14" Forced="False">
+      <Graphic Width="228" Height="28" X="245" Y="410">subtitle_0647.png</Graphic>
+    </Event>
+    <Event InTC="00:54:37:14" OutTC="00:54:39:15" Forced="False">
+      <Graphic Width="347" Height="28" X="185" Y="410">subtitle_0648.png</Graphic>
+    </Event>
+    <Event InTC="00:54:44:19" OutTC="00:54:46:11" Forced="False">
+      <Graphic Width="311" Height="28" X="204" Y="410">subtitle_0649.png</Graphic>
+    </Event>
+    <Event InTC="00:54:48:06" OutTC="00:54:49:14" Forced="False">
+      <Graphic Width="101" Height="26" X="308" Y="410">subtitle_0650.png</Graphic>
+    </Event>
+    <Event InTC="00:54:52:13" OutTC="00:54:53:12" Forced="False">
+      <Graphic Width="83" Height="23" X="317" Y="410">subtitle_0651.png</Graphic>
+    </Event>
+    <Event InTC="00:55:00:21" OutTC="00:55:03:08" Forced="False">
+      <Graphic Width="482" Height="28" X="118" Y="410">subtitle_0652.png</Graphic>
+    </Event>
+    <Event InTC="00:55:03:08" OutTC="00:55:05:16" Forced="False">
+      <Graphic Width="224" Height="23" X="247" Y="410">subtitle_0653.png</Graphic>
+    </Event>
+    <Event InTC="00:55:05:23" OutTC="00:55:08:02" Forced="False">
+      <Graphic Width="272" Height="28" X="223" Y="410">subtitle_0654.png</Graphic>
+    </Event>
+    <Event InTC="00:55:17:20" OutTC="00:55:19:07" Forced="False">
+      <Graphic Width="118" Height="28" X="301" Y="410">subtitle_0655.png</Graphic>
+    </Event>
+    <Event InTC="00:55:21:00" OutTC="00:55:22:19" Forced="False">
+      <Graphic Width="339" Height="23" X="190" Y="410">subtitle_0656.png</Graphic>
+    </Event>
+    <Event InTC="00:55:25:03" OutTC="00:55:27:11" Forced="False">
+      <Graphic Width="270" Height="28" X="224" Y="410">subtitle_0657.png</Graphic>
+    </Event>
+    <Event InTC="00:55:27:11" OutTC="00:55:29:16" Forced="False">
+      <Graphic Width="244" Height="28" X="237" Y="410">subtitle_0658.png</Graphic>
+    </Event>
+    <Event InTC="00:55:33:10" OutTC="00:55:35:01" Forced="False">
+      <Graphic Width="238" Height="28" X="240" Y="410">subtitle_0659.png</Graphic>
+    </Event>
+    <Event InTC="00:55:35:01" OutTC="00:55:36:09" Forced="False">
+      <Graphic Width="113" Height="23" X="302" Y="410">subtitle_0660.png</Graphic>
+    </Event>
+    <Event InTC="00:55:37:02" OutTC="00:55:39:08" Forced="False">
+      <Graphic Width="377" Height="28" X="171" Y="410">subtitle_0661.png</Graphic>
+    </Event>
+    <Event InTC="00:55:39:08" OutTC="00:55:41:01" Forced="False">
+      <Graphic Width="112" Height="23" X="303" Y="410">subtitle_0662.png</Graphic>
+    </Event>
+    <Event InTC="00:55:41:19" OutTC="00:55:42:21" Forced="False">
+      <Graphic Width="50" Height="28" X="335" Y="410">subtitle_0663.png</Graphic>
+    </Event>
+    <Event InTC="00:55:45:05" OutTC="00:55:47:13" Forced="False">
+      <Graphic Width="235" Height="28" X="243" Y="410">subtitle_0664.png</Graphic>
+    </Event>
+    <Event InTC="00:55:47:13" OutTC="00:55:50:05" Forced="False">
+      <Graphic Width="373" Height="28" X="172" Y="410">subtitle_0665.png</Graphic>
+    </Event>
+    <Event InTC="00:56:04:04" OutTC="00:56:06:18" Forced="False">
+      <Graphic Width="388" Height="23" X="165" Y="410">subtitle_0666.png</Graphic>
+    </Event>
+    <Event InTC="00:56:07:10" OutTC="00:56:09:11" Forced="False">
+      <Graphic Width="246" Height="28" X="236" Y="410">subtitle_0667.png</Graphic>
+    </Event>
+    <Event InTC="00:56:09:11" OutTC="00:56:12:04" Forced="False">
+      <Graphic Width="250" Height="26" X="233" Y="410">subtitle_0668.png</Graphic>
+    </Event>
+    <Event InTC="00:56:12:19" OutTC="00:56:15:22" Forced="False">
+      <Graphic Width="456" Height="28" X="131" Y="410">subtitle_0669.png</Graphic>
+    </Event>
+    <Event InTC="00:56:27:22" OutTC="00:56:29:08" Forced="False">
+      <Graphic Width="193" Height="28" X="262" Y="410">subtitle_0670.png</Graphic>
+    </Event>
+    <Event InTC="00:56:33:00" OutTC="00:56:34:14" Forced="False">
+      <Graphic Width="134" Height="26" X="293" Y="410">subtitle_0671.png</Graphic>
+    </Event>
+    <Event InTC="00:56:39:17" OutTC="00:56:42:02" Forced="False">
+      <Graphic Width="403" Height="28" X="158" Y="410">subtitle_0672.png</Graphic>
+    </Event>
+    <Event InTC="00:56:42:02" OutTC="00:56:45:17" Forced="False">
+      <Graphic Width="456" Height="26" X="130" Y="410">subtitle_0673.png</Graphic>
+    </Event>
+    <Event InTC="00:56:45:17" OutTC="00:56:47:22" Forced="False">
+      <Graphic Width="318" Height="28" X="200" Y="410">subtitle_0674.png</Graphic>
+    </Event>
+    <Event InTC="00:56:47:22" OutTC="00:56:50:04" Forced="False">
+      <Graphic Width="211" Height="28" X="253" Y="410">subtitle_0675.png</Graphic>
+    </Event>
+    <Event InTC="00:56:50:04" OutTC="00:56:52:08" Forced="False">
+      <Graphic Width="345" Height="28" X="187" Y="410">subtitle_0676.png</Graphic>
+    </Event>
+    <Event InTC="00:56:52:08" OutTC="00:56:54:04" Forced="False">
+      <Graphic Width="199" Height="28" X="260" Y="410">subtitle_0677.png</Graphic>
+    </Event>
+    <Event InTC="00:56:54:04" OutTC="00:56:56:17" Forced="False">
+      <Graphic Width="315" Height="58" X="202" Y="378">subtitle_0678.png</Graphic>
+    </Event>
+    <Event InTC="00:56:59:21" OutTC="00:57:01:05" Forced="False">
+      <Graphic Width="258" Height="28" X="231" Y="410">subtitle_0679.png</Graphic>
+    </Event>
+    <Event InTC="00:57:03:11" OutTC="00:57:05:10" Forced="False">
+      <Graphic Width="316" Height="28" X="201" Y="410">subtitle_0680.png</Graphic>
+    </Event>
+    <Event InTC="00:57:07:09" OutTC="00:57:08:12" Forced="False">
+      <Graphic Width="210" Height="28" X="254" Y="410">subtitle_0681.png</Graphic>
+    </Event>
+    <Event InTC="00:57:09:11" OutTC="00:57:10:15" Forced="False">
+      <Graphic Width="90" Height="28" X="315" Y="410">subtitle_0682.png</Graphic>
+    </Event>
+    <Event InTC="00:57:17:15" OutTC="00:57:19:21" Forced="False">
+      <Graphic Width="378" Height="28" X="170" Y="410">subtitle_0683.png</Graphic>
+    </Event>
+    <Event InTC="00:57:30:02" OutTC="00:57:31:18" Forced="False">
+      <Graphic Width="137" Height="23" X="290" Y="410">subtitle_0684.png</Graphic>
+    </Event>
+    <Event InTC="00:57:31:18" OutTC="00:57:33:04" Forced="False">
+      <Graphic Width="109" Height="28" X="305" Y="410">subtitle_0685.png</Graphic>
+    </Event>
+    <Event InTC="00:57:33:04" OutTC="00:57:34:05" Forced="False">
+      <Graphic Width="242" Height="28" X="238" Y="410">subtitle_0686.png</Graphic>
+    </Event>
+    <Event InTC="00:57:34:05" OutTC="00:57:35:10" Forced="False">
+      <Graphic Width="192" Height="23" X="263" Y="410">subtitle_0687.png</Graphic>
+    </Event>
+    <Event InTC="00:57:35:10" OutTC="00:57:38:07" Forced="False">
+      <Graphic Width="454" Height="28" X="132" Y="410">subtitle_0688.png</Graphic>
+    </Event>
+    <Event InTC="00:57:39:11" OutTC="00:57:40:21" Forced="False">
+      <Graphic Width="195" Height="23" X="262" Y="410">subtitle_0689.png</Graphic>
+    </Event>
+    <Event InTC="00:57:52:23" OutTC="00:57:54:16" Forced="False">
+      <Graphic Width="379" Height="28" X="171" Y="410">subtitle_0690.png</Graphic>
+    </Event>
+    <Event InTC="00:57:54:22" OutTC="00:57:56:18" Forced="False">
+      <Graphic Width="235" Height="28" X="242" Y="410">subtitle_0691.png</Graphic>
+    </Event>
+    <Event InTC="00:57:56:18" OutTC="00:57:58:06" Forced="False">
+      <Graphic Width="269" Height="28" X="225" Y="410">subtitle_0692.png</Graphic>
+    </Event>
+    <Event InTC="00:57:58:24" OutTC="00:58:00:24" Forced="False">
+      <Graphic Width="386" Height="23" X="166" Y="410">subtitle_0693.png</Graphic>
+    </Event>
+    <Event InTC="00:58:00:24" OutTC="00:58:03:17" Forced="False">
+      <Graphic Width="359" Height="28" X="179" Y="410">subtitle_0694.png</Graphic>
+    </Event>
+    <Event InTC="00:58:04:15" OutTC="00:58:07:21" Forced="False">
+      <Graphic Width="300" Height="23" X="208" Y="410">subtitle_0695.png</Graphic>
+    </Event>
+    <Event InTC="00:58:11:07" OutTC="00:58:12:20" Forced="False">
+      <Graphic Width="160" Height="28" X="279" Y="410">subtitle_0696.png</Graphic>
+    </Event>
+    <Event InTC="00:58:12:20" OutTC="00:58:14:11" Forced="False">
+      <Graphic Width="146" Height="28" X="286" Y="410">subtitle_0697.png</Graphic>
+    </Event>
+    <Event InTC="00:58:14:11" OutTC="00:58:15:15" Forced="False">
+      <Graphic Width="325" Height="28" X="197" Y="410">subtitle_0698.png</Graphic>
+    </Event>
+    <Event InTC="00:58:16:22" OutTC="00:58:18:15" Forced="False">
+      <Graphic Width="294" Height="28" X="213" Y="410">subtitle_0699.png</Graphic>
+    </Event>
+    <Event InTC="00:58:26:19" OutTC="00:58:29:24" Forced="False">
+      <Graphic Width="328" Height="28" X="195" Y="410">subtitle_0700.png</Graphic>
+    </Event>
+    <Event InTC="00:58:33:13" OutTC="00:58:35:09" Forced="False">
+      <Graphic Width="328" Height="28" X="195" Y="410">subtitle_0701.png</Graphic>
+    </Event>
+    <Event InTC="00:58:37:16" OutTC="00:58:38:22" Forced="False">
+      <Graphic Width="76" Height="23" X="321" Y="410">subtitle_0702.png</Graphic>
+    </Event>
+    <Event InTC="00:58:40:14" OutTC="00:58:41:24" Forced="False">
+      <Graphic Width="192" Height="28" X="263" Y="410">subtitle_0703.png</Graphic>
+    </Event>
+    <Event InTC="00:59:01:03" OutTC="00:59:05:02" Forced="False">
+      <Graphic Width="375" Height="60" X="172" Y="378">subtitle_0704.png</Graphic>
+    </Event>
+    <Event InTC="00:59:06:02" OutTC="00:59:09:00" Forced="False">
+      <Graphic Width="271" Height="26" X="223" Y="410">subtitle_0705.png</Graphic>
+    </Event>
+    <Event InTC="01:00:08:24" OutTC="01:00:10:12" Forced="False">
+      <Graphic Width="262" Height="23" X="229" Y="410">subtitle_0706.png</Graphic>
+    </Event>
+    <Event InTC="01:00:33:07" OutTC="01:00:34:14" Forced="False">
+      <Graphic Width="134" Height="23" X="292" Y="410">subtitle_0707.png</Graphic>
+    </Event>
+    <Event InTC="01:01:41:21" OutTC="01:01:44:07" Forced="False">
+      <Graphic Width="325" Height="28" X="196" Y="410">subtitle_0708.png</Graphic>
+    </Event>
+    <Event InTC="01:01:47:18" OutTC="01:01:49:03" Forced="False">
+      <Graphic Width="131" Height="23" X="293" Y="410">subtitle_0709.png</Graphic>
+    </Event>
+    <Event InTC="01:01:50:00" OutTC="01:01:52:01" Forced="False">
+      <Graphic Width="250" Height="28" X="235" Y="410">subtitle_0710.png</Graphic>
+    </Event>
+    <Event InTC="01:01:53:04" OutTC="01:01:54:22" Forced="False">
+      <Graphic Width="348" Height="28" X="184" Y="410">subtitle_0711.png</Graphic>
+    </Event>
+    <Event InTC="01:01:55:14" OutTC="01:01:56:18" Forced="False">
+      <Graphic Width="196" Height="23" X="261" Y="410">subtitle_0712.png</Graphic>
+    </Event>
+    <Event InTC="01:02:02:24" OutTC="01:02:05:15" Forced="False">
+      <Graphic Width="373" Height="28" X="172" Y="410">subtitle_0713.png</Graphic>
+    </Event>
+    <Event InTC="01:02:15:02" OutTC="01:02:16:09" Forced="False">
+      <Graphic Width="301" Height="28" X="207" Y="410">subtitle_0714.png</Graphic>
+    </Event>
+    <Event InTC="01:02:29:21" OutTC="01:02:31:12" Forced="False">
+      <Graphic Width="195" Height="28" X="262" Y="410">subtitle_0715.png</Graphic>
+    </Event>
+    <Event InTC="01:03:00:14" OutTC="01:03:02:06" Forced="False">
+      <Graphic Width="218" Height="28" X="251" Y="410">subtitle_0716.png</Graphic>
+    </Event>
+    <Event InTC="01:03:25:08" OutTC="01:03:27:10" Forced="False">
+      <Graphic Width="265" Height="28" X="227" Y="410">subtitle_0717.png</Graphic>
+    </Event>
+    <Event InTC="01:03:30:20" OutTC="01:03:32:18" Forced="False">
+      <Graphic Width="268" Height="23" X="225" Y="410">subtitle_0718.png</Graphic>
+    </Event>
+    <Event InTC="01:03:32:18" OutTC="01:03:34:18" Forced="False">
+      <Graphic Width="283" Height="23" X="218" Y="410">subtitle_0719.png</Graphic>
+    </Event>
+    <Event InTC="01:03:40:23" OutTC="01:03:43:04" Forced="False">
+      <Graphic Width="280" Height="28" X="219" Y="410">subtitle_0720.png</Graphic>
+    </Event>
+    <Event InTC="01:04:13:16" OutTC="01:04:15:07" Forced="False">
+      <Graphic Width="233" Height="28" X="243" Y="410">subtitle_0721.png</Graphic>
+    </Event>
+    <Event InTC="01:04:16:06" OutTC="01:04:17:17" Forced="False">
+      <Graphic Width="142" Height="28" X="288" Y="410">subtitle_0722.png</Graphic>
+    </Event>
+    <Event InTC="01:04:33:12" OutTC="01:04:35:02" Forced="False">
+      <Graphic Width="247" Height="28" X="237" Y="410">subtitle_0723.png</Graphic>
+    </Event>
+    <Event InTC="01:04:35:21" OutTC="01:04:38:17" Forced="False">
+      <Graphic Width="249" Height="23" X="234" Y="410">subtitle_0724.png</Graphic>
+    </Event>
+    <Event InTC="01:04:38:17" OutTC="01:04:39:20" Forced="False">
+      <Graphic Width="38" Height="23" X="341" Y="410">subtitle_0725.png</Graphic>
+    </Event>
+    <Event InTC="01:04:44:00" OutTC="01:04:45:13" Forced="False">
+      <Graphic Width="60" Height="23" X="329" Y="410">subtitle_0726.png</Graphic>
+    </Event>
+    <Event InTC="01:04:46:12" OutTC="01:04:47:14" Forced="False">
+      <Graphic Width="117" Height="23" X="301" Y="410">subtitle_0727.png</Graphic>
+    </Event>
+    <Event InTC="01:04:49:24" OutTC="01:04:51:06" Forced="False">
+      <Graphic Width="99" Height="23" X="309" Y="410">subtitle_0728.png</Graphic>
+    </Event>
+    <Event InTC="01:04:52:15" OutTC="01:04:53:21" Forced="False">
+      <Graphic Width="156" Height="23" X="281" Y="410">subtitle_0729.png</Graphic>
+    </Event>
+    <Event InTC="01:05:00:11" OutTC="01:05:02:00" Forced="False">
+      <Graphic Width="125" Height="23" X="297" Y="410">subtitle_0730.png</Graphic>
+    </Event>
+    <Event InTC="01:05:04:21" OutTC="01:05:06:20" Forced="False">
+      <Graphic Width="243" Height="28" X="237" Y="410">subtitle_0731.png</Graphic>
+    </Event>
+    <Event InTC="01:05:10:10" OutTC="01:05:11:14" Forced="False">
+      <Graphic Width="79" Height="23" X="319" Y="410">subtitle_0732.png</Graphic>
+    </Event>
+    <Event InTC="01:05:13:00" OutTC="01:05:14:08" Forced="False">
+      <Graphic Width="66" Height="23" X="326" Y="410">subtitle_0733.png</Graphic>
+    </Event>
+    <Event InTC="01:05:18:04" OutTC="01:05:19:10" Forced="False">
+      <Graphic Width="65" Height="28" X="327" Y="410">subtitle_0734.png</Graphic>
+    </Event>
+    <Event InTC="01:05:27:23" OutTC="01:05:29:07" Forced="False">
+      <Graphic Width="178" Height="28" X="270" Y="410">subtitle_0735.png</Graphic>
+    </Event>
+    <Event InTC="01:05:30:12" OutTC="01:05:31:10" Forced="False">
+      <Graphic Width="76" Height="23" X="321" Y="410">subtitle_0736.png</Graphic>
+    </Event>
+    <Event InTC="01:05:32:16" OutTC="01:05:34:06" Forced="False">
+      <Graphic Width="235" Height="23" X="242" Y="410">subtitle_0737.png</Graphic>
+    </Event>
+    <Event InTC="01:05:35:11" OutTC="01:05:36:23" Forced="False">
+      <Graphic Width="76" Height="23" X="321" Y="410">subtitle_0738.png</Graphic>
+    </Event>
+    <Event InTC="01:05:41:18" OutTC="01:05:43:20" Forced="False">
+      <Graphic Width="256" Height="28" X="231" Y="410">subtitle_0739.png</Graphic>
+    </Event>
+    <Event InTC="01:05:43:20" OutTC="01:05:45:06" Forced="False">
+      <Graphic Width="122" Height="28" X="298" Y="410">subtitle_0740.png</Graphic>
+    </Event>
+    <Event InTC="01:05:58:00" OutTC="01:05:59:19" Forced="False">
+      <Graphic Width="241" Height="28" X="239" Y="410">subtitle_0741.png</Graphic>
+    </Event>
+    <Event InTC="01:06:36:01" OutTC="01:06:37:21" Forced="False">
+      <Graphic Width="270" Height="28" X="224" Y="410">subtitle_0742.png</Graphic>
+    </Event>
+    <Event InTC="01:06:37:21" OutTC="01:06:40:12" Forced="False">
+      <Graphic Width="483" Height="28" X="117" Y="410">subtitle_0743.png</Graphic>
+    </Event>
+    <Event InTC="01:06:49:19" OutTC="01:06:51:15" Forced="False">
+      <Graphic Width="332" Height="28" X="194" Y="410">subtitle_0744.png</Graphic>
+    </Event>
+    <Event InTC="01:06:52:01" OutTC="01:06:53:18" Forced="False">
+      <Graphic Width="217" Height="23" X="250" Y="410">subtitle_0745.png</Graphic>
+    </Event>
+    <Event InTC="01:07:03:05" OutTC="01:07:08:05" Forced="False">
+      <Graphic Width="244" Height="60" X="236" Y="378">subtitle_0746.png</Graphic>
+    </Event>
+    <Event InTC="01:07:10:15" OutTC="01:07:12:12" Forced="False">
+      <Graphic Width="231" Height="23" X="244" Y="410">subtitle_0747.png</Graphic>
+    </Event>
+    <Event InTC="01:07:12:12" OutTC="01:07:16:02" Forced="False">
+      <Graphic Width="208" Height="26" X="255" Y="410">subtitle_0748.png</Graphic>
+    </Event>
+    <Event InTC="01:07:16:19" OutTC="01:07:17:21" Forced="False">
+      <Graphic Width="95" Height="23" X="311" Y="410">subtitle_0749.png</Graphic>
+    </Event>
+    <Event InTC="01:07:18:18" OutTC="01:07:20:12" Forced="False">
+      <Graphic Width="286" Height="28" X="217" Y="410">subtitle_0750.png</Graphic>
+    </Event>
+    <Event InTC="01:07:54:01" OutTC="01:07:58:02" Forced="False">
+      <Graphic Width="334" Height="26" X="192" Y="410">subtitle_0751.png</Graphic>
+    </Event>
+    <Event InTC="01:07:58:14" OutTC="01:08:02:11" Forced="False">
+      <Graphic Width="495" Height="28" X="112" Y="410">subtitle_0752.png</Graphic>
+    </Event>
+    <Event InTC="01:08:02:11" OutTC="01:08:04:23" Forced="False">
+      <Graphic Width="371" Height="23" X="173" Y="410">subtitle_0753.png</Graphic>
+    </Event>
+    <Event InTC="01:08:07:10" OutTC="01:08:10:15" Forced="False">
+      <Graphic Width="278" Height="55" X="220" Y="378">subtitle_0754.png</Graphic>
+    </Event>
+    <Event InTC="01:08:11:07" OutTC="01:08:13:03" Forced="False">
+      <Graphic Width="260" Height="28" X="229" Y="410">subtitle_0755.png</Graphic>
+    </Event>
+    <Event InTC="01:08:13:03" OutTC="01:08:15:02" Forced="False">
+      <Graphic Width="321" Height="28" X="199" Y="410">subtitle_0756.png</Graphic>
+    </Event>
+    <Event InTC="01:08:27:03" OutTC="01:08:30:19" Forced="False">
+      <Graphic Width="238" Height="28" X="240" Y="410">subtitle_0757.png</Graphic>
+    </Event>
+    <Event InTC="01:08:39:13" OutTC="01:08:41:19" Forced="False">
+      <Graphic Width="346" Height="28" X="186" Y="410">subtitle_0758.png</Graphic>
+    </Event>
+    <Event InTC="01:08:43:21" OutTC="01:08:45:11" Forced="False">
+      <Graphic Width="248" Height="28" X="236" Y="410">subtitle_0759.png</Graphic>
+    </Event>
+    <Event InTC="01:08:45:11" OutTC="01:08:47:07" Forced="False">
+      <Graphic Width="267" Height="28" X="226" Y="410">subtitle_0760.png</Graphic>
+    </Event>
+    <Event InTC="01:08:47:24" OutTC="01:08:49:19" Forced="False">
+      <Graphic Width="271" Height="28" X="223" Y="410">subtitle_0761.png</Graphic>
+    </Event>
+    <Event InTC="01:09:11:14" OutTC="01:09:13:03" Forced="False">
+      <Graphic Width="329" Height="28" X="195" Y="410">subtitle_0762.png</Graphic>
+    </Event>
+    <Event InTC="01:09:40:12" OutTC="01:09:42:02" Forced="False">
+      <Graphic Width="388" Height="28" X="166" Y="410">subtitle_0763.png</Graphic>
+    </Event>
+    <Event InTC="01:09:44:15" OutTC="01:09:45:21" Forced="False">
+      <Graphic Width="192" Height="28" X="263" Y="410">subtitle_0764.png</Graphic>
+    </Event>
+    <Event InTC="01:09:46:16" OutTC="01:09:49:02" Forced="False">
+      <Graphic Width="305" Height="28" X="206" Y="410">subtitle_0765.png</Graphic>
+    </Event>
+    <Event InTC="01:09:49:21" OutTC="01:09:51:13" Forced="False">
+      <Graphic Width="235" Height="28" X="242" Y="410">subtitle_0766.png</Graphic>
+    </Event>
+    <Event InTC="01:10:02:22" OutTC="01:10:04:06" Forced="False">
+      <Graphic Width="202" Height="28" X="259" Y="410">subtitle_0767.png</Graphic>
+    </Event>
+    <Event InTC="01:10:04:06" OutTC="01:10:06:22" Forced="False">
+      <Graphic Width="409" Height="28" X="154" Y="410">subtitle_0768.png</Graphic>
+    </Event>
+    <Event InTC="01:10:07:13" OutTC="01:10:09:18" Forced="False">
+      <Graphic Width="398" Height="28" X="161" Y="410">subtitle_0769.png</Graphic>
+    </Event>
+    <Event InTC="01:10:10:14" OutTC="01:10:12:23" Forced="False">
+      <Graphic Width="398" Height="28" X="161" Y="410">subtitle_0770.png</Graphic>
+    </Event>
+    <Event InTC="01:10:12:23" OutTC="01:10:14:04" Forced="False">
+      <Graphic Width="213" Height="28" X="253" Y="410">subtitle_0771.png</Graphic>
+    </Event>
+    <Event InTC="01:10:17:16" OutTC="01:10:18:18" Forced="False">
+      <Graphic Width="133" Height="28" X="292" Y="410">subtitle_0772.png</Graphic>
+    </Event>
+    <Event InTC="01:10:19:07" OutTC="01:10:20:14" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0773.png</Graphic>
+    </Event>
+    <Event InTC="01:11:16:23" OutTC="01:11:18:08" Forced="False">
+      <Graphic Width="240" Height="23" X="239" Y="410">subtitle_0774.png</Graphic>
+    </Event>
+    <Event InTC="01:11:18:21" OutTC="01:11:20:08" Forced="False">
+      <Graphic Width="211" Height="28" X="253" Y="410">subtitle_0775.png</Graphic>
+    </Event>
+    <Event InTC="01:11:37:07" OutTC="01:11:39:21" Forced="False">
+      <Graphic Width="260" Height="28" X="229" Y="410">subtitle_0776.png</Graphic>
+    </Event>
+    <Event InTC="01:11:43:02" OutTC="01:11:44:06" Forced="False">
+      <Graphic Width="193" Height="23" X="262" Y="410">subtitle_0777.png</Graphic>
+    </Event>
+    <Event InTC="01:12:20:21" OutTC="01:12:22:10" Forced="False">
+      <Graphic Width="147" Height="28" X="285" Y="410">subtitle_0778.png</Graphic>
+    </Event>
+    <Event InTC="01:12:28:02" OutTC="01:12:29:07" Forced="False">
+      <Graphic Width="185" Height="28" X="267" Y="410">subtitle_0779.png</Graphic>
+    </Event>
+    <Event InTC="01:12:58:11" OutTC="01:13:00:06" Forced="False">
+      <Graphic Width="214" Height="23" X="253" Y="410">subtitle_0780.png</Graphic>
+    </Event>
+    <Event InTC="01:13:02:04" OutTC="01:13:04:08" Forced="False">
+      <Graphic Width="272" Height="26" X="222" Y="410">subtitle_0781.png</Graphic>
+    </Event>
+    <Event InTC="01:13:05:16" OutTC="01:13:08:22" Forced="False">
+      <Graphic Width="489" Height="28" X="115" Y="410">subtitle_0782.png</Graphic>
+    </Event>
+    <Event InTC="01:13:09:05" OutTC="01:13:12:01" Forced="False">
+      <Graphic Width="401" Height="28" X="158" Y="410">subtitle_0783.png</Graphic>
+    </Event>
+    <Event InTC="01:13:12:01" OutTC="01:13:14:05" Forced="False">
+      <Graphic Width="222" Height="28" X="248" Y="410">subtitle_0784.png</Graphic>
+    </Event>
+    <Event InTC="01:13:14:17" OutTC="01:13:16:04" Forced="False">
+      <Graphic Width="141" Height="23" X="289" Y="410">subtitle_0785.png</Graphic>
+    </Event>
+    <Event InTC="01:13:17:14" OutTC="01:13:19:06" Forced="False">
+      <Graphic Width="298" Height="28" X="211" Y="410">subtitle_0786.png</Graphic>
+    </Event>
+    <Event InTC="01:13:21:15" OutTC="01:13:24:01" Forced="False">
+      <Graphic Width="317" Height="28" X="201" Y="410">subtitle_0787.png</Graphic>
+    </Event>
+    <Event InTC="01:13:24:01" OutTC="01:13:27:21" Forced="False">
+      <Graphic Width="336" Height="60" X="191" Y="378">subtitle_0788.png</Graphic>
+    </Event>
+    <Event InTC="01:13:27:21" OutTC="01:13:29:20" Forced="False">
+      <Graphic Width="178" Height="23" X="270" Y="410">subtitle_0789.png</Graphic>
+    </Event>
+    <Event InTC="01:13:29:20" OutTC="01:13:32:11" Forced="False">
+      <Graphic Width="419" Height="28" X="149" Y="410">subtitle_0790.png</Graphic>
+    </Event>
+    <Event InTC="01:13:35:05" OutTC="01:13:36:23" Forced="False">
+      <Graphic Width="96" Height="26" X="311" Y="410">subtitle_0791.png</Graphic>
+    </Event>
+    <Event InTC="01:13:39:10" OutTC="01:13:40:23" Forced="False">
+      <Graphic Width="112" Height="23" X="303" Y="410">subtitle_0792.png</Graphic>
+    </Event>
+    <Event InTC="01:13:43:03" OutTC="01:13:45:09" Forced="False">
+      <Graphic Width="164" Height="28" X="277" Y="410">subtitle_0793.png</Graphic>
+    </Event>
+    <Event InTC="01:13:52:09" OutTC="01:13:54:09" Forced="False">
+      <Graphic Width="341" Height="28" X="189" Y="410">subtitle_0794.png</Graphic>
+    </Event>
+    <Event InTC="01:13:57:00" OutTC="01:14:01:04" Forced="False">
+      <Graphic Width="353" Height="60" X="182" Y="378">subtitle_0795.png</Graphic>
+    </Event>
+    <Event InTC="01:14:01:18" OutTC="01:14:05:03" Forced="False">
+      <Graphic Width="374" Height="60" X="173" Y="378">subtitle_0796.png</Graphic>
+    </Event>
+    <Event InTC="01:14:05:03" OutTC="01:14:06:14" Forced="False">
+      <Graphic Width="193" Height="28" X="262" Y="410">subtitle_0797.png</Graphic>
+    </Event>
+    <Event InTC="01:14:07:09" OutTC="01:14:11:19" Forced="False">
+      <Graphic Width="431" Height="55" X="144" Y="378">subtitle_0798.png</Graphic>
+    </Event>
+    <Event InTC="01:14:11:19" OutTC="01:14:13:13" Forced="False">
+      <Graphic Width="267" Height="28" X="225" Y="410">subtitle_0799.png</Graphic>
+    </Event>
+    <Event InTC="01:14:23:21" OutTC="01:14:26:10" Forced="False">
+      <Graphic Width="354" Height="28" X="182" Y="410">subtitle_0800.png</Graphic>
+    </Event>
+    <Event InTC="01:14:29:20" OutTC="01:14:33:08" Forced="False">
+      <Graphic Width="246" Height="28" X="236" Y="410">subtitle_0801.png</Graphic>
+    </Event>
+    <Event InTC="01:14:33:08" OutTC="01:14:34:10" Forced="False">
+      <Graphic Width="96" Height="28" X="311" Y="410">subtitle_0802.png</Graphic>
+    </Event>
+    <Event InTC="01:14:35:20" OutTC="01:14:37:14" Forced="False">
+      <Graphic Width="166" Height="28" X="276" Y="410">subtitle_0803.png</Graphic>
+    </Event>
+    <Event InTC="01:14:37:14" OutTC="01:14:39:08" Forced="False">
+      <Graphic Width="155" Height="28" X="282" Y="410">subtitle_0804.png</Graphic>
+    </Event>
+    <Event InTC="01:14:42:23" OutTC="01:14:44:15" Forced="False">
+      <Graphic Width="170" Height="26" X="274" Y="410">subtitle_0805.png</Graphic>
+    </Event>
+    <Event InTC="01:14:44:15" OutTC="01:14:46:06" Forced="False">
+      <Graphic Width="194" Height="28" X="263" Y="410">subtitle_0806.png</Graphic>
+    </Event>
+    <Event InTC="01:14:46:06" OutTC="01:14:48:08" Forced="False">
+      <Graphic Width="253" Height="28" X="233" Y="410">subtitle_0807.png</Graphic>
+    </Event>
+    <Event InTC="01:14:50:04" OutTC="01:14:52:04" Forced="False">
+      <Graphic Width="241" Height="28" X="238" Y="410">subtitle_0808.png</Graphic>
+    </Event>
+    <Event InTC="01:14:52:16" OutTC="01:14:54:01" Forced="False">
+      <Graphic Width="125" Height="28" X="296" Y="410">subtitle_0809.png</Graphic>
+    </Event>
+    <Event InTC="01:14:54:01" OutTC="01:14:56:01" Forced="False">
+      <Graphic Width="225" Height="28" X="246" Y="410">subtitle_0810.png</Graphic>
+    </Event>
+    <Event InTC="01:14:56:10" OutTC="01:14:57:24" Forced="False">
+      <Graphic Width="121" Height="26" X="298" Y="410">subtitle_0811.png</Graphic>
+    </Event>
+    <Event InTC="01:15:11:11" OutTC="01:15:12:19" Forced="False">
+      <Graphic Width="51" Height="23" X="334" Y="410">subtitle_0812.png</Graphic>
+    </Event>
+    <Event InTC="01:15:15:23" OutTC="01:15:17:17" Forced="False">
+      <Graphic Width="50" Height="23" X="334" Y="410">subtitle_0813.png</Graphic>
+    </Event>
+    <Event InTC="01:15:17:19" OutTC="01:15:19:18" Forced="False">
+      <Graphic Width="266" Height="28" X="226" Y="410">subtitle_0814.png</Graphic>
+    </Event>
+    <Event InTC="01:15:34:01" OutTC="01:15:43:09" Forced="False">
+      <Graphic Width="307" Height="26" X="206" Y="410">subtitle_0815.png</Graphic>
+    </Event>
+    <Event InTC="01:15:56:01" OutTC="01:15:57:07" Forced="False">
+      <Graphic Width="184" Height="28" X="267" Y="410">subtitle_0816.png</Graphic>
+    </Event>
+    <Event InTC="01:16:00:07" OutTC="01:16:02:03" Forced="False">
+      <Graphic Width="217" Height="28" X="250" Y="410">subtitle_0817.png</Graphic>
+    </Event>
+    <Event InTC="01:16:02:03" OutTC="01:16:03:09" Forced="False">
+      <Graphic Width="105" Height="23" X="307" Y="410">subtitle_0818.png</Graphic>
+    </Event>
+    <Event InTC="01:16:12:18" OutTC="01:16:14:00" Forced="False">
+      <Graphic Width="186" Height="28" X="267" Y="410">subtitle_0819.png</Graphic>
+    </Event>
+    <Event InTC="01:16:22:09" OutTC="01:16:23:17" Forced="False">
+      <Graphic Width="119" Height="23" X="301" Y="410">subtitle_0820.png</Graphic>
+    </Event>
+    <Event InTC="01:16:25:15" OutTC="01:16:28:01" Forced="False">
+      <Graphic Width="352" Height="28" X="184" Y="410">subtitle_0821.png</Graphic>
+    </Event>
+    <Event InTC="01:16:28:01" OutTC="01:16:31:03" Forced="False">
+      <Graphic Width="463" Height="28" X="128" Y="410">subtitle_0822.png</Graphic>
+    </Event>
+    <Event InTC="01:17:22:17" OutTC="01:17:24:10" Forced="False">
+      <Graphic Width="183" Height="23" X="268" Y="410">subtitle_0823.png</Graphic>
+    </Event>
+    <Event InTC="01:17:25:00" OutTC="01:17:26:17" Forced="False">
+      <Graphic Width="101" Height="28" X="308" Y="410">subtitle_0824.png</Graphic>
+    </Event>
+    <Event InTC="01:17:26:17" OutTC="01:17:28:05" Forced="False">
+      <Graphic Width="214" Height="28" X="253" Y="410">subtitle_0825.png</Graphic>
+    </Event>
+    <Event InTC="01:17:28:05" OutTC="01:17:31:15" Forced="False">
+      <Graphic Width="325" Height="28" X="195" Y="410">subtitle_0826.png</Graphic>
+    </Event>
+    <Event InTC="01:17:32:18" OutTC="01:17:33:24" Forced="False">
+      <Graphic Width="156" Height="28" X="281" Y="410">subtitle_0827.png</Graphic>
+    </Event>
+    <Event InTC="01:17:34:20" OutTC="01:17:38:18" Forced="False">
+      <Graphic Width="118" Height="28" X="300" Y="410">subtitle_0828.png</Graphic>
+    </Event>
+    <Event InTC="01:17:38:18" OutTC="01:17:40:00" Forced="False">
+      <Graphic Width="64" Height="23" X="327" Y="410">subtitle_0829.png</Graphic>
+    </Event>
+    <Event InTC="01:17:40:11" OutTC="01:17:41:17" Forced="False">
+      <Graphic Width="105" Height="28" X="307" Y="410">subtitle_0830.png</Graphic>
+    </Event>
+    <Event InTC="01:17:44:13" OutTC="01:17:46:13" Forced="False">
+      <Graphic Width="198" Height="28" X="261" Y="410">subtitle_0831.png</Graphic>
+    </Event>
+    <Event InTC="01:17:49:22" OutTC="01:17:53:20" Forced="False">
+      <Graphic Width="57" Height="28" X="331" Y="410">subtitle_0832.png</Graphic>
+    </Event>
+    <Event InTC="01:17:55:08" OutTC="01:17:57:03" Forced="False">
+      <Graphic Width="57" Height="28" X="331" Y="410">subtitle_0833.png</Graphic>
+    </Event>
+    <Event InTC="01:17:58:04" OutTC="01:17:59:09" Forced="False">
+      <Graphic Width="58" Height="23" X="330" Y="410">subtitle_0834.png</Graphic>
+    </Event>
+    <Event InTC="01:18:00:04" OutTC="01:18:01:14" Forced="False">
+      <Graphic Width="132" Height="28" X="293" Y="410">subtitle_0835.png</Graphic>
+    </Event>
+    <Event InTC="01:18:01:14" OutTC="01:18:03:06" Forced="False">
+      <Graphic Width="359" Height="28" X="180" Y="410">subtitle_0836.png</Graphic>
+    </Event>
+    <Event InTC="01:18:11:07" OutTC="01:18:12:08" Forced="False">
+      <Graphic Width="89" Height="23" X="314" Y="410">subtitle_0837.png</Graphic>
+    </Event>
+    <Event InTC="01:18:30:21" OutTC="01:18:32:13" Forced="False">
+      <Graphic Width="211" Height="28" X="254" Y="410">subtitle_0838.png</Graphic>
+    </Event>
+    <Event InTC="01:18:49:13" OutTC="01:18:51:00" Forced="False">
+      <Graphic Width="149" Height="28" X="284" Y="410">subtitle_0839.png</Graphic>
+    </Event>
+    <Event InTC="01:18:55:19" OutTC="01:18:57:11" Forced="False">
+      <Graphic Width="166" Height="28" X="277" Y="410">subtitle_0840.png</Graphic>
+    </Event>
+    <Event InTC="01:19:13:11" OutTC="01:19:15:23" Forced="False">
+      <Graphic Width="198" Height="28" X="261" Y="410">subtitle_0841.png</Graphic>
+    </Event>
+    <Event InTC="01:19:16:15" OutTC="01:19:18:06" Forced="False">
+      <Graphic Width="142" Height="23" X="289" Y="410">subtitle_0842.png</Graphic>
+    </Event>
+    <Event InTC="01:19:19:09" OutTC="01:19:22:18" Forced="False">
+      <Graphic Width="311" Height="28" X="204" Y="410">subtitle_0843.png</Graphic>
+    </Event>
+    <Event InTC="01:19:24:22" OutTC="01:19:26:02" Forced="False">
+      <Graphic Width="122" Height="28" X="299" Y="410">subtitle_0844.png</Graphic>
+    </Event>
+    <Event InTC="01:19:26:24" OutTC="01:19:28:11" Forced="False">
+      <Graphic Width="239" Height="28" X="240" Y="410">subtitle_0845.png</Graphic>
+    </Event>
+    <Event InTC="01:19:28:22" OutTC="01:19:31:20" Forced="False">
+      <Graphic Width="365" Height="60" X="176" Y="378">subtitle_0846.png</Graphic>
+    </Event>
+    <Event InTC="01:19:32:07" OutTC="01:19:34:09" Forced="False">
+      <Graphic Width="151" Height="28" X="283" Y="410">subtitle_0847.png</Graphic>
+    </Event>
+    <Event InTC="01:19:34:09" OutTC="01:19:35:14" Forced="False">
+      <Graphic Width="200" Height="28" X="259" Y="410">subtitle_0848.png</Graphic>
+    </Event>
+    <Event InTC="01:19:36:15" OutTC="01:19:38:11" Forced="False">
+      <Graphic Width="139" Height="28" X="290" Y="410">subtitle_0849.png</Graphic>
+    </Event>
+    <Event InTC="01:19:38:23" OutTC="01:19:40:07" Forced="False">
+      <Graphic Width="191" Height="28" X="264" Y="410">subtitle_0850.png</Graphic>
+    </Event>
+    <Event InTC="01:19:40:07" OutTC="01:19:42:04" Forced="False">
+      <Graphic Width="274" Height="28" X="222" Y="410">subtitle_0851.png</Graphic>
+    </Event>
+    <Event InTC="01:19:44:14" OutTC="01:19:46:00" Forced="False">
+      <Graphic Width="208" Height="28" X="255" Y="410">subtitle_0852.png</Graphic>
+    </Event>
+    <Event InTC="01:19:48:18" OutTC="01:19:49:24" Forced="False">
+      <Graphic Width="66" Height="23" X="327" Y="410">subtitle_0853.png</Graphic>
+    </Event>
+    <Event InTC="01:19:51:14" OutTC="01:19:52:21" Forced="False">
+      <Graphic Width="166" Height="28" X="276" Y="410">subtitle_0854.png</Graphic>
+    </Event>
+    <Event InTC="01:19:52:21" OutTC="01:19:55:06" Forced="False">
+      <Graphic Width="192" Height="28" X="263" Y="410">subtitle_0855.png</Graphic>
+    </Event>
+    <Event InTC="01:19:55:06" OutTC="01:19:56:11" Forced="False">
+      <Graphic Width="127" Height="28" X="295" Y="410">subtitle_0856.png</Graphic>
+    </Event>
+    <Event InTC="01:19:56:11" OutTC="01:19:59:17" Forced="False">
+      <Graphic Width="335" Height="55" X="192" Y="378">subtitle_0857.png</Graphic>
+    </Event>
+    <Event InTC="01:19:59:17" OutTC="01:20:01:04" Forced="False">
+      <Graphic Width="241" Height="28" X="239" Y="410">subtitle_0858.png</Graphic>
+    </Event>
+    <Event InTC="01:20:01:04" OutTC="01:20:04:04" Forced="False">
+      <Graphic Width="384" Height="28" X="168" Y="410">subtitle_0859.png</Graphic>
+    </Event>
+    <Event InTC="01:20:04:04" OutTC="01:20:07:17" Forced="False">
+      <Graphic Width="418" Height="28" X="150" Y="410">subtitle_0860.png</Graphic>
+    </Event>
+    <Event InTC="01:20:07:17" OutTC="01:20:10:12" Forced="False">
+      <Graphic Width="463" Height="28" X="127" Y="410">subtitle_0861.png</Graphic>
+    </Event>
+    <Event InTC="01:20:10:15" OutTC="01:20:11:18" Forced="False">
+      <Graphic Width="65" Height="23" X="326" Y="410">subtitle_0862.png</Graphic>
+    </Event>
+    <Event InTC="01:20:15:08" OutTC="01:20:16:21" Forced="False">
+      <Graphic Width="183" Height="23" X="268" Y="410">subtitle_0863.png</Graphic>
+    </Event>
+    <Event InTC="01:20:17:02" OutTC="01:20:19:19" Forced="False">
+      <Graphic Width="437" Height="28" X="140" Y="410">subtitle_0864.png</Graphic>
+    </Event>
+    <Event InTC="01:20:19:19" OutTC="01:20:23:03" Forced="False">
+      <Graphic Width="300" Height="60" X="209" Y="378">subtitle_0865.png</Graphic>
+    </Event>
+    <Event InTC="01:20:23:03" OutTC="01:20:25:24" Forced="False">
+      <Graphic Width="365" Height="28" X="176" Y="410">subtitle_0866.png</Graphic>
+    </Event>
+    <Event InTC="01:20:25:24" OutTC="01:20:27:21" Forced="False">
+      <Graphic Width="281" Height="28" X="218" Y="410">subtitle_0867.png</Graphic>
+    </Event>
+    <Event InTC="01:20:27:21" OutTC="01:20:31:07" Forced="False">
+      <Graphic Width="311" Height="28" X="204" Y="410">subtitle_0868.png</Graphic>
+    </Event>
+    <Event InTC="01:20:31:07" OutTC="01:20:35:01" Forced="False">
+      <Graphic Width="300" Height="55" X="208" Y="378">subtitle_0869.png</Graphic>
+    </Event>
+    <Event InTC="01:20:35:15" OutTC="01:20:39:18" Forced="False">
+      <Graphic Width="348" Height="60" X="185" Y="378">subtitle_0870.png</Graphic>
+    </Event>
+    <Event InTC="01:20:46:23" OutTC="01:20:48:08" Forced="False">
+      <Graphic Width="160" Height="23" X="279" Y="410">subtitle_0871.png</Graphic>
+    </Event>
+    <Event InTC="01:20:48:21" OutTC="01:20:50:08" Forced="False">
+      <Graphic Width="158" Height="26" X="281" Y="410">subtitle_0872.png</Graphic>
+    </Event>
+    <Event InTC="01:20:51:20" OutTC="01:20:54:21" Forced="False">
+      <Graphic Width="453" Height="23" X="132" Y="410">subtitle_0873.png</Graphic>
+    </Event>
+    <Event InTC="01:20:56:10" OutTC="01:20:58:06" Forced="False">
+      <Graphic Width="368" Height="28" X="174" Y="410">subtitle_0874.png</Graphic>
+    </Event>
+    <Event InTC="01:20:58:06" OutTC="01:20:59:21" Forced="False">
+      <Graphic Width="154" Height="28" X="282" Y="410">subtitle_0875.png</Graphic>
+    </Event>
+    <Event InTC="01:20:59:21" OutTC="01:21:01:16" Forced="False">
+      <Graphic Width="262" Height="28" X="228" Y="410">subtitle_0876.png</Graphic>
+    </Event>
+    <Event InTC="01:21:01:16" OutTC="01:21:03:21" Forced="False">
+      <Graphic Width="341" Height="28" X="189" Y="410">subtitle_0877.png</Graphic>
+    </Event>
+    <Event InTC="01:21:04:18" OutTC="01:21:06:16" Forced="False">
+      <Graphic Width="183" Height="28" X="268" Y="410">subtitle_0878.png</Graphic>
+    </Event>
+    <Event InTC="01:21:10:01" OutTC="01:21:13:22" Forced="False">
+      <Graphic Width="237" Height="23" X="241" Y="410">subtitle_0879.png</Graphic>
+    </Event>
+    <Event InTC="01:21:19:12" OutTC="01:21:21:00" Forced="False">
+      <Graphic Width="184" Height="26" X="267" Y="410">subtitle_0880.png</Graphic>
+    </Event>
+    <Event InTC="01:21:33:21" OutTC="01:21:36:22" Forced="False">
+      <Graphic Width="308" Height="55" X="205" Y="378">subtitle_0881.png</Graphic>
+    </Event>
+    <Event InTC="01:21:36:22" OutTC="01:21:38:12" Forced="False">
+      <Graphic Width="84" Height="23" X="317" Y="410">subtitle_0882.png</Graphic>
+    </Event>
+    <Event InTC="01:21:39:02" OutTC="01:21:41:08" Forced="False">
+      <Graphic Width="65" Height="23" X="326" Y="410">subtitle_0883.png</Graphic>
+    </Event>
+    <Event InTC="01:21:44:21" OutTC="01:21:47:05" Forced="False">
+      <Graphic Width="414" Height="28" X="153" Y="410">subtitle_0884.png</Graphic>
+    </Event>
+    <Event InTC="01:21:47:05" OutTC="01:21:49:24" Forced="False">
+      <Graphic Width="373" Height="28" X="172" Y="410">subtitle_0885.png</Graphic>
+    </Event>
+    <Event InTC="01:21:51:09" OutTC="01:21:52:24" Forced="False">
+      <Graphic Width="124" Height="28" X="297" Y="410">subtitle_0886.png</Graphic>
+    </Event>
+    <Event InTC="01:22:23:09" OutTC="01:22:26:03" Forced="False">
+      <Graphic Width="388" Height="28" X="165" Y="410">subtitle_0887.png</Graphic>
+    </Event>
+    <Event InTC="01:22:26:20" OutTC="01:22:29:12" Forced="False">
+      <Graphic Width="343" Height="28" X="187" Y="410">subtitle_0888.png</Graphic>
+    </Event>
+    <Event InTC="01:22:29:12" OutTC="01:22:32:03" Forced="False">
+      <Graphic Width="432" Height="28" X="143" Y="410">subtitle_0889.png</Graphic>
+    </Event>
+    <Event InTC="01:22:32:03" OutTC="01:22:34:22" Forced="False">
+      <Graphic Width="428" Height="28" X="145" Y="410">subtitle_0890.png</Graphic>
+    </Event>
+    <Event InTC="01:22:57:00" OutTC="01:22:58:14" Forced="False">
+      <Graphic Width="289" Height="28" X="215" Y="410">subtitle_0891.png</Graphic>
+    </Event>
+    <Event InTC="01:22:59:04" OutTC="01:23:01:06" Forced="False">
+      <Graphic Width="203" Height="23" X="257" Y="410">subtitle_0892.png</Graphic>
+    </Event>
+    <Event InTC="01:23:10:05" OutTC="01:23:12:17" Forced="False">
+      <Graphic Width="176" Height="23" X="270" Y="410">subtitle_0893.png</Graphic>
+    </Event>
+    <Event InTC="01:23:43:20" OutTC="01:23:46:20" Forced="False">
+      <Graphic Width="342" Height="60" X="188" Y="378">subtitle_0894.png</Graphic>
+    </Event>
+    <Event InTC="01:23:47:20" OutTC="01:23:51:03" Forced="False">
+      <Graphic Width="405" Height="60" X="157" Y="378">subtitle_0895.png</Graphic>
+    </Event>
+    <Event InTC="01:23:51:19" OutTC="01:23:53:17" Forced="False">
+      <Graphic Width="224" Height="28" X="246" Y="410">subtitle_0896.png</Graphic>
+    </Event>
+    <Event InTC="01:23:55:00" OutTC="01:23:57:07" Forced="False">
+      <Graphic Width="459" Height="28" X="129" Y="410">subtitle_0897.png</Graphic>
+    </Event>
+    <Event InTC="01:23:57:07" OutTC="01:23:58:20" Forced="False">
+      <Graphic Width="265" Height="28" X="226" Y="410">subtitle_0898.png</Graphic>
+    </Event>
+    <Event InTC="01:24:06:02" OutTC="01:24:09:23" Forced="False">
+      <Graphic Width="508" Height="28" X="104" Y="410">subtitle_0899.png</Graphic>
+    </Event>
+    <Event InTC="01:24:20:21" OutTC="01:24:22:10" Forced="False">
+      <Graphic Width="141" Height="23" X="290" Y="410">subtitle_0900.png</Graphic>
+    </Event>
+    <Event InTC="01:24:23:01" OutTC="01:24:26:00" Forced="False">
+      <Graphic Width="240" Height="60" X="239" Y="378">subtitle_0901.png</Graphic>
+    </Event>
+    <Event InTC="01:24:26:00" OutTC="01:24:27:10" Forced="False">
+      <Graphic Width="157" Height="28" X="280" Y="410">subtitle_0902.png</Graphic>
+    </Event>
+    <Event InTC="01:24:29:00" OutTC="01:24:30:19" Forced="False">
+      <Graphic Width="403" Height="28" X="159" Y="410">subtitle_0903.png</Graphic>
+    </Event>
+    <Event InTC="01:24:30:19" OutTC="01:24:32:12" Forced="False">
+      <Graphic Width="159" Height="28" X="280" Y="410">subtitle_0904.png</Graphic>
+    </Event>
+    <Event InTC="01:24:32:12" OutTC="01:24:33:20" Forced="False">
+      <Graphic Width="144" Height="23" X="287" Y="410">subtitle_0905.png</Graphic>
+    </Event>
+    <Event InTC="01:24:33:20" OutTC="01:24:34:23" Forced="False">
+      <Graphic Width="90" Height="23" X="315" Y="410">subtitle_0906.png</Graphic>
+    </Event>
+    <Event InTC="01:24:37:24" OutTC="01:24:39:05" Forced="False">
+      <Graphic Width="185" Height="28" X="267" Y="410">subtitle_0907.png</Graphic>
+    </Event>
+    <Event InTC="01:24:39:12" OutTC="01:24:41:02" Forced="False">
+      <Graphic Width="204" Height="23" X="257" Y="410">subtitle_0908.png</Graphic>
+    </Event>
+    <Event InTC="01:24:42:11" OutTC="01:24:45:00" Forced="False">
+      <Graphic Width="388" Height="28" X="164" Y="410">subtitle_0909.png</Graphic>
+    </Event>
+    <Event InTC="01:24:45:00" OutTC="01:24:47:06" Forced="False">
+      <Graphic Width="279" Height="28" X="220" Y="410">subtitle_0910.png</Graphic>
+    </Event>
+    <Event InTC="01:24:47:20" OutTC="01:24:50:03" Forced="False">
+      <Graphic Width="370" Height="28" X="174" Y="410">subtitle_0911.png</Graphic>
+    </Event>
+    <Event InTC="01:24:50:11" OutTC="01:24:53:21" Forced="False">
+      <Graphic Width="247" Height="60" X="235" Y="378">subtitle_0912.png</Graphic>
+    </Event>
+    <Event InTC="01:24:53:21" OutTC="01:24:55:19" Forced="False">
+      <Graphic Width="289" Height="28" X="215" Y="410">subtitle_0913.png</Graphic>
+    </Event>
+    <Event InTC="01:24:57:09" OutTC="01:24:59:14" Forced="False">
+      <Graphic Width="230" Height="23" X="244" Y="410">subtitle_0914.png</Graphic>
+    </Event>
+    <Event InTC="01:24:59:14" OutTC="01:25:01:23" Forced="False">
+      <Graphic Width="366" Height="23" X="176" Y="410">subtitle_0915.png</Graphic>
+    </Event>
+    <Event InTC="01:25:01:23" OutTC="01:25:04:10" Forced="False">
+      <Graphic Width="427" Height="28" X="146" Y="410">subtitle_0916.png</Graphic>
+    </Event>
+    <Event InTC="01:25:04:10" OutTC="01:25:06:06" Forced="False">
+      <Graphic Width="144" Height="23" X="286" Y="410">subtitle_0917.png</Graphic>
+    </Event>
+    <Event InTC="01:25:22:03" OutTC="01:25:24:00" Forced="False">
+      <Graphic Width="270" Height="28" X="225" Y="410">subtitle_0918.png</Graphic>
+    </Event>
+    <Event InTC="01:25:29:07" OutTC="01:25:31:05" Forced="False">
+      <Graphic Width="256" Height="28" X="231" Y="410">subtitle_0919.png</Graphic>
+    </Event>
+    <Event InTC="01:25:45:03" OutTC="01:25:46:06" Forced="False">
+      <Graphic Width="50" Height="28" X="335" Y="410">subtitle_0920.png</Graphic>
+    </Event>
+    <Event InTC="01:25:56:05" OutTC="01:25:58:17" Forced="False">
+      <Graphic Width="420" Height="28" X="149" Y="410">subtitle_0921.png</Graphic>
+    </Event>
+    <Event InTC="01:25:59:03" OutTC="01:26:02:21" Forced="False">
+      <Graphic Width="336" Height="28" X="191" Y="410">subtitle_0922.png</Graphic>
+    </Event>
+    <Event InTC="01:26:02:21" OutTC="01:26:04:03" Forced="False">
+      <Graphic Width="97" Height="26" X="310" Y="410">subtitle_0923.png</Graphic>
+    </Event>
+    <Event InTC="01:26:04:03" OutTC="01:26:06:21" Forced="False">
+      <Graphic Width="278" Height="28" X="220" Y="410">subtitle_0924.png</Graphic>
+    </Event>
+    <Event InTC="01:26:07:14" OutTC="01:26:09:24" Forced="False">
+      <Graphic Width="143" Height="28" X="288" Y="410">subtitle_0925.png</Graphic>
+    </Event>
+    <Event InTC="01:26:09:24" OutTC="01:26:12:08" Forced="False">
+      <Graphic Width="170" Height="28" X="274" Y="410">subtitle_0926.png</Graphic>
+    </Event>
+    <Event InTC="01:26:15:12" OutTC="01:26:17:08" Forced="False">
+      <Graphic Width="70" Height="28" X="325" Y="410">subtitle_0927.png</Graphic>
+    </Event>
+    <Event InTC="01:26:17:08" OutTC="01:26:20:13" Forced="False">
+      <Graphic Width="448" Height="28" X="136" Y="410">subtitle_0928.png</Graphic>
+    </Event>
+    <Event InTC="01:26:21:04" OutTC="01:26:22:19" Forced="False">
+      <Graphic Width="195" Height="23" X="262" Y="410">subtitle_0929.png</Graphic>
+    </Event>
+    <Event InTC="01:26:23:07" OutTC="01:26:25:24" Forced="False">
+      <Graphic Width="365" Height="28" X="176" Y="410">subtitle_0930.png</Graphic>
+    </Event>
+    <Event InTC="01:26:27:13" OutTC="01:26:30:14" Forced="False">
+      <Graphic Width="458" Height="28" X="131" Y="410">subtitle_0931.png</Graphic>
+    </Event>
+    <Event InTC="01:26:31:21" OutTC="01:26:34:12" Forced="False">
+      <Graphic Width="331" Height="28" X="193" Y="410">subtitle_0932.png</Graphic>
+    </Event>
+    <Event InTC="01:26:34:12" OutTC="01:26:35:20" Forced="False">
+      <Graphic Width="207" Height="28" X="256" Y="410">subtitle_0933.png</Graphic>
+    </Event>
+    <Event InTC="01:26:45:03" OutTC="01:26:49:04" Forced="False">
+      <Graphic Width="298" Height="60" X="210" Y="378">subtitle_0934.png</Graphic>
+    </Event>
+    <Event InTC="01:26:50:02" OutTC="01:26:53:18" Forced="False">
+      <Graphic Width="460" Height="58" X="129" Y="378">subtitle_0935.png</Graphic>
+    </Event>
+    <Event InTC="01:26:53:18" OutTC="01:26:56:00" Forced="False">
+      <Graphic Width="324" Height="23" X="196" Y="410">subtitle_0936.png</Graphic>
+    </Event>
+    <Event InTC="01:26:56:14" OutTC="01:26:58:10" Forced="False">
+      <Graphic Width="246" Height="23" X="236" Y="410">subtitle_0937.png</Graphic>
+    </Event>
+    <Event InTC="01:26:58:10" OutTC="01:27:02:13" Forced="False">
+      <Graphic Width="334" Height="26" X="192" Y="410">subtitle_0938.png</Graphic>
+    </Event>
+    <Event InTC="01:27:02:13" OutTC="01:27:06:09" Forced="False">
+      <Graphic Width="495" Height="28" X="112" Y="410">subtitle_0939.png</Graphic>
+    </Event>
+    <Event InTC="01:27:06:09" OutTC="01:27:08:10" Forced="False">
+      <Graphic Width="371" Height="23" X="173" Y="410">subtitle_0940.png</Graphic>
+    </Event>
+    <Event InTC="01:27:08:10" OutTC="01:27:11:06" Forced="False">
+      <Graphic Width="457" Height="28" X="131" Y="410">subtitle_0941.png</Graphic>
+    </Event>
+    <Event InTC="01:27:11:06" OutTC="01:27:12:24" Forced="False">
+      <Graphic Width="174" Height="23" X="272" Y="410">subtitle_0942.png</Graphic>
+    </Event>
+    <Event InTC="01:27:12:24" OutTC="01:27:15:24" Forced="False">
+      <Graphic Width="380" Height="28" X="169" Y="410">subtitle_0943.png</Graphic>
+    </Event>
+    <Event InTC="01:27:15:24" OutTC="01:27:17:23" Forced="False">
+      <Graphic Width="336" Height="28" X="190" Y="410">subtitle_0944.png</Graphic>
+    </Event>
+    <Event InTC="01:27:18:07" OutTC="01:27:20:22" Forced="False">
+      <Graphic Width="457" Height="28" X="131" Y="410">subtitle_0945.png</Graphic>
+    </Event>
+    <Event InTC="01:27:21:17" OutTC="01:27:24:21" Forced="False">
+      <Graphic Width="182" Height="28" X="268" Y="410">subtitle_0946.png</Graphic>
+    </Event>
+    <Event InTC="01:27:26:10" OutTC="01:27:28:00" Forced="False">
+      <Graphic Width="291" Height="28" X="213" Y="410">subtitle_0947.png</Graphic>
+    </Event>
+    <Event InTC="01:27:30:04" OutTC="01:27:31:19" Forced="False">
+      <Graphic Width="183" Height="28" X="268" Y="410">subtitle_0948.png</Graphic>
+    </Event>
+    <Event InTC="01:27:35:23" OutTC="01:27:37:04" Forced="False">
+      <Graphic Width="38" Height="23" X="341" Y="410">subtitle_0949.png</Graphic>
+    </Event>
+    <Event InTC="01:27:38:04" OutTC="01:27:39:13" Forced="False">
+      <Graphic Width="147" Height="23" X="285" Y="410">subtitle_0950.png</Graphic>
+    </Event>
+    <Event InTC="01:29:25:07" OutTC="01:29:29:10" Forced="False">
+      <Graphic Width="137" Height="28" X="292" Y="410">subtitle_0951.png</Graphic>
+    </Event>
+  </Events>
+</BDN>

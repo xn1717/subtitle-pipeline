@@ -1,0 +1,79 @@
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+【架設環境（只需做一次） macOS】
+# 安裝虛擬環境
+python -m venv venv
+# 安裝整個環境
+pip install -r requirements.txt
+# 系統設定 → 隱私權與安全性 → 完整磁碟取用（Full Disk Access）
+# 確認你的 終端機（Terminal 或 iTerm2） 已勾選啟用
+# 關閉終端機再重新開啟後重試
+
+【架設環境（只需做一次） Windows】
+# 建立與啟動虛擬環境
+python -m venv venv
+# 安裝依賴套件
+pip install -r requirements.txt
+# 若遇到權限問題，請以系統管理員身分開啟命令提示字元或 PowerShell。
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+【macos】#依序放入終端機
+cd /Users/{Username}/Desktop/subtitle-pipeline
+source .venv/bin/activate  
+python app.py
+# 把這串網址貼到chrome
+http://127.0.0.1:5000
+
+【windows】#依序放入終端機
+cd C:\Users\{Username}\Desktop\subtitle-pipeline
+venv\Scripts\activate
+python app.py
+# 把這串網址貼到chrome
+http://127.0.0.1:5000
+
+
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+全域變數
+from config import *
+
+1
+進去 config.py 改要處理的檔案的名稱 跟雲端硬碟連結
+python config.py
+
+2
+python download_assets.py
+檢查data檔是不是有{檔名}資料夾＋對應xml檔
+
+3
+python ocr_paddle.py
+
+4
+python ocr_gemini.py
+
+4(暫無)
+python llm.py
+
+5
+python xml_to_srt.py
+檢查output檔是不是有兩個srt檔案
+
+6
+python merge_srt.py
+檢查output檔是不是有merge.srt檔案
+
+結束後可輸入
+deactivate
+
+# 清空data資料夾跟output資料夾 macOS / Linux
+rm -rf data/* 
+rm -rf output/*
+
+Windows（PowerShell）
+Remove-Item -Recurse -Force data\* , output\*
+
+# AIzaSyATfKp6HSOoomSbnYdvVjlYAhII4s4v_Mo

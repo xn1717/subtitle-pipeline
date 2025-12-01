@@ -23,12 +23,6 @@ def run_step(cmd, timeout=None):
     out = (proc.stdout or "") + ("\n" + proc.stderr if proc.stderr else "")
     return proc.returncode, out
 
-def translate_hook(direction: str):
-    """翻譯步驟預留。"""
-    if direction in (None, "", "none"):
-        return 0, "Skip translation."
-    # TODO: return run_step(["translate.py", "--mode", direction])
-    return 0, f"[placeholder] translation mode = {direction}"
 
 @app.get("/")
 def index():
@@ -86,10 +80,17 @@ def run_pipeline():
 
 
     # 3) translate
-    code, out = translate_hook(cfg.get("translate", "none"))
-    logs.append(("translate", code, out))
-    if code != 0:
-        return jsonify({"ok": False, "logs": logs})
+    translate_mode = (cfg.get("translate") or "none").lower()
+
+    if translate_mode == "none":
+        logs.append(("trans.py", 0, "Skip translation."))
+    else:
+        code, out = run_step(["trans.py"])
+        logs.append(("trans.py", code, out))
+        if code != 0:
+            return jsonify({"ok": False, "logs": logs})
+
+
 
     # 4) xml_to_srt
     code, out = run_step(["xml_to_srt.py"])

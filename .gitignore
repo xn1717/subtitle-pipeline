@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# API Key / config
+config.json
+
+# Generated output
+data/
+output/
+
+# Logs
+*.log
+
+note.txt
